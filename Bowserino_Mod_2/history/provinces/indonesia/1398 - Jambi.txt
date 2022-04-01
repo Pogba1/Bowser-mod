@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=MLY
+add_core=PHG
+add_core=PLB
+trade_goods = grain
+life_rating = 31
+colonial=2

@@ -1,0 +1,102 @@
+2125 = {
+	soldiers=
+	{
+		culture = svart
+		religion = animist
+		size= 360
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = animist
+		size= 33940
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = animist
+		size= 1440
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = animist
+		size= 302
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = animist
+		size= 233
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = animist
+		size= 53
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = animist
+		size= 47
+	}
+
+}
+2128 = {
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 9767
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 416
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 67
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 13
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 5
+	}
+
+}

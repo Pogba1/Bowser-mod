@@ -1,0 +1,242 @@
+2191 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 584
+	}
+
+	craftsmen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 4406
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 2042
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 95
+	}
+
+	clerks=
+	{
+		culture = mayan
+		religion = mayan
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 12
+	}
+
+	capitalists=
+	{
+		culture = mayan
+		religion = mayan
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 21578
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 499
+	}
+
+	craftsmen=
+	{
+		culture = mayan
+		religion = animist
+		size= 3764
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size= 5532
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size= 257
+	}
+
+	clerks=
+	{
+		culture = mayan
+		religion = animist
+		size= 360
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size= 32
+	}
+
+	capitalists=
+	{
+		culture = mayan
+		religion = animist
+		size= 183
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 664
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 13595
+	}
+
+}
+2192 = {
+	soldiers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 425
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = mayan
+		size= 1486
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = mayan
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = mayan
+		size= 178
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = mayan
+		size= 19054
+	}
+
+	soldiers=
+	{
+		culture = mayan
+		religion = animist
+		size= 363
+	}
+
+	artisans=
+	{
+		culture = mayan
+		religion = animist
+		size= 4025
+	}
+
+	clergymen=
+	{
+		culture = mayan
+		religion = animist
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = mayan
+		religion = animist
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = mayan
+		religion = animist
+		size= 483
+	}
+
+	farmers=
+	{
+		culture = mayan
+		religion = animist
+		size= 13027
+	}
+
+}

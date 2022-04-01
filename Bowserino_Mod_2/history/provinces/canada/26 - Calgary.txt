@@ -1,0 +1,6 @@
+owner=NOV
+controller=NOV
+trade_goods = timber
+life_rating = 31
+terrain = plains
+colonial=2

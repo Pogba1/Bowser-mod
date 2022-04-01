@@ -1,0 +1,909 @@
+2024 = {
+	soldiers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 456
+	}
+
+	farmers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 45189
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 3118
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 52
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 2037
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 855
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 330
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 25
+	}
+
+}
+2025 = {
+	aristocrats=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 650
+	}
+
+	soldiers=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 11875
+	}
+
+	aristocrats=
+	{
+		culture = oromo
+		religion = coptic
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = oromo
+		religion = coptic
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = oromo
+		religion = coptic
+		size= 250
+	}
+
+	soldiers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = oromo
+		religion = coptic
+		size= 4575
+	}
+
+}
+2026 = {
+	slaves=
+	{
+		culture = luo
+		religion = shamanism
+		size= 1320
+	}
+
+	soldiers=
+	{
+		culture = luo
+		religion = shamanism
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = luo
+		religion = shamanism
+		size= 9610
+	}
+
+	slaves=
+	{
+		culture = somali
+		religion = coptic
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 157
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 463
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 97
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 5
+	}
+
+}
+2027 = {
+	slaves=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 2297
+	}
+
+	soldiers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 246
+	}
+
+	farmers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 22036
+	}
+
+	slaves=
+	{
+		culture = somali
+		religion = coptic
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 1045
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 1069
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 200
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 225
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 21
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 13
+	}
+
+}
+2028 = {
+	slaves=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 5063
+	}
+
+	soldiers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 355
+	}
+
+	farmers=
+	{
+		culture = maasai
+		religion = shamanism
+		size= 30093
+	}
+
+	slaves=
+	{
+		culture = somali
+		religion = coptic
+		size= 452
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 1354
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 28
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 1546
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 289
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 19
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 30
+	}
+
+}
+2029 = {
+	slaves=
+	{
+		culture = swahili
+		religion = sunni
+		size= 2485
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size= 1455
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 262
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 16287
+	}
+
+	slaves=
+	{
+		culture = swahili
+		religion = coptic
+		size= 3916
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = coptic
+		size= 328
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = coptic
+		size= 6043
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = coptic
+		size= 281
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = coptic
+		size= 39
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = coptic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = coptic
+		size= 1088
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = coptic
+		size= 21016
+	}
+
+}
+2030 = {
+	slaves=
+	{
+		culture = swahili
+		religion = sunni
+		size= 4759
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 2737
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = sunni
+		size= 4045
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = sunni
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 49
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = sunni
+		size= 728
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = sunni
+		size= 47198
+	}
+
+	slaves=
+	{
+		culture = swahili
+		religion = coptic
+		size= 10762
+	}
+
+	soldiers=
+	{
+		culture = swahili
+		religion = coptic
+		size= 6189
+	}
+
+	artisans=
+	{
+		culture = swahili
+		religion = coptic
+		size= 23116
+	}
+
+	clergymen=
+	{
+		culture = swahili
+		religion = coptic
+		size= 1073
+	}
+
+	bureaucrats=
+	{
+		culture = swahili
+		religion = coptic
+		size= 280
+	}
+
+	officers=
+	{
+		culture = swahili
+		religion = coptic
+		size= 479
+	}
+
+	aristocrats=
+	{
+		culture = swahili
+		religion = coptic
+		size= 4161
+	}
+
+	farmers=
+	{
+		culture = swahili
+		religion = coptic
+		size= 88461
+	}
+
+}
+2031 = {
+	slaves=
+	{
+		culture = sidama
+		religion = coptic
+		size= 763
+	}
+
+	soldiers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 486
+	}
+
+	artisans=
+	{
+		culture = sidama
+		religion = coptic
+		size= 347
+	}
+
+	clergymen=
+	{
+		culture = sidama
+		religion = coptic
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = sidama
+		religion = coptic
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = sidama
+		religion = coptic
+		size= 15460
+	}
+
+	slaves=
+	{
+		culture = somali
+		religion = coptic
+		size= 1439
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 916
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 1655
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 538
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 54
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 695
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 27330
+	}
+
+}
+2032 = {
+	soldiers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 284
+	}
+
+	artisans=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 101
+	}
+
+	clergymen=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = kikuyu
+		religion = shamanism
+		size= 9627
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 1829
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 594
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 1537
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = sunni
+		size= 234
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = sunni
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = sunni
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = sunni
+		size= 15688
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 575
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 17079
+	}
+
+}
+2033 = {
+	aristocrats=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 250
+	}
+
+	artisans=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 1300
+	}
+
+	soldiers=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 20725
+	}
+
+	slaves=
+	{
+		culture = kikuyu
+		religion = animist
+		size= 3000
+	}
+
+}

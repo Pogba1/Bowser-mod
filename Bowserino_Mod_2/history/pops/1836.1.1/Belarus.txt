@@ -1,0 +1,1890 @@
+718 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 2569
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 3677
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 307
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 48
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 350
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 77025
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 332
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 4629
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 386
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 61
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 441
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 4823
+	}
+
+}
+936 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 836
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 216
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 247
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 52242
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 81
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 1058
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 314
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 5782
+	}
+
+}
+937 = {
+	soldiers=
+	{
+		culture = polish
+		religion = animist
+		size= 590
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = animist
+		size= 2620
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = animist
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = animist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = animist
+		size= 294
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = animist
+		size= 56609
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = protestant
+		size= 78
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = protestant
+		size= 3306
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = protestant
+		size= 276
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = protestant
+		size= 62
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = protestant
+		size= 371
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = protestant
+		size= 3712
+	}
+
+}
+938 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 3408
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 627
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 66014
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 704
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 3294
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 743
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 8635
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 912
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 183
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 548
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 4351
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 2881
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 305
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 61
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 183
+	}
+
+}
+939 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 446
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 2139
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 45996
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2690
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 282
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2939
+	}
+
+}
+940 = {
+	soldiers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 964
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 4405
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 351
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 92744
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 129
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 5578
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 445
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 505
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 6291
+	}
+
+}
+941 = {
+	soldiers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 789
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 40
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = orthodox
+		size= 21081
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 43
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 3098
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 34
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 2376
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 25
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = protestant
+		size= 751
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 817
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 5929
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 298
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 62
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 371
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = animist
+		size= 75927
+	}
+
+	soldiers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 7516
+	}
+
+	clergymen=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 78
+	}
+
+	officers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 470
+	}
+
+	farmers=
+	{
+		culture = ukrainian
+		religion = protestant
+		size= 2696
+	}
+
+}
+942 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 394
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 619
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 40581
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 779
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 234
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 3861
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 223
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = sunni
+		size= 23286
+	}
+
+	soldiers=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 148
+	}
+
+	artisans=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 990
+	}
+
+	clergymen=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 50
+	}
+
+	officers=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = pecheneg
+		religion = animist
+		size= 13829
+	}
+
+}
+944 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 1546
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 5162
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 299
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 68195
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 6238
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 267
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 361
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 570
+	}
+
+}
+945 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 6705
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 472
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 60934
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1533
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 688
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 64
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 12572
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1261
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1515
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 712
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 59
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 496
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 8118
+	}
+
+}
+946 = {
+	soldiers=
+	{
+		culture = russian
+		religion = animist
+		size= 866
+	}
+
+	artisans=
+	{
+		culture = russian
+		religion = animist
+		size= 3081
+	}
+
+	clergymen=
+	{
+		culture = russian
+		religion = animist
+		size= 346
+	}
+
+	bureaucrats=
+	{
+		culture = russian
+		religion = animist
+		size= 70
+	}
+
+	officers=
+	{
+		culture = russian
+		religion = animist
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = russian
+		religion = animist
+		size= 211
+	}
+
+	farmers=
+	{
+		culture = russian
+		religion = animist
+		size= 82324
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 200
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 4502
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 506
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 103
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 308
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 14504
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 196
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 10367
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1164
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 236
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 709
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 7182
+	}
+
+}
+947 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 618
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 2513
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 297
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 58253
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 3173
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 45
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 36
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 374
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 3863
+	}
+
+}
+948 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 11938
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 5942
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 557
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 81
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 376
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 105281
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1056
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 3480
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 326
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 47
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 220
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 5810
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1788
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 8787
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 823
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 119
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 557
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 6417
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 583
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 4072
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 381
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 55
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 258
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 661
+	}
+
+}
+949 = {
+	soldiers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 1482
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 4982
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 207
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 340
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = animist
+		size= 61796
+	}
+
+	soldiers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 155
+	}
+
+	artisans=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 6023
+	}
+
+	clergymen=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 250
+	}
+
+	bureaucrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 49
+	}
+
+	officers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = byelorussian
+		religion = protestant
+		size= 515
+	}
+
+}

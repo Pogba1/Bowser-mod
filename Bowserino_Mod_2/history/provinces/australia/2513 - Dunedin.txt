@@ -1,0 +1,5 @@
+owner=X47
+controller=X47
+trade_goods = wool
+life_rating = 30
+terrain = hills

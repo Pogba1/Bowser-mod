@@ -1,0 +1,945 @@
+#Sphere of Influence
+
+ADU = {
+	value = 25
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = -100
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BOU = {
+	value = 3
+	level = 2
+}
+BRU = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CLM = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+CRO = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 2
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 13
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = -38
+	level = 2
+}
+MAW = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+NOV = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 10
+	level = 2
+}
+SOM = {
+	value = 50
+	level = 3
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -195
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X07 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Hermenexildu de Mendonça"
+	date="1712.12.15"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Hermenexildu de Guimarães"
+	date="1733.11.11"
+	type=land
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Hermenexildu da Fonseca"
+	date="1733.11.8"
+	type=sea
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Catone da Costa"
+	date="1733.11.12"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Õdön Pereira"
+	date="1733.11.14"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Abdul-Rahman Lemos de Brito"
+	date="1733.11.20"
+	type=land
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Alajos Ferreira Martins"
+	date="1736.12.22"
+	type=sea
+	personality="intuitive"
+	background="brownnoser"
+}
+
+leader = {
+	name="Gherardo de Noronha"
+	date="1736.12.24"
+	type=land
+	personality="resourceful"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="6th Army"
+	location=2161
+	regiment = {
+		name="1st La Vega Infantry"
+		type=infantry
+		home=2216
+	}
+	regiment = {
+		name="1st Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="1st Tulancingo Artillery"
+		type=artillery
+		home=2175
+	}
+	regiment = {
+		name="1st Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+	regiment = {
+		name="3rd Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="2nd Durango Artillery"
+		type=artillery
+		home=2153
+	}
+}
+
+army = {
+	name="8th Army"
+	location=81
+	regiment = {
+		name="1st Bluefields Infantry"
+		type=infantry
+		home=2200
+	}
+	regiment = {
+		name="1st Toluca Infantry"
+		type=infantry
+		home=2174
+	}
+	regiment = {
+		name="1st La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st Veracruz Artillery"
+		type=artillery
+		home=2162
+	}
+	regiment = {
+		name="1st San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="1st La Ceiba Infantry"
+		type=infantry
+		home=2195
+	}
+}
+
+army = {
+	name="11th Army"
+	location=2161
+	regiment = {
+		name="1st Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="1st Zacatecas Artillery"
+		type=artillery
+		home=2158
+	}
+}
+
+army = {
+	name="30th Army"
+	location=2166
+	regiment = {
+		name="1st Minatitlán Infantry"
+		type=infantry
+		home=2164
+	}
+	regiment = {
+		name="2nd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="1st Port Au Prince Artillery"
+		type=artillery
+		home=2213
+	}
+	regiment = {
+		name="1st Guatemala City Infantry"
+		type=infantry
+		home=2186
+	}
+	regiment = {
+		name="4th Zacatecas Artillery"
+		type=artillery
+		home=2158
+	}
+}
+
+army = {
+	name="17th Army"
+	location=83
+	regiment = {
+		name="1st Port Au Prince Infantry"
+		type=infantry
+		home=2213
+	}
+	regiment = {
+		name="1st Bacalar Infantry"
+		type=infantry
+		home=2185
+	}
+	regiment = {
+		name="3rd Havana Artillery"
+		type=artillery
+		home=2209
+	}
+	regiment = {
+		name="2nd La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="3rd La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="2nd Havana Infantry"
+		type=infantry
+		home=2209
+	}
+	regiment = {
+		name="4th San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+}
+
+army = {
+	name="16th Army"
+	location=15
+	regiment = {
+		name="1st Puerto Lempira Infantry"
+		type=infantry
+		home=2196
+	}
+	regiment = {
+		name="1st Zacatecas Infantry"
+		type=infantry
+		home=2158
+	}
+	regiment = {
+		name="2nd Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+	regiment = {
+		name="2nd Veracruz Artillery"
+		type=artillery
+		home=2162
+	}
+	regiment = {
+		name="2nd Puerto Lempira Infantry"
+		type=infantry
+		home=2196
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2154
+	regiment = {
+		name="2nd Port Au Prince Infantry"
+		type=infantry
+		home=2213
+	}
+	regiment = {
+		name="1st Nogales Artillery"
+		type=artillery
+		home=2137
+	}
+	regiment = {
+		name="1st Ciudad Victoria Artillery"
+		type=artillery
+		home=2150
+	}
+	regiment = {
+		name="2nd Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+}
+
+army = {
+	name="45th Army"
+	location=15
+	regiment = {
+		name="2nd Zacatecas Artillery"
+		type=artillery
+		home=2158
+	}
+	regiment = {
+		name="3rd Zacatecas Artillery"
+		type=artillery
+		home=2158
+	}
+}
+
+army = {
+	name="44th Army"
+	location=2145
+	regiment = {
+		name="1st Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+	regiment = {
+		name="2nd Jagua Artillery"
+		type=artillery
+		home=2210
+	}
+}
+
+army = {
+	name="4th Army"
+	location=86
+	regiment = {
+		name="1st Mérida Infantry"
+		type=infantry
+		home=2183
+	}
+	regiment = {
+		name="1st Ocos Infantry"
+		type=infantry
+		home=2628
+	}
+	regiment = {
+		name="1st Tapachula Infantry"
+		type=infantry
+		home=2182
+	}
+	regiment = {
+		name="2nd San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="3rd San Luis Potosí Artillery"
+		type=artillery
+		home=2159
+	}
+	regiment = {
+		name="3rd Veracruz Artillery"
+		type=artillery
+		home=2162
+	}
+	regiment = {
+		name="4th Veracruz Artillery"
+		type=artillery
+		home=2162
+	}
+	regiment = {
+		name="1st Villahermosa Infantry"
+		type=infantry
+		home=2165
+	}
+}
+
+army = {
+	name="5th Army"
+	location=2158
+	regiment = {
+		name="1st Durango Artillery"
+		type=artillery
+		home=2153
+	}
+	regiment = {
+		name="1st Santa María del Oro Artillery"
+		type=artillery
+		home=2154
+	}
+}
+
+navy = {
+	name="9th Fleet"
+	location=2955
+	ship = {
+		name="Cartago"
+		type=frigate
+	}
+	ship = {
+		name="Ciudad de Guatemala"
+		type=frigate
+	}
+	ship = {
+		name="Comayagua"
+		type=frigate
+	}
+	ship = {
+		name="Flores"
+		type=frigate
+	}
+	ship = {
+		name="León"
+		type=frigate
+	}
+	ship = {
+		name="Managua"
+		type=frigate
+	}
+	ship = {
+		name="2nd Havana Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="13th Army"
+	location=2199
+	regiment = {
+		name="3rd Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2162
+	regiment = {
+		name="1st León Artillery"
+		type=artillery
+		home=2199
+	}
+	regiment = {
+		name="4th Mérida Artillery"
+		type=artillery
+		home=2183
+	}
+}
+
+army = {
+	name="19th Army"
+	location=2163
+	regiment = {
+		name="1st Belize Infantry"
+		type=infantry
+		home=2190
+	}
+	regiment = {
+		name="4th La Ceiba Artillery"
+		type=artillery
+		home=2195
+	}
+	regiment = {
+		name="1st Santiago de Cuba Infantry"
+		type=infantry
+		home=2212
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=88
+	regiment = {
+		name="2nd Minatitlán Infantry"
+		type=infantry
+		home=2164
+	}
+	regiment = {
+		name="1st Tuxtla Infantry"
+		type=infantry
+		home=2181
+	}
+	regiment = {
+		name="1st Sayaxché Infantry"
+		type=infantry
+		home=2189
+	}
+}
+
+navy = {
+	name="8th Fleet"
+	location=2971
+	ship = {
+		name="San José"
+		type=frigate
+	}
+	ship = {
+		name="San Salvador"
+		type=frigate
+	}
+	ship = {
+		name="Santa Tecla"
+		type=frigate
+	}
+	ship = {
+		name="Tegucigalpa"
+		type=frigate
+	}
+	ship = {
+		name="2nd Saint Vincent Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Santiago de Cuba Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Martinique Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Camagüey Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2966
+	ship = {
+		name="Audaz"
+		type=manowar
+	}
+	ship = {
+		name="Federación"
+		type=manowar
+	}
+	ship = {
+		name="Independencia"
+		type=manowar
+	}
+	ship = {
+		name="Libertad"
+		type=manowar
+	}
+	ship = {
+		name="Neptuno"
+		type=manowar
+	}
+	ship = {
+		name="Sagrada Familia"
+		type=manowar
+	}
+	ship = {
+		name="San Juan"
+		type=manowar
+	}
+	ship = {
+		name="Santa Catalina"
+		type=manowar
+	}
+	ship = {
+		name="Santiago"
+		type=manowar
+	}
+	ship = {
+		name="2nd Saint Lucia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd San Pedro Sula Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mérida Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Port Au Prince Frigate"
+		type=frigate
+	}
+	ship = {
+		name="Amanecer"
+		type=clipper_transport
+	}
+	ship = {
+		name="Centroamericana"
+		type=clipper_transport
+	}
+	ship = {
+		name="Corsario"
+		type=clipper_transport
+	}
+	ship = {
+		name="Diamante"
+		type=clipper_transport
+	}
+	ship = {
+		name="Emprendedora"
+		type=clipper_transport
+	}
+	ship = {
+		name="Estrella de los Mares"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gracia"
+		type=clipper_transport
+	}
+	ship = {
+		name="Guardabarranco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hondureño"
+		type=clipper_transport
+	}
+	ship = {
+		name="Independiente"
+		type=clipper_transport
+	}
+	ship = {
+		name="Indetectable"
+		type=clipper_transport
+	}
+	ship = {
+		name="Isla del Coco"
+		type=clipper_transport
+	}
+	ship = {
+		name="Jaguar"
+		type=clipper_transport
+	}
+	ship = {
+		name="Llama"
+		type=clipper_transport
+	}
+	ship = {
+		name="Maya"
+		type=clipper_transport
+	}
+	ship = {
+		name="Oceánica"
+		type=clipper_transport
+	}
+	ship = {
+		name="Rápido"
+		type=clipper_transport
+	}
+	ship = {
+		name="Salvaje"
+		type=clipper_transport
+	}
+	ship = {
+		name="Serena"
+		type=clipper_transport
+	}
+	ship = {
+		name="Silencioso"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Saint Lucia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Saint Kitts Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ocos Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Dominica Frigate"
+		type=frigate
+	}
+}
+

@@ -1,0 +1,5 @@
+owner=HDR
+controller=HDR
+trade_goods = fish
+life_rating = 15
+fort = 2

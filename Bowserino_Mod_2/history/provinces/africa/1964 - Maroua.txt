@@ -1,0 +1,5 @@
+owner=X41
+controller=X41
+add_core=X41
+trade_goods = fruit
+life_rating = 10

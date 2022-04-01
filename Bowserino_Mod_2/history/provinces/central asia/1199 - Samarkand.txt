@@ -1,0 +1,8 @@
+owner=PRM
+controller=PRM
+add_core=KHA
+add_core=MGL
+add_core=TRX
+trade_goods = grain
+life_rating = 35
+terrain = dryhills

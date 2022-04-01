@@ -1,0 +1,5 @@
+owner=SOM
+controller=SOM
+trade_goods = fish
+life_rating = 10
+terrain = small_island

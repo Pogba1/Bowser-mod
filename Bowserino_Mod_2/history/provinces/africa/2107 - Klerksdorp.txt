@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+trade_goods = grain
+life_rating = 20
+terrain = mining_district
+colonial=2

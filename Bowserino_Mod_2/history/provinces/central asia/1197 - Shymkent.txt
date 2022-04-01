@@ -1,0 +1,7 @@
+owner=PRM
+controller=PRM
+add_core=KHA
+add_core=MGL
+add_core=NOG
+trade_goods = grain
+life_rating = 35

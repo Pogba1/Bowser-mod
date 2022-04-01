@@ -1,0 +1,100 @@
+2131 = {
+	soldiers=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 492
+	}
+
+	farmers=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 21720
+	}
+
+	artisans=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 2167
+	}
+
+	clergymen=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 312
+	}
+
+	aristocrats=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 404
+	}
+
+	bureaucrats=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = hilterian
+		religion = catholic
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 20
+	}
+
+	artisans=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 151
+	}
+
+	clergymen=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 22
+	}
+
+	bureaucrats=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 3
+	}
+
+	officers=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = hilterian
+		religion = protestant
+		size= 749
+	}
+
+}

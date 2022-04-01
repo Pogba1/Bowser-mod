@@ -1,0 +1,112 @@
+alliance=
+{
+	first="ADU"
+	second="MOR"
+	start_date="1591.2.1"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="ALH"
+	second="TBZ"
+	start_date="1659.12.3"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="AVA"
+	second="LNA"
+	start_date="1578.3.6"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="UCA"
+	second="SOM"
+	start_date="1728.12.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="DLH"
+	second="MHR"
+	start_date="1687.2.19"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="GER"
+	second="FRA"
+	start_date="1728.2.28"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HDR"
+	second="BRU"
+	start_date="1727.10.26"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="HOD"
+	second="KMC"
+	start_date="1507.8.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="JAP"
+	second="KOR"
+	start_date="1702.3.25"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="CAM"
+	second="DLH"
+	start_date="1687.6.9"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KIE"
+	second="PRM"
+	start_date="1737.9.17"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="KRW"
+	second="NDO"
+	start_date="1736.6.13"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="PRM"
+	second="DLH"
+	start_date="1562.1.4"
+	end_date="1936.1.1"
+}
+
+alliance=
+{
+	first="SOM"
+	second="ENG"
+	start_date="1591.8.31"
+	end_date="1936.1.1"
+}
+

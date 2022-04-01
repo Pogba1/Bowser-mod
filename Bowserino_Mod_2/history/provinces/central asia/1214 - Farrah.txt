@@ -1,0 +1,6 @@
+owner=PRM
+controller=PRM
+trade_goods = cotton
+life_rating = 35
+terrain = dryhills
+fort = 1

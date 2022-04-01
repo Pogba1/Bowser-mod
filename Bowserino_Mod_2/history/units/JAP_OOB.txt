@@ -1,0 +1,657 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = -158
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -5
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 2
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 50
+	level = 3
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -1
+	level = 2
+}
+LSK = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -97
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -5
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SOO = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -1
+	level = 2
+}
+X03 = {
+	value = -2
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = -7
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ietsuna Tsutsui"
+	date="1714.11.30"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Ienobu Uesugi"
+	date="1721.6.7"
+	type=land
+	personality="persistant"
+	background="bureaucrat_speed"
+}
+
+leader = {
+	name="Yoshiakira Asakura"
+	date="1723.7.17"
+	type=sea
+	personality="hellbent"
+	background="cartographer"
+}
+
+leader = {
+	name="Ienari Hatakeyama"
+	date="1723.8.23"
+	type=sea
+	personality="resolute"
+	background="artillerist"
+}
+
+
+#Armies
+navy = {
+	name="Suruga Sendan"
+	location=2840
+	ship = {
+		name="Takao"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Musashi Sendan"
+	location=2812
+	ship = {
+		name="Shohei Maru"
+		type=manowar
+	}
+	ship = {
+		name="Kaiyo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Un'yo"
+		type=manowar
+	}
+	ship = {
+		name="Hoo Maru"
+		type=manowar
+	}
+	ship = {
+		name="Asahi Maru"
+		type=manowar
+	}
+	ship = {
+		name="Banryu"
+		type=manowar
+	}
+	ship = {
+		name="Fujisan"
+		type=manowar
+	}
+	ship = {
+		name="Yari"
+		type=manowar
+	}
+	ship = {
+		name="Ibaraki"
+		type=manowar
+	}
+	ship = {
+		name="Mie"
+		type=manowar
+	}
+	ship = {
+		name="Ehime"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Satsuma Sendan"
+	location=1641
+	ship = {
+		name="Wakayama"
+		type=manowar
+	}
+	ship = {
+		name="Gifu"
+		type=manowar
+	}
+	ship = {
+		name="Awa"
+		type=manowar
+	}
+	ship = {
+		name="Tamba"
+		type=manowar
+	}
+	ship = {
+		name="1st Nagoya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Nara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Osaka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kochi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Nagoya Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="7th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mito Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Hamheung Dan"
+	location=1641
+	regiment = {
+		name="1st Hakodate Irregulars"
+		type=irregular
+		home=1642
+	}
+	regiment = {
+		name="1st Edo Irregulars"
+		type=irregular
+		home=1649
+	}
+	regiment = {
+		name="1st Utsunomiya Irregulars"
+		type=irregular
+		home=1674
+	}
+	regiment = {
+		name="2nd Hakodate Irregulars"
+		type=irregular
+		home=1642
+	}
+	regiment = {
+		name="1st Fukushima Irregulars"
+		type=irregular
+		home=1669
+	}
+	regiment = {
+		name="1st Quanzhou Artillery"
+		type=artillery
+		home=1484
+	}
+	regiment = {
+		name="1st Sendai Artillery"
+		type=artillery
+		home=1668
+	}
+	regiment = {
+		name="1st Yamagata Artillery"
+		type=artillery
+		home=1673
+	}
+	regiment = {
+		name="1st Tingzhou Irregulars"
+		type=irregular
+		home=1486
+	}
+	regiment = {
+		name="1st Utsunomiya Artillery"
+		type=artillery
+		home=1674
+	}
+}
+
+navy = {
+	name="Imperial Navy"
+	location=1640
+	ship = {
+		name="1st Osaka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Fukuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Sado Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chiba Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Shizuoka Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Rikuzen Sendan"
+	location=1668
+	ship = {
+		name="Aviso"
+		type=frigate
+	}
+	ship = {
+		name="Nisshin"
+		type=frigate
+	}
+}
+
+navy = {
+	name="Chikuzen Suigun"
+	location=1660
+	ship = {
+		name="8th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Matsue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="9th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kumamoto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Kumamoto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Matsue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Yokohama Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="10th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Nara Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Matsue Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="11th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Edo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kagoshima Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="12th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Miyazaki Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nagasaki Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Fukuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="13th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="14th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="15th Shizuoka Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Matsuyama Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Yamaguchi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Osaka Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Rikuzen Suigun"
+	location=1669
+	ship = {
+		name="Momo"
+		type=frigate
+	}
+	ship = {
+		name="Kiri"
+		type=frigate
+	}
+	ship = {
+		name="Sakura"
+		type=frigate
+	}
+	ship = {
+		name="Keyaki"
+		type=frigate
+	}
+}
+

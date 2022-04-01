@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=ATJ
+add_core=MLY
+add_core=PSA
+trade_goods = fish
+life_rating = 35
+colonial=2

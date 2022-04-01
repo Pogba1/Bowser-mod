@@ -1,0 +1,5 @@
+owner=PRM
+controller=PRM
+add_core=NOG
+trade_goods = coal
+life_rating = 30

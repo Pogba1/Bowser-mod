@@ -1,0 +1,8 @@
+owner=BRD
+controller=BRD
+add_core=BNY
+add_core=BRD
+add_core=KRW
+add_core=NKO
+trade_goods = cattle
+life_rating = 10

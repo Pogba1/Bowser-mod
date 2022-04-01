@@ -1,0 +1,51 @@
+252 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 1177
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 10598
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 765
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 212
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 153
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 1483
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 103369
+	}
+
+}

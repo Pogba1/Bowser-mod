@@ -1,0 +1,5 @@
+owner=NUP
+controller=NUP
+add_core=NUP
+trade_goods = timber
+life_rating = 10

@@ -1,0 +1,6 @@
+owner=PRM
+controller=PRM
+add_core=PER
+add_core=TRX
+trade_goods = cotton
+life_rating = 35

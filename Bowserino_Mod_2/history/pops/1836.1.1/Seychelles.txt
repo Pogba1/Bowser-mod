@@ -1,0 +1,100 @@
+2127 = {
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 5958
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 123
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 52
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 4
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 1
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = coptic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = coptic
+		size= 257
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = coptic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = coptic
+		size= 3
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = coptic
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = coptic
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = coptic
+		size= 2895
+	}
+
+}

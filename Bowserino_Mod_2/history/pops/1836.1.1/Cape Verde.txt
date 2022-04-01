@@ -1,0 +1,58 @@
+1876 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 4595
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = animist
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = animist
+		size= 15993
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = animist
+		size= 877
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = animist
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = animist
+		size= 184
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = animist
+		size= 28
+	}
+
+}

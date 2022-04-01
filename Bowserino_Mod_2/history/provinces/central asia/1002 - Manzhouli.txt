@@ -1,0 +1,6 @@
+owner=KOR
+controller=KOR
+add_core=CHG
+add_core=KRC
+trade_goods = cattle
+life_rating = 35

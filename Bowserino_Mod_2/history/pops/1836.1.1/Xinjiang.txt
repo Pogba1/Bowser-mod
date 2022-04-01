@@ -1,0 +1,1094 @@
+1594 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 10880
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 6506
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 4110
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 771
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 92
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 216
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1150
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 92447
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = animist
+		size= 395
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 236
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 706
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 198
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 2499
+	}
+
+}
+1595 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 275
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 619
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 3
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = tengri_pagan_reformed
+		size= 12692
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 295
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 1945
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 363
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = gnostic
+		size= 11940
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 570
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 2565
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 214
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 479
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 24631
+	}
+
+}
+1596 = {
+	soldiers=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 1106
+	}
+
+	clergymen=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 59
+	}
+
+	bureaucrats=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = ugrian
+		religion = gnostic
+		size= 14176
+	}
+
+	soldiers=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 59
+	}
+
+	artisans=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 1517
+	}
+
+	clergymen=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = kirgiz
+		religion = gnostic
+		size= 1079
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 3372
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 19063
+	}
+
+}
+1597 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 6063
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 9524
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 688
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 96
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 254
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1779
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 113401
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 386
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 28
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 4
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni_heresy
+		size= 72
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 287
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 2522
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 182
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 471
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 2677
+	}
+
+}
+1598 = {
+	soldiers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 597
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 1862
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 42
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 1042
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = sunni
+		size= 55816
+	}
+
+	soldiers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 810
+	}
+
+	clergymen=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 19
+	}
+
+	officers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 454
+	}
+
+	farmers=
+	{
+		culture = tibetan
+		religion = mahayana
+		size= 5604
+	}
+
+}
+1599 = {
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 2397
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 1432
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = sunni
+		size= 1150
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = sunni
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 6
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 20249
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 4609
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 2753
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 5574
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 465
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 31
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 1040
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 34589
+	}
+
+}
+1600 = {
+	slaves=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 14506
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 6849
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 18404
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 985
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 211
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 2208
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = gnostic
+		size= 79037
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 2166
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 1023
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 1279
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 8
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = tengri_pagan_reformed
+		size= 13553
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = sunni
+		size= 5180
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 2446
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = sunni
+		size= 3058
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = sunni
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 367
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 32410
+	}
+
+	slaves=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 1767
+	}
+
+	soldiers=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 834
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 5143
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 276
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 33
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 617
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = hurufi
+		size= 6168
+	}
+
+}
+2607 = {
+	soldiers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 886
+	}
+
+	artisans=
+	{
+		culture = uighur
+		religion = sunni
+		size= 2847
+	}
+
+	clergymen=
+	{
+		culture = uighur
+		religion = sunni
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 16
+	}
+
+	officers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = uighur
+		religion = sunni
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = uighur
+		religion = sunni
+		size= 27099
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1094
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 3517
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 657
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 33475
+	}
+
+}

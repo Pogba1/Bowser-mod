@@ -1,0 +1,11 @@
+owner=PEU
+controller=PEU
+add_core=CHM
+add_core=CJA
+add_core=HJA
+add_core=ICM
+add_core=PEU
+trade_goods = wool
+life_rating = 35
+terrain = dryhills
+fort = 2

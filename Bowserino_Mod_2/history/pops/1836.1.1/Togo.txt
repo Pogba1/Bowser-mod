@@ -1,0 +1,223 @@
+1914 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 6677
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 515
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 2060
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 335
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 46
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 649
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 41160
+	}
+
+}
+1917 = {
+	slaves=
+	{
+		culture = mande
+		religion = coptic
+		size= 510
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = coptic
+		size= 82
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = coptic
+		size= 163
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = coptic
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = coptic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = coptic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = coptic
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = coptic
+		size= 7337
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 1211
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 938
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 152
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 16636
+	}
+
+}
+1918 = {
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 476
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 11113
+	}
+
+}

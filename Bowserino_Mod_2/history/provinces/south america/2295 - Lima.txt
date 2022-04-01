@@ -1,0 +1,6 @@
+owner=PEU
+controller=PEU
+add_core=ICM
+add_core=PEU
+trade_goods = sulphur
+life_rating = 39

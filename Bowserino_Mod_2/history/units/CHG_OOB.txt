@@ -1,0 +1,453 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = -1
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -10
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -1
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 36
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 20
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 166
+	military_access = yes
+	influence_value = 29
+	level = 2
+}
+PRU = {
+	value = -15
+	level = 2
+}
+SOM = {
+	value = 36
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Changshi Qadancher"
+	date="1719.2.18"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Quraysh Yekedai"
+	date="1725.3.6"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sher Muhammad II Ast"
+	date="1732.5.11"
+	type=land
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+leader = {
+	name="Mahmud Boketei"
+	date="1732.12.15"
+	type=land
+	personality="coolminded"
+	background="bootlicker"
+}
+
+
+#Armies
+army = {
+	name="9th Army"
+	location=1187
+	regiment = {
+		name="1st Khatgal Irregulars"
+		type=irregular
+		home=2608
+	}
+	regiment = {
+		name="1st Qaratal Irregulars"
+		type=irregular
+		home=1188
+	}
+	regiment = {
+		name="2nd Khatgal Irregulars"
+		type=irregular
+		home=2608
+	}
+	regiment = {
+		name="1st Krasnoyarsk Cavalry"
+		type=cavalry
+		home=1077
+	}
+	regiment = {
+		name="1st Qaratal Artillery"
+		type=artillery
+		home=1188
+	}
+	regiment = {
+		name="1st Tulta Irregulars"
+		type=irregular
+		home=1596
+	}
+	regiment = {
+		name="1st Tomsk Cavalry"
+		type=cavalry
+		home=1063
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1066
+	regiment = {
+		name="1st Tomsk Irregulars"
+		type=irregular
+		home=1063
+	}
+	regiment = {
+		name="1st Yeniseysk Irregulars"
+		type=irregular
+		home=1070
+	}
+	regiment = {
+		name="1st Nyagan Irregulars"
+		type=irregular
+		home=1065
+	}
+	regiment = {
+		name="1st Urumqi Artillery"
+		type=artillery
+		home=1600
+	}
+	regiment = {
+		name="1st Krasnoyarsk Irregulars"
+		type=irregular
+		home=1077
+	}
+	regiment = {
+		name="3rd Tomsk Artillery"
+		type=artillery
+		home=1063
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1077
+	regiment = {
+		name="1st Kumul Cavalry"
+		type=cavalry
+		home=1599
+	}
+	regiment = {
+		name="1st Minusk Cavalry"
+		type=cavalry
+		home=2691
+	}
+}
+
+army = {
+	name="7th Army"
+	location=2674
+	regiment = {
+		name="1st Tomsk Artillery"
+		type=artillery
+		home=1063
+	}
+	regiment = {
+		name="4th Tomsk Artillery"
+		type=artillery
+		home=1063
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1044
+	regiment = {
+		name="1st Urumqi Irregulars"
+		type=irregular
+		home=1600
+	}
+	regiment = {
+		name="3rd Khatgal Irregulars"
+		type=irregular
+		home=2608
+	}
+	regiment = {
+		name="2nd Tomsk Artillery"
+		type=artillery
+		home=1063
+	}
+	regiment = {
+		name="2nd Urumqi Artillery"
+		type=artillery
+		home=1600
+	}
+	regiment = {
+		name="1st Yeniseysk Artillery"
+		type=artillery
+		home=1070
+	}
+	regiment = {
+		name="4th Khatgal Irregulars"
+		type=irregular
+		home=2608
+	}
+	regiment = {
+		name="5th Tomsk Artillery"
+		type=artillery
+		home=1063
+	}
+}
+

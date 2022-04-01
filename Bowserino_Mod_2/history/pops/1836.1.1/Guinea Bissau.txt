@@ -1,0 +1,116 @@
+1877 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 2427
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 304
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 1215
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 383
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 25776
+	}
+
+}
+1878 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 2542
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 1144
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 360
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 24018
+	}
+
+}

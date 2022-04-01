@@ -1,0 +1,802 @@
+1808 = {
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 1885
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 666
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 5995
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 433
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 60
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = animist
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 560
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 56923
+	}
+
+}
+1809 = {
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 2342
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 316
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 1265
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 206
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = animist
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 531
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 26893
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 3123
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 422
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1687
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 708
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 35856
+	}
+
+}
+1810 = {
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 4358
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 526
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 4737
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 47
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = animist
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 884
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 41669
+	}
+
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 2682
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 324
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 2915
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 544
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 25642
+	}
+
+}
+1811 = {
+	slaves=
+	{
+		culture = hausa
+		religion = animist
+		size= 6486
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = animist
+		size= 569
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = animist
+		size= 5620
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = animist
+		size= 406
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = animist
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = animist
+		size= 1049
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = animist
+		size= 42675
+	}
+
+	slaves=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 1262
+	}
+
+	soldiers=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 111
+	}
+
+	artisans=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 498
+	}
+
+	clergymen=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = hausa
+		religion = shamanism
+		size= 9064
+	}
+
+}
+1812 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = coptic
+		size= 1005
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 232
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 2090
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 151
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 455
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = coptic
+		size= 19243
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1265
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 2726
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 593
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 24096
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = gnostic
+		size= 243
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 408
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 89
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = gnostic
+		size= 4769
+	}
+
+}
+1814 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1479
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 163
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 651
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 273
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 13543
+	}
+
+}
+1815 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 8173
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 955
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 3822
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 621
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 1605
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 80153
+	}
+
+}
+1816 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 6869
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 835
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 3339
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 543
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 42
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 1402
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 70366
+	}
+
+}
+1817 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1652
+	}
+
+	soldiers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 595
+	}
+
+	clergymen=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = ifriqi
+		religion = animist
+		size= 12201
+	}
+
+}

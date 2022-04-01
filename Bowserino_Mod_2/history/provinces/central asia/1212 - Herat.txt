@@ -1,0 +1,5 @@
+owner=PRM
+controller=PRM
+add_core=TKS
+trade_goods = fruit
+life_rating = 35

@@ -1,0 +1,100 @@
+2244 = {
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 11242
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 479
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 200
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 77
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 135
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 12980
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 547
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 89
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 18
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 6
+	}
+
+}

@@ -1,0 +1,5 @@
+owner=X47
+controller=X47
+trade_goods = fruit
+life_rating = 32
+terrain = dryhills

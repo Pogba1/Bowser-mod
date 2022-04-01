@@ -1,0 +1,298 @@
+676 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 1139
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 725
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 35673
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 352
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 1173
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 9576
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 547
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 3292
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 312
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 804
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 12682
+	}
+
+}
+677 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 1105
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 670
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 5
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = orthodox
+		size= 34040
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 342
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 1084
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 278
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = gnostic
+		size= 9138
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 531
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 3041
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 302
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 781
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 12102
+	}
+
+}

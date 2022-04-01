@@ -1,0 +1,6 @@
+owner=UCA
+controller=UCA
+add_core=KIC
+trade_goods = iron
+life_rating = 33
+colonial=2

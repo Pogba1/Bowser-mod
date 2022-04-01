@@ -1,0 +1,5 @@
+owner=SOM
+controller=SOM
+add_core=MKS
+trade_goods = dye
+life_rating = 31

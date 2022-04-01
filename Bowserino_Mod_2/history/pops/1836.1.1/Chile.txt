@@ -1,0 +1,1170 @@
+2305 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 7214
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 10597
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 237
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 766
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 15
+	}
+
+}
+2307 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 108
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 5295
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 6285
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 497
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 140
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 10
+	}
+
+}
+2308 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = inti
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = inti
+		size= 6196
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 5192
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 482
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 56
+	}
+
+}
+2309 = {
+	soldiers=
+	{
+		culture = aimara
+		religion = animist
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = aimara
+		religion = animist
+		size= 4256
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 5746
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 431
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 91
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 8
+	}
+
+}
+2322 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 181
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 8857
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 13151
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 291
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 946
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 199
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 18
+	}
+
+}
+2323 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7219
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 11407
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 253
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 800
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 16
+	}
+
+}
+2324 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 632
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 30993
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 49071
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 1089
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 3445
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 724
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 560
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 129
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 69
+	}
+
+}
+2325 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 10573
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 16745
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 371
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 1175
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 247
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 44
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 23
+	}
+
+}
+2326 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 6727
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 10633
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 746
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 14
+	}
+
+}
+2327 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 2301
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 2554
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 209
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 43
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 3
+	}
+
+}
+2328 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 192
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 9402
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 7298
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 164
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 716
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 13
+	}
+
+}
+2329 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 86
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 4209
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 3266
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 73
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 321
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 67
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 6
+	}
+
+}
+2330 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 6041
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 6698
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 150
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 546
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 115
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 10
+	}
+
+}
+2331 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 3538
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 3925
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 86
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 320
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 66
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 6
+	}
+
+}
+2332 = {
+	soldiers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 146
+	}
+
+	farmers=
+	{
+		culture = araucanian
+		religion = animist
+		size= 7150
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 5549
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 545
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 11
+	}
+
+}
+2333 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 5092
+	}
+
+	farmers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 3285
+	}
+
+	artisans=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 357
+	}
+
+	clergymen=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 58
+	}
+
+	aristocrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 75
+	}
+
+	bureaucrats=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = silfrvazling
+		religion = animist
+		size= 72
+	}
+
+}
+2334 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 7318
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 5170
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 536
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 11
+	}
+
+}
+2335 = {
+	soldiers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 626
+	}
+
+	farmers=
+	{
+		culture = patagonian
+		religion = animist
+		size= 10550
+	}
+
+	soldiers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 9218
+	}
+
+	artisans=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 884
+	}
+
+	clergymen=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 143
+	}
+
+	aristocrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 186
+	}
+
+	bureaucrats=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 53
+	}
+
+	officers=
+	{
+		culture = nouvellien
+		religion = catholic
+		size= 35
+	}
+
+}

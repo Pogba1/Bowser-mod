@@ -1,0 +1,10 @@
+owner=SYR
+controller=SYR
+add_core=EGY
+add_core=IRQ
+add_core=SYR
+add_core=X34
+add_core=X44
+trade_goods = grain
+life_rating = 35
+terrain = steppe

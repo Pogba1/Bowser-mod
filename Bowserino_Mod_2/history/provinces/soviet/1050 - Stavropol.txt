@@ -1,0 +1,6 @@
+owner=PRM
+controller=PRM
+add_core=PRM
+add_core=UGR
+trade_goods = wool
+life_rating = 35

@@ -1,0 +1,8 @@
+owner=AVA
+controller=KRN
+add_core=AVA
+add_core=BUR
+add_core=IDO
+add_core=MBL
+trade_goods = cattle
+life_rating = 32

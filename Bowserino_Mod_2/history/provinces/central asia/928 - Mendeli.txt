@@ -1,0 +1,7 @@
+owner=ALH
+controller=ALH
+add_core=IRQ
+add_core=X30
+trade_goods = grain
+life_rating = 35
+terrain = steppe

@@ -1,0 +1,114 @@
+2126 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 14720
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 10255
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 515
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 83
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 6
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = coptic
+		size= 5853
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = coptic
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = coptic
+		size= 925
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = coptic
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = coptic
+		size= 12
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = coptic
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = coptic
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = coptic
+		size= 2782
+	}
+
+}

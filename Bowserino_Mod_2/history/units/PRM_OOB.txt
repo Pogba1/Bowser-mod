@@ -1,0 +1,849 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = -1
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 68
+	influence_value = 4
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 179
+	military_access = yes
+	influence_value = 82
+	level = 5
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -99
+	level = 2
+}
+CSH = {
+	value = 31
+	level = 2
+}
+DLH = {
+	value = 175
+	influence_value = 31
+	level = 4
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 11
+	level = 2
+}
+GRE = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 136
+	influence_value = 21
+	level = 3
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 60
+	influence_value = 2
+	level = 2
+}
+MHR = {
+	value = -21
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = 16
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = -5
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 23
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 219
+	military_access = yes
+	influence_value = 92
+	level = 5
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Iziaslav Kykin"
+	date="1726.2.5"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Tyutyuk Purtov"
+	date="1729.2.15"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Zhuneg Volegov"
+	date="1729.2.16"
+	type=land
+	personality="stalwart"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Malyy Kysov"
+	date="1734.3.17"
+	type=sea
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Zhuneg Rakin"
+	date="1734.9.19"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="31st Army"
+	location=1011
+	regiment = {
+		name="1st Kashan Irregulars"
+		type=irregular
+		home=1129
+	}
+	regiment = {
+		name="1st Mulda Irregulars"
+		type=irregular
+		home=2689
+	}
+	regiment = {
+		name="1st Guryev Artillery"
+		type=artillery
+		home=1182
+	}
+	regiment = {
+		name="1st Omsk Artillery"
+		type=artillery
+		home=1064
+	}
+	regiment = {
+		name="1st Balkhash Artillery"
+		type=artillery
+		home=2606
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1141
+	regiment = {
+		name="1st Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="1st Zarevka Irregulars"
+		type=irregular
+		home=1040
+	}
+	regiment = {
+		name="2nd Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="3rd Sabzevar Irregulars"
+		type=irregular
+		home=1149
+	}
+	regiment = {
+		name="2nd Guryev Artillery"
+		type=artillery
+		home=1182
+	}
+	regiment = {
+		name="1st Usogorsk Artillery"
+		type=artillery
+		home=2700
+	}
+	regiment = {
+		name="1st Vyatka Irregulars"
+		type=irregular
+		home=1028
+	}
+	regiment = {
+		name="4th Guryev Artillery"
+		type=artillery
+		home=1182
+	}
+}
+
+army = {
+	name="9th Army"
+	location=1112
+	regiment = {
+		name="1st Khiva Irregulars"
+		type=irregular
+		home=1191
+	}
+	regiment = {
+		name="1st Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+	regiment = {
+		name="1st Omsk Irregulars"
+		type=irregular
+		home=1064
+	}
+}
+
+army = {
+	name="65th Army"
+	location=1135
+	regiment = {
+		name="1st Ardabil Irregulars"
+		type=irregular
+		home=1112
+	}
+	regiment = {
+		name="1st Pyatigorsk Artillery"
+		type=artillery
+		home=1056
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Irregulars"
+		type=irregular
+		home=1020
+	}
+	regiment = {
+		name="2nd Pyatigorsk Artillery"
+		type=artillery
+		home=1056
+	}
+}
+
+army = {
+	name="80th Army"
+	location=1025
+	regiment = {
+		name="1st Chirskaya Irregulars"
+		type=irregular
+		home=1046
+	}
+	regiment = {
+		name="1st Yaroslavl Irregulars"
+		type=irregular
+		home=1001
+	}
+	regiment = {
+		name="1st Usogorsk Irregulars"
+		type=irregular
+		home=2700
+	}
+	regiment = {
+		name="1st Qarshi Irregulars"
+		type=irregular
+		home=1200
+	}
+	regiment = {
+		name="1st Glasov Artillery"
+		type=artillery
+		home=1029
+	}
+	regiment = {
+		name="1st Syzran Irregulars"
+		type=irregular
+		home=1035
+	}
+	regiment = {
+		name="1st Ufa Artillery"
+		type=artillery
+		home=1042
+	}
+}
+
+army = {
+	name="28th Army"
+	location=1106
+	regiment = {
+		name="1st Sari Irregulars"
+		type=irregular
+		home=1115
+	}
+	regiment = {
+		name="1st Vetluga Irregulars"
+		type=irregular
+		home=1027
+	}
+	regiment = {
+		name="1st Rasht Irregulars"
+		type=irregular
+		home=1113
+	}
+	regiment = {
+		name="1st Novo Uzensk Irregulars"
+		type=irregular
+		home=1038
+	}
+	regiment = {
+		name="1st Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+	regiment = {
+		name="3rd Guryev Artillery"
+		type=artillery
+		home=1182
+	}
+	regiment = {
+		name="1st Vetluga Artillery"
+		type=artillery
+		home=1027
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1138
+	regiment = {
+		name="1st Gurgench Irregulars"
+		type=irregular
+		home=1196
+	}
+	regiment = {
+		name="2nd Gurgench Irregulars"
+		type=irregular
+		home=1196
+	}
+	regiment = {
+		name="1st Bishkek Artillery"
+		type=artillery
+		home=1189
+	}
+	regiment = {
+		name="2nd Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+	regiment = {
+		name="1st Kazan Irregulars"
+		type=irregular
+		home=1030
+	}
+}
+
+army = {
+	name="4th Army"
+	location=686
+	regiment = {
+		name="1st Merv Irregulars"
+		type=irregular
+		home=686
+	}
+}
+
+army = {
+	name="7th Army"
+	location=977
+	regiment = {
+		name="1st Tsaritsyn Irregulars"
+		type=irregular
+		home=1039
+	}
+	regiment = {
+		name="1st Ekaterinburg Irregulars"
+		type=irregular
+		home=1058
+	}
+	regiment = {
+		name="1st Orsk Artillery"
+		type=artillery
+		home=1060
+	}
+	regiment = {
+		name="1st Perm Artillery"
+		type=artillery
+		home=1026
+	}
+	regiment = {
+		name="2nd Ekaterinburg Irregulars"
+		type=irregular
+		home=1058
+	}
+	regiment = {
+		name="1st Kokshetau Artillery"
+		type=artillery
+		home=1184
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1101
+	regiment = {
+		name="1st Sirjan Irregulars"
+		type=irregular
+		home=1139
+	}
+	regiment = {
+		name="2nd Vetluga Irregulars"
+		type=irregular
+		home=1027
+	}
+	regiment = {
+		name="1st Orenburg Artillery"
+		type=artillery
+		home=1044
+	}
+	regiment = {
+		name="1st Bukhara Irregulars"
+		type=irregular
+		home=1198
+	}
+	regiment = {
+		name="4th Glasov Artillery"
+		type=artillery
+		home=1029
+	}
+}
+
+army = {
+	name="19th Army"
+	location=2611
+	regiment = {
+		name="1st Ivanovo Irregulars"
+		type=irregular
+		home=1022
+	}
+	regiment = {
+		name="1st Yekaterinodar Irregulars"
+		type=irregular
+		home=1048
+	}
+	regiment = {
+		name="2nd Merv Irregulars"
+		type=irregular
+		home=686
+	}
+	regiment = {
+		name="2nd Perm Artillery"
+		type=artillery
+		home=1026
+	}
+	regiment = {
+		name="2nd Glasov Artillery"
+		type=artillery
+		home=1029
+	}
+	regiment = {
+		name="1st Samara Artillery"
+		type=artillery
+		home=1034
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1112
+	regiment = {
+		name="1st Kyzyl-Su Irregulars"
+		type=irregular
+		home=1205
+	}
+	regiment = {
+		name="3rd Glasov Artillery"
+		type=artillery
+		home=1029
+	}
+	regiment = {
+		name="1st Aktash Irregulars"
+		type=irregular
+		home=2612
+	}
+	regiment = {
+		name="2nd Saratov Artillery"
+		type=artillery
+		home=1037
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1184
+	regiment = {
+		name="1st Sarapul Artillery"
+		type=artillery
+		home=1031
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1192
+	regiment = {
+		name="1st Voronezh Irregulars"
+		type=irregular
+		home=1019
+	}
+	regiment = {
+		name="1st Mashhad Irregulars"
+		type=irregular
+		home=1147
+	}
+}
+
+army = {
+	name="15th Army"
+	location=1196
+	regiment = {
+		name="1st Ak-Mechet Irregulars"
+		type=irregular
+		home=1193
+	}
+	regiment = {
+		name="1st Busuluk Irregulars"
+		type=irregular
+		home=1043
+	}
+	regiment = {
+		name="1st Vyatka Artillery"
+		type=artillery
+		home=1028
+	}
+	regiment = {
+		name="2nd Vyatka Artillery"
+		type=artillery
+		home=1028
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=981
+	ship = {
+		name="1st Permian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Rostov Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mariupol Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=992
+	regiment = {
+		name="1st Penza Irregulars"
+		type=irregular
+		home=1021
+	}
+	regiment = {
+		name="1st Noshehr Irregulars"
+		type=irregular
+		home=1114
+	}
+	regiment = {
+		name="2nd Omsk Artillery"
+		type=artillery
+		home=1064
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="1st Tyumen Artillery"
+		type=artillery
+		home=1061
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2776
+	ship = {
+		name="1st Ubykhia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Ubykhia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Ubykhia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Ubykhia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Permian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Ubykhia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Permian Clipper Transport"
+		type=clipper_transport
+	}
+}
+

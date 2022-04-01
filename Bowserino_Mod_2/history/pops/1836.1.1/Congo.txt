@@ -1,0 +1,330 @@
+1977 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 14145
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 708
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 5242
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 379
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 489
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 49758
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 654
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 33
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1425
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1432
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 29
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 7
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 12
+	}
+
+}
+1978 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 7646
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 306
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 2265
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 19962
+	}
+
+	slaves=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 353
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 615
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 569
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 164
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 211
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 57
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 5
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 12
+	}
+
+}
+1980 = {
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 275
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 750
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 13675
+	}
+
+	slaves=
+	{
+		culture = ubangian
+		religion = animist
+		size= 500
+	}
+
+}
+2624 = {
+	slaves=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 21247
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 1623
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 7687
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 555
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 43
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 717
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 53437
+	}
+
+}

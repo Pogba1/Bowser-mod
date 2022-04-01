@@ -1,0 +1,704 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 16
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 190
+	influence_value = 35
+	level = 4
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 3
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+GER = {
+	value = 3
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = -11
+	level = 2
+}
+KRN = {
+	value = 78
+	military_access = yes
+	influence_value = 57
+	level = 5
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+LSK = {
+	value = -9
+	level = 2
+}
+MHR = {
+	value = 166
+	influence_value = 29
+	level = 4
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -21
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = -4
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PNJ = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -9
+	level = 2
+}
+PRM = {
+	value = 184
+	influence_value = 33
+	level = 4
+}
+PRU = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = -6
+	level = 2
+}
+X03 = {
+	value = -7
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X22 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Prithvivarman IV"
+	date="1736.4.4"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Sinhad-Deo Nazimuddin"
+	date="1724.12.19"
+	type=sea
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Brahmadeva Azad"
+	date="1728.2.25"
+	type=land
+	personality="disciplined"
+	background="artillerist"
+}
+
+leader = {
+	name="Prithvivarman Nazimuddin"
+	date="1730.1.17"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+leader = {
+	name="Tejpal Ali"
+	date="1735.1.4"
+	type=sea
+	personality="disciplined"
+	background="war_college"
+}
+
+leader = {
+	name="Sinhad-Deo Singh"
+	date="1735.12.6"
+	type=land
+	personality="stalwart"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="13th Army"
+	location=1248
+	regiment = {
+		name="1st Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+	regiment = {
+		name="1st Umerkot Irregulars"
+		type=irregular
+		home=1290
+	}
+	regiment = {
+		name="1st Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="5th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=1288
+	ship = {
+		name="1st Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Masulipatnam Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Surat Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Rajkot Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Mandvi Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1247
+	regiment = {
+		name="1st Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="1st Gaya Irregulars"
+		type=irregular
+		home=1248
+	}
+	regiment = {
+		name="1st Delhi Artillery"
+		type=artillery
+		home=1236
+	}
+	regiment = {
+		name="6th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1535
+	regiment = {
+		name="1st Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="2nd Firozpur Irregulars"
+		type=irregular
+		home=1234
+	}
+	regiment = {
+		name="1st Rajkot Artillery"
+		type=artillery
+		home=1292
+	}
+	regiment = {
+		name="2nd Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="1st Jodhpur Irregulars"
+		type=irregular
+		home=1266
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1489
+	regiment = {
+		name="1st Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="1st Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="2nd Jaipur Irregulars"
+		type=irregular
+		home=1268
+	}
+	regiment = {
+		name="7th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1259
+	regiment = {
+		name="2nd Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+	regiment = {
+		name="2nd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="4th Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+	regiment = {
+		name="1st Udaipur Artillery"
+		type=artillery
+		home=1269
+	}
+}
+
+army = {
+	name="17th Army"
+	location=1593
+	regiment = {
+		name="1st Patan Irregulars"
+		type=irregular
+		home=1294
+	}
+	regiment = {
+		name="1st Ajmer Cavalry"
+		type=cavalry
+		home=1264
+	}
+	regiment = {
+		name="3rd Jaipur Artillery"
+		type=artillery
+		home=1268
+	}
+	regiment = {
+		name="1st Agra Irregulars"
+		type=irregular
+		home=1240
+	}
+	regiment = {
+		name="1st Panipat Cavalry"
+		type=cavalry
+		home=1237
+	}
+	regiment = {
+		name="1st Udaipur Cavalry"
+		type=cavalry
+		home=1269
+	}
+	regiment = {
+		name="2nd Panipat Cavalry"
+		type=cavalry
+		home=1237
+	}
+	regiment = {
+		name="2nd Ajmer Cavalry"
+		type=cavalry
+		home=1264
+	}
+	regiment = {
+		name="2nd Delhi Artillery"
+		type=artillery
+		home=1236
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2801
+	ship = {
+		name="1st Surat Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Kangan Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Mandvi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2789
+	ship = {
+		name="1st Mandvi Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Rajkot Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Mandvi Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2790
+	ship = {
+		name="1st Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Rajkot Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1489
+	regiment = {
+		name="2nd Panipat Irregulars"
+		type=irregular
+		home=1237
+	}
+	regiment = {
+		name="3rd Delhi Irregulars"
+		type=irregular
+		home=1236
+	}
+	regiment = {
+		name="3rd Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+	regiment = {
+		name="4th Panipat Artillery"
+		type=artillery
+		home=1237
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2787
+	ship = {
+		name="1st Bombay Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Melbourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Adelaide Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mandvi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Melbourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kolhapur Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Melbourne Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Adelaide Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Geraldton Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Bombay Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bombay Man'o'war"
+		type=manowar
+	}
+}
+

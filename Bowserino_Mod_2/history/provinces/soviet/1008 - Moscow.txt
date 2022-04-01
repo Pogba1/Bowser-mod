@@ -1,0 +1,8 @@
+owner=RYA
+controller=RYA
+add_core=FIN
+add_core=SCA
+add_core=X13
+trade_goods = coal
+life_rating = 40
+terrain = mining_district

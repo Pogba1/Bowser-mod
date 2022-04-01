@@ -1,0 +1,6 @@
+owner=PNJ
+controller=PNJ
+add_core=GUG
+add_core=TIB
+trade_goods = silk
+life_rating = 32

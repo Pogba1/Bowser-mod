@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=DLI
+add_core=MLY
+add_core=PSA
+trade_goods = fruit
+life_rating = 38
+colonial=2

@@ -1,0 +1,9 @@
+owner=AVA
+controller=AVA
+add_core=AVA
+add_core=BUR
+add_core=IDO
+add_core=SHA
+add_core=X33
+trade_goods = opium
+life_rating = 35

@@ -1,0 +1,1423 @@
+1680 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 7621
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 671
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 283
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 464
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 35984
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 1225
+	}
+
+}
+1681 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 420
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 1681
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 412
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 39175
+	}
+
+}
+1682 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 631
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 8829
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 410
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 82
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 618
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 52462
+	}
+
+}
+1683 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 2650
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 266
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 1065
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 173
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 261
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 22173
+	}
+
+}
+1684 = {
+	soldiers=
+	{
+		culture = berber
+		religion = animist
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = animist
+		size= 6443
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = animist
+		size= 299
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = animist
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = animist
+		size= 387
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = animist
+		size= 31582
+	}
+
+}
+1685 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 11653
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 3399
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 472
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 79
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 1724
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 66172
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 120
+	}
+
+}
+1686 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 1147
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 424
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 5939
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 276
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 55
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 535
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 34024
+	}
+
+}
+1687 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 235
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 469
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 22467
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 27
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 576
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 94
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1705
+	}
+
+}
+1688 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 1031
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 23278
+	}
+
+}
+1689 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 254
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 53
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 5935
+	}
+
+}
+1690 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 46614
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 20426
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 1932
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 135
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 194
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 3765
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 71700
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 490
+	}
+
+}
+1691 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 11436
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 1068
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 74
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 107
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 1617
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 67081
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 120
+	}
+
+}
+1692 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 2726
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 254
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 26026
+	}
+
+}
+1693 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 595
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 97
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 13751
+	}
+
+}
+1694 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 4138
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 459
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 6430
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 299
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 1157
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 33361
+	}
+
+}
+1695 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 76
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 302
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 7050
+	}
+
+}
+1696 = {
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 265
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = sunni
+		size= 15
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = sunni
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = sunni
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = sunni
+		size= 90
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = sunni
+		size= 75
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = sunni
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = sunni
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = berber
+		religion = sunni
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = sunni
+		size= 457
+	}
+
+}
+1697 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 828
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 18327
+	}
+
+}
+1698 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 269
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 539
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 339
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 25669
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 133
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 1072
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 675
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 11227
+	}
+
+}
+1699 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 9779
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 454
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 1760
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 53597
+	}
+
+}
+2563 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 7389
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 343
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 887
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 43035
+	}
+
+}
+2590 = {
+	soldiers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 119
+	}
+
+	artisans=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 237
+	}
+
+	clergymen=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 3
+	}
+
+	officers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = maghrebi
+		religion = animist
+		size= 11415
+	}
+
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 14
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 291
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 47
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 926
+	}
+
+}

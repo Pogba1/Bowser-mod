@@ -1,0 +1,6 @@
+owner=NDO
+controller=NDO
+add_core=LBA
+add_core=NDO
+trade_goods = fruit
+life_rating = 10

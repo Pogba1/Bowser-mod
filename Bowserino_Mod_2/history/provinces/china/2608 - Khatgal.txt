@@ -1,0 +1,7 @@
+owner=CHG
+controller=CHG
+add_core=CHG
+add_core=KLK
+add_core=TKS
+trade_goods = iron
+life_rating = 32

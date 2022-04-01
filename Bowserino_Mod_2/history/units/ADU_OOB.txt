@@ -1,0 +1,902 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 113
+	influence_value = 15
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 25
+	level = 2
+}
+CAM = {
+	value = 47
+	level = 2
+}
+CEQ = {
+	value = 122
+	influence_value = 18
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = -27
+	level = 2
+}
+CLM = {
+	value = 107
+	influence_value = 14
+	level = 2
+}
+CRO = {
+	value = 15
+	level = 2
+}
+CSH = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+DLH = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -43
+	level = 2
+}
+FRA = {
+	value = -4
+	level = 2
+}
+GER = {
+	value = -5
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 55
+	influence_value = 1
+	level = 2
+}
+HOD = {
+	value = 17
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = -10
+	level = 2
+}
+LOU = {
+	value = 182
+	military_access = yes
+	influence_value = 83
+	level = 5
+}
+LSK = {
+	value = 47
+	level = 2
+}
+MHR = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+MOR = {
+	value = 77
+	influence_value = 6
+	level = 3
+}
+NDO = {
+	value = -46
+	level = 2
+}
+NEW = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+NOV = {
+	value = 194
+	military_access = yes
+	influence_value = 86
+	level = 5
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 113
+	influence_value = 15
+	level = 2
+}
+POM = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+POR = {
+	value = 185
+	military_access = yes
+	influence_value = 83
+	level = 5
+}
+PRM = {
+	value = 0
+	level = 2
+}
+PRU = {
+	value = -2
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+TBZ = {
+	value = 25
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+UCA = {
+	value = -128
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 197
+	military_access = yes
+	influence_value = 86
+	level = 5
+}
+X03 = {
+	value = 184
+	military_access = yes
+	influence_value = 83
+	level = 5
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 25
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Abd-al-Rahman Ibn Ali"
+	date="1712.3.8"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Dezsõ Ibn Marwan"
+	date="1713.10.10"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Tamás Ibn Hisam"
+	date="1729.4.13"
+	type=land
+	personality="audacious"
+	background="cartographer"
+}
+
+leader = {
+	name="al-Hakam Ibn Utman"
+	date="1737.12.16"
+	type=sea
+	personality="balanced_p"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Jaish Al Sevilla"
+	location=205
+	regiment = {
+		name="1st Málaga Infantry"
+		type=infantry
+		home=514
+	}
+	regiment = {
+		name="1st Setubal Infantry"
+		type=infantry
+		home=524
+	}
+	regiment = {
+		name="1st Cádiz Infantry"
+		type=infantry
+		home=512
+	}
+	regiment = {
+		name="1st Beja Infantry"
+		type=infantry
+		home=526
+	}
+	regiment = {
+		name="1st Seville Artillery"
+		type=artillery
+		home=509
+	}
+}
+
+army = {
+	name="Jaish Al La Mancha"
+	location=457
+	regiment = {
+		name="1st Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
+		name="1st Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+	regiment = {
+		name="1st Albacete Artillery"
+		type=artillery
+		home=508
+	}
+	regiment = {
+		name="2nd Seville Artillery"
+		type=artillery
+		home=509
+	}
+	regiment = {
+		name="1st Almería Infantry"
+		type=infantry
+		home=515
+	}
+	regiment = {
+		name="3rd Barcelona Artillery"
+		type=artillery
+		home=498
+	}
+}
+
+army = {
+	name="Jaish Al Beja"
+	location=2618
+	regiment = {
+		name="1st Pamplona Infantry"
+		type=infantry
+		home=493
+	}
+	regiment = {
+		name="1st Soria Infantry"
+		type=infantry
+		home=481
+	}
+	regiment = {
+		name="1st Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="1st Évora Artillery"
+		type=artillery
+		home=525
+	}
+	regiment = {
+		name="1st Pamplona Artillery"
+		type=artillery
+		home=493
+	}
+	regiment = {
+		name="2nd Castellón Artillery"
+		type=artillery
+		home=504
+	}
+}
+
+army = {
+	name="Jaish Al Segovia"
+	location=1610
+	regiment = {
+		name="1st Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="2nd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Covilhã Infantry"
+		type=infantry
+		home=520
+	}
+	regiment = {
+		name="1st Badajoz Artillery"
+		type=artillery
+		home=484
+	}
+	regiment = {
+		name="1st Oporto Artillery"
+		type=artillery
+		home=518
+	}
+	regiment = {
+		name="1st Córdoba Artillery"
+		type=artillery
+		home=510
+	}
+}
+
+army = {
+	name="Jaish Al Labourd"
+	location=458
+	regiment = {
+		name="2nd Málaga Infantry"
+		type=infantry
+		home=514
+	}
+	regiment = {
+		name="1st Seville Infantry"
+		type=infantry
+		home=509
+	}
+	regiment = {
+		name="1st Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+	regiment = {
+		name="1st Ávila Artillery"
+		type=artillery
+		home=483
+	}
+	regiment = {
+		name="2nd Ávila Artillery"
+		type=artillery
+		home=483
+	}
+	regiment = {
+		name="2nd Almendralejo Infantry"
+		type=infantry
+		home=485
+	}
+}
+
+navy = {
+	name="Alboran Sea Squadron"
+	location=2954
+	ship = {
+		name="Akram"
+		type=frigate
+	}
+	ship = {
+		name="Atif"
+		type=frigate
+	}
+	ship = {
+		name="Ayman"
+		type=frigate
+	}
+	ship = {
+		name="Bahir"
+		type=frigate
+	}
+	ship = {
+		name="Fadil"
+		type=frigate
+	}
+	ship = {
+		name="Kamal"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=456
+	regiment = {
+		name="1st Cuenca Infantry"
+		type=infantry
+		home=490
+	}
+	regiment = {
+		name="1st Vila Real Infantry"
+		type=infantry
+		home=519
+	}
+	regiment = {
+		name="1st Coimbra Artillery"
+		type=artillery
+		home=522
+	}
+	regiment = {
+		name="1st Cáceres Artillery"
+		type=artillery
+		home=486
+	}
+	regiment = {
+		name="2nd Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="1st Madrid Artillery"
+		type=artillery
+		home=487
+	}
+}
+
+army = {
+	name="Jaish Al Salamanca"
+	location=459
+	regiment = {
+		name="2nd Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="1st Sigüenza Infantry"
+		type=infantry
+		home=488
+	}
+	regiment = {
+		name="1st Málaga Artillery"
+		type=artillery
+		home=514
+	}
+	regiment = {
+		name="1st Lérida Artillery"
+		type=artillery
+		home=500
+	}
+	regiment = {
+		name="1st Albacete Infantry"
+		type=infantry
+		home=508
+	}
+	regiment = {
+		name="1st Castellón Artillery"
+		type=artillery
+		home=504
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=499
+	regiment = {
+		name="1st Valladolid Infantry"
+		type=infantry
+		home=480
+	}
+	regiment = {
+		name="1st Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="2nd Lisbon Artillery"
+		type=artillery
+		home=521
+	}
+	regiment = {
+		name="1st Zaragoza Artillery"
+		type=artillery
+		home=495
+	}
+	regiment = {
+		name="3rd Cáceres Infantry"
+		type=infantry
+		home=486
+	}
+	regiment = {
+		name="1st Valencia Artillery"
+		type=artillery
+		home=503
+	}
+}
+
+army = {
+	name="Jaish Al Albacete"
+	location=1368
+	regiment = {
+		name="3rd Burgos Infantry"
+		type=infantry
+		home=479
+	}
+	regiment = {
+		name="3rd Ávila Infantry"
+		type=infantry
+		home=483
+	}
+	regiment = {
+		name="1st Bilbao Artillery"
+		type=artillery
+		home=492
+	}
+	regiment = {
+		name="2nd Oporto Artillery"
+		type=artillery
+		home=518
+	}
+	regiment = {
+		name="1st Badajoz Infantry"
+		type=infantry
+		home=484
+	}
+}
+
+army = {
+	name="Jaish Al Carcí"
+	location=460
+	regiment = {
+		name="2nd Córdoba Infantry"
+		type=infantry
+		home=510
+	}
+	regiment = {
+		name="1st Murcia Infantry"
+		type=infantry
+		home=507
+	}
+	regiment = {
+		name="1st Huelva Artillery"
+		type=artillery
+		home=511
+	}
+	regiment = {
+		name="1st Barcelona Artillery"
+		type=artillery
+		home=498
+	}
+	regiment = {
+		name="1st Madrid Infantry"
+		type=infantry
+		home=487
+	}
+	regiment = {
+		name="2nd Barcelona Artillery"
+		type=artillery
+		home=498
+	}
+}
+
+navy = {
+	name="Jabal Tariq Squadron"
+	location=2954
+	ship = {
+		name="Fas"
+		type=manowar
+	}
+	ship = {
+		name="Murrakush"
+		type=manowar
+	}
+	ship = {
+		name="Miknasa"
+		type=manowar
+	}
+	ship = {
+		name="Al-Rabat"
+		type=manowar
+	}
+	ship = {
+		name="Asfi"
+		type=manowar
+	}
+	ship = {
+		name="Tanja"
+		type=manowar
+	}
+	ship = {
+		name="Tatawin"
+		type=manowar
+	}
+	ship = {
+		name="Al-Qasr al-Kabir"
+		type=manowar
+	}
+	ship = {
+		name="Shafshawan"
+		type=manowar
+	}
+	ship = {
+		name="Al-Araish"
+		type=manowar
+	}
+	ship = {
+		name="Al-Sawira"
+		type=manowar
+	}
+	ship = {
+		name="Wujda"
+		type=manowar
+	}
+	ship = {
+		name="Warzazat"
+		type=manowar
+	}
+	ship = {
+		name="Agadir"
+		type=manowar
+	}
+	ship = {
+		name="2nd Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Valencia Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Setubal Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Oporto Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Faro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Oviedo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Cádiz Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="4th Macaristanian Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Gibraltar Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lisbon Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Granada Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="Balaeric Sea Squadron"
+	location=2954
+	ship = {
+		name="Fath"
+		type=frigate
+	}
+	ship = {
+		name="Firas"
+		type=frigate
+	}
+	ship = {
+		name="Fawwaz"
+		type=frigate
+	}
+	ship = {
+		name="Ghalib"
+		type=frigate
+	}
+	ship = {
+		name="Hakim"
+		type=frigate
+	}
+	ship = {
+		name="Humam"
+		type=frigate
+	}
+	ship = {
+		name="Jabbar"
+		type=frigate
+	}
+	ship = {
+		name="Jawhar"
+		type=frigate
+	}
+	ship = {
+		name="1st Macaristanian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Castellón Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Macaristanian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Málaga Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Cádiz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Macaristanian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Cádiz Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Setubal Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Faro Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Macaristanian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Valencia Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Lisbon Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Barcelona Clipper Transport"
+		type=clipper_transport
+	}
+}
+

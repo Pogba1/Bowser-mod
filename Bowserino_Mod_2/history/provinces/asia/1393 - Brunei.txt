@@ -1,0 +1,8 @@
+owner=GER
+controller=GER
+add_core=BRU
+add_core=MLY
+trade_goods = fish
+life_rating = 31
+colonial=2
+fort = 1

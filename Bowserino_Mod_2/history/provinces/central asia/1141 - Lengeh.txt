@@ -1,0 +1,8 @@
+owner=PRM
+controller=PRM
+add_core=BLC
+add_core=PER
+add_core=TRX
+trade_goods = fish
+life_rating = 35
+terrain = semidesert

@@ -1,0 +1,749 @@
+2068 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1338
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 582
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 122
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 26789
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 1495
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 1882
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 706
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 24
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 113
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 395
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 27888
+	}
+
+}
+2069 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 24
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 14497
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = sunni
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = sunni
+		size= 250
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = sunni
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = sunni
+		size= 3
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = sunni
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = sunni
+		size= 105
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = sunni
+		size= 4595
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 208
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 1233
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 15
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 518
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 18635
+	}
+
+}
+2070 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 622
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 444
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 14
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 93
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 20926
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 664
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 1393
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 21019
+	}
+
+}
+2071 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 817
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 583
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 190
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 13
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 368
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 27172
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 922
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 1901
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 618
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 43
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 1197
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 28149
+	}
+
+}
+2072 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 1992
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3031
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 325
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 28
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 364
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 37509
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 2170
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 9637
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 1032
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 90
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 165
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 1157
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 32933
+	}
+
+}
+2073 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 504
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 360
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 117
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 8
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 227
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 16759
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 569
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 1172
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 381
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 739
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 17361
+	}
+
+}
+2635 = {
+	soldiers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 114
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = shamanism
+		size= 795
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = shamanism
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = shamanism
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = shamanism
+		size= 10352
+	}
+
+	soldiers=
+	{
+		culture = shona
+		religion = coptic
+		size= 121
+	}
+
+	artisans=
+	{
+		culture = shona
+		religion = coptic
+		size= 2486
+	}
+
+	clergymen=
+	{
+		culture = shona
+		religion = coptic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = shona
+		religion = coptic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = shona
+		religion = coptic
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = shona
+		religion = coptic
+		size= 9164
+	}
+
+}

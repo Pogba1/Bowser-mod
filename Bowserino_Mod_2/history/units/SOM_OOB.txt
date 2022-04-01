@@ -1,0 +1,971 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ARG = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 30
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 17
+	level = 2
+}
+CEQ = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CRO = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -100
+	level = 2
+}
+EGY = {
+	value = -22
+	level = 2
+}
+ENG = {
+	value = 50
+	level = 3
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -60
+	level = 2
+}
+GRE = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+HDR = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+HOD = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 99
+	influence_value = 12
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+KUB = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+LOM = {
+	value = -3
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+MOR = {
+	value = -28
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 40
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 3
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+TBZ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 74
+	influence_value = 6
+	level = 2
+}
+UCA = {
+	value = 135
+	influence_value = 21
+	level = 3
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+X47 = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+YKA = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Ningomoxa Tembo"
+	date="1726.12.1"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Gatsi Nkomo"
+	date="1732.1.5"
+	type=land
+	personality="audacious"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Gowera Rise"
+	date="1732.1.6"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Kamborapasu Chrima"
+	date="1736.7.29"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Ngwato Chirombo"
+	date="1737.3.14"
+	type=land
+	personality="intuitive"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Gatsi Birir"
+	date="1737.12.16"
+	type=land
+	personality="efficient"
+	background="uncommonly_young"
+}
+
+
+#Armies
+navy = {
+	name="Fleet of Meregh"
+	location=2782
+	ship = {
+		name="Sana"
+		type=manowar
+	}
+	ship = {
+		name="Taizz"
+		type=manowar
+	}
+	ship = {
+		name="Hudayda"
+		type=manowar
+	}
+	ship = {
+		name="Adan"
+		type=manowar
+	}
+	ship = {
+		name="Mukalla"
+		type=manowar
+	}
+	ship = {
+		name="Sayun"
+		type=manowar
+	}
+	ship = {
+		name="Mukha"
+		type=manowar
+	}
+	ship = {
+		name="Tihama"
+		type=manowar
+	}
+	ship = {
+		name="Hadramawt"
+		type=manowar
+	}
+	ship = {
+		name="Suqutra"
+		type=manowar
+	}
+	ship = {
+		name="1st Colombo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Hobyo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Kelang Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Colombo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Ipoh Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bela Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Berbera Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Tanjung Puteri Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Bosaso Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Hobyo Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tolanaro Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pondicherry Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Mogadishu Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Colombo Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="Army of Merca"
+	location=2043
+	regiment = {
+		name="1st Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="2nd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="1st Tanjore Irregulars"
+		type=irregular
+		home=1309
+	}
+	regiment = {
+		name="5th Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=2812
+	ship = {
+		name="1st Bone Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ceuta Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ternate Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Kilwa Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Toliara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Santander Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Vigo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mukalla Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1425
+	regiment = {
+		name="1st Aselia Irregulars"
+		type=irregular
+		home=1861
+	}
+	regiment = {
+		name="2nd Ogaden Irregulars"
+		type=irregular
+		home=1867
+	}
+	regiment = {
+		name="1st Madras Irregulars"
+		type=irregular
+		home=1304
+	}
+	regiment = {
+		name="1st Trivandrum Irregulars"
+		type=irregular
+		home=1319
+	}
+	regiment = {
+		name="1st Madurai Irregulars"
+		type=irregular
+		home=1310
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2800
+	ship = {
+		name="Akram"
+		type=frigate
+	}
+	ship = {
+		name="Atif"
+		type=frigate
+	}
+	ship = {
+		name="Ayman"
+		type=frigate
+	}
+	ship = {
+		name="Bahir"
+		type=frigate
+	}
+	ship = {
+		name="Fadil"
+		type=frigate
+	}
+	ship = {
+		name="Fath"
+		type=frigate
+	}
+	ship = {
+		name="Tahir"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1868
+	regiment = {
+		name="1st Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+	regiment = {
+		name="2nd Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+	regiment = {
+		name="1st Garissa Artillery"
+		type=artillery
+		home=2032
+	}
+	regiment = {
+		name="2nd Garissa Artillery"
+		type=artillery
+		home=2032
+	}
+	regiment = {
+		name="1st Baidoa Artillery"
+		type=artillery
+		home=1869
+	}
+	regiment = {
+		name="6th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1755
+	regiment = {
+		name="1st Ankober Irregulars"
+		type=irregular
+		home=1859
+	}
+	regiment = {
+		name="1st Djibuti Irregulars"
+		type=irregular
+		home=1875
+	}
+	regiment = {
+		name="1st Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Sidamo Irregulars"
+		type=irregular
+		home=1864
+	}
+	regiment = {
+		name="3rd Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2785
+	ship = {
+		name="Firas"
+		type=frigate
+	}
+	ship = {
+		name="Fawwaz"
+		type=frigate
+	}
+	ship = {
+		name="Ghalib"
+		type=frigate
+	}
+	ship = {
+		name="Hakim"
+		type=frigate
+	}
+	ship = {
+		name="Humam"
+		type=frigate
+	}
+	ship = {
+		name="Jabbar"
+		type=frigate
+	}
+	ship = {
+		name="Thabit"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2782
+	ship = {
+		name="Jawhar"
+		type=frigate
+	}
+	ship = {
+		name="Kamal"
+		type=frigate
+	}
+	ship = {
+		name="Khalid"
+		type=frigate
+	}
+	ship = {
+		name="Masud"
+		type=frigate
+	}
+	ship = {
+		name="Mamun"
+		type=frigate
+	}
+	ship = {
+		name="Majid"
+		type=frigate
+	}
+	ship = {
+		name="Wafiq"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=3067
+	ship = {
+		name="Mufid"
+		type=frigate
+	}
+	ship = {
+		name="Mukhtar"
+		type=frigate
+	}
+	ship = {
+		name="Muntasir"
+		type=frigate
+	}
+	ship = {
+		name="Qudamat"
+		type=frigate
+	}
+	ship = {
+		name="Rashad"
+		type=frigate
+	}
+	ship = {
+		name="Sa'ad"
+		type=frigate
+	}
+}
+
+army = {
+	name="28th Army"
+	location=1746
+	regiment = {
+		name="2nd Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="1st Baidoa Irregulars"
+		type=irregular
+		home=1869
+	}
+	regiment = {
+		name="1st Kismayo Irregulars"
+		type=irregular
+		home=1870
+	}
+	regiment = {
+		name="4th Berbera Irregulars"
+		type=irregular
+		home=1873
+	}
+	regiment = {
+		name="2nd Baidoa Irregulars"
+		type=irregular
+		home=1869
+	}
+}
+
+army = {
+	name="5th Army"
+	location=1763
+	regiment = {
+		name="3rd Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="4th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="3rd Garissa Artillery"
+		type=artillery
+		home=2032
+	}
+	regiment = {
+		name="1st Berbera Artillery"
+		type=artillery
+		home=1873
+	}
+	regiment = {
+		name="1st Bosaso Irregulars"
+		type=irregular
+		home=1872
+	}
+	regiment = {
+		name="2nd Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1869
+	regiment = {
+		name="5th Hobyo Irregulars"
+		type=irregular
+		home=1871
+	}
+	regiment = {
+		name="3rd Mogadishu Irregulars"
+		type=irregular
+		home=1868
+	}
+	regiment = {
+		name="1st Ogaden Artillery"
+		type=artillery
+		home=1867
+	}
+	regiment = {
+		name="2nd Berbera Artillery"
+		type=artillery
+		home=1873
+	}
+	regiment = {
+		name="1st Bale Artillery"
+		type=artillery
+		home=1866
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1425
+	ship = {
+		name="1st Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Somali Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Probolinggo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Vigo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Makassar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Pau Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Makassar Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Bosaso Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Kismayo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Mogadishu Clipper Transport"
+		type=clipper_transport
+	}
+}
+

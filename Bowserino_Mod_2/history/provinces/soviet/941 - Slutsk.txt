@@ -1,0 +1,7 @@
+owner=KIE
+controller=KIE
+add_core=KIE
+add_core=PCH
+add_core=UKR
+trade_goods = cattle
+life_rating = 15

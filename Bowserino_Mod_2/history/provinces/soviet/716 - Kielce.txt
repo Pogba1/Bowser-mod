@@ -1,0 +1,7 @@
+owner=KIE
+controller=KIE
+add_core=KIE
+add_core=PLC
+add_core=POL
+trade_goods = sulphur
+life_rating = 35

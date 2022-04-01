@@ -1,0 +1,260 @@
+1972 = {
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 238
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 3335
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 179
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 200
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 19839
+	}
+
+}
+1974 = {
+	soldiers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 123
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 443
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = shamanism
+		size= 11512
+	}
+
+	soldiers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 10
+	}
+
+	bureaucrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1
+	}
+
+	officers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = bakongo
+		religion = catholic
+		size= 53
+	}
+
+}
+1975 = {
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 125
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 350
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 6375
+	}
+
+}
+1976 = {
+	aristocrats=
+	{
+		culture = fang
+		religion = animist
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = fang
+		religion = animist
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = fang
+		religion = animist
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = fang
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = fang
+		religion = animist
+		size= 7300
+	}
+
+	aristocrats=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 175
+	}
+
+	clergymen=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = forest_bantu
+		religion = animist
+		size= 9125
+	}
+
+}

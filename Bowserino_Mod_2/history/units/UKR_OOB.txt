@@ -1,0 +1,477 @@
+#Sphere of Influence
+
+ADU = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+ALH = {
+	value = -1
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 32
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -10
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = -35
+	level = 2
+}
+ENG = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 10
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = 0
+	level = 2
+}
+PRM = {
+	value = 181
+	military_access = yes
+	influence_value = 32
+	level = 3
+}
+PRU = {
+	value = -15
+	level = 2
+}
+RYA = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SRI = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 0
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+X02 = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Suyiketu Maksymovych"
+	date="1719.4.19"
+	type=land
+	personality="persistant"
+	background="bootlicker"
+}
+
+leader = {
+	name="Suyiketu Trfimenko"
+	date="1730.1.21"
+	type=land
+	personality="persistant"
+	background="generals_aide"
+}
+
+leader = {
+	name="Suyiketu Shchukarev"
+	date="1737.9.19"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=883
+	regiment = {
+		name="1st Bachmut Irregulars"
+		type=irregular
+		home=974
+	}
+	regiment = {
+		name="1st Rovne Cavalry"
+		type=cavalry
+		home=956
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="1st Olviopol Artillery"
+		type=artillery
+		home=969
+	}
+	regiment = {
+		name="1st Kursk Artillery"
+		type=artillery
+		home=977
+	}
+	regiment = {
+		name="1st Iasi Irregulars"
+		type=irregular
+		home=670
+	}
+	regiment = {
+		name="1st Tarnopol Irregulars"
+		type=irregular
+		home=952
+	}
+	regiment = {
+		name="1st Proskorov Cavalry"
+		type=cavalry
+		home=955
+	}
+	regiment = {
+		name="1st Orel Artillery"
+		type=artillery
+		home=1017
+	}
+}
+
+army = {
+	name="1st Army"
+	location=883
+	regiment = {
+		name="1st Belgorod Irregulars"
+		type=irregular
+		home=1018
+	}
+	regiment = {
+		name="2nd Belgorod Irregulars"
+		type=irregular
+		home=1018
+	}
+	regiment = {
+		name="1st Chernigov Irregulars"
+		type=irregular
+		home=962
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1009
+	regiment = {
+		name="1st Rovne Irregulars"
+		type=irregular
+		home=956
+	}
+	regiment = {
+		name="2nd Rovne Irregulars"
+		type=irregular
+		home=956
+	}
+	regiment = {
+		name="3rd Rovne Irregulars"
+		type=irregular
+		home=956
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=970
+	ship = {
+		name="Dniester"
+		type=frigate
+	}
+	ship = {
+		name="Dnipro"
+		type=frigate
+	}
+	ship = {
+		name="Desna"
+		type=frigate
+	}
+	ship = {
+		name="Prut"
+		type=frigate
+	}
+}
+
+army = {
+	name="4th Army"
+	location=880
+	regiment = {
+		name="1st Kursk Irregulars"
+		type=irregular
+		home=977
+	}
+	regiment = {
+		name="1st Krivoy Rog Artillery"
+		type=artillery
+		home=971
+	}
+	regiment = {
+		name="2nd Bachmut Irregulars"
+		type=irregular
+		home=974
+	}
+	regiment = {
+		name="1st Vinnitsa Artillery"
+		type=artillery
+		home=954
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2775
+	ship = {
+		name="Prypiat"
+		type=frigate
+	}
+	ship = {
+		name="2nd Rostov Frigate"
+		type=frigate
+	}
+}
+

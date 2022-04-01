@@ -1,0 +1,100 @@
+517 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 541
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 3808
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 303
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 65
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 392
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 48592
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 17
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 757
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 13
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = protestant
+		size= 673
+	}
+
+}

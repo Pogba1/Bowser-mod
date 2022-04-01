@@ -1,0 +1,8 @@
+owner=UCA
+controller=UCA
+add_core=CMA
+add_core=TLA
+trade_goods = grain
+life_rating = 35
+colonial=2
+naval_base = 2

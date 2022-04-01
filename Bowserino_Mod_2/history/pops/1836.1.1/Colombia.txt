@@ -1,0 +1,1497 @@
+2247 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4613
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 4186
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 680
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 94
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 167
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1319
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 89459
+	}
+
+}
+2248 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 516
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 227
+	}
+
+	craftsmen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2710
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7906
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 1039
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 458
+	}
+
+	craftsmen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 5462
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 10643
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 4796
+	}
+
+	clerks=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 492
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 575
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 68
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 27
+	}
+
+	capitalists=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 42
+	}
+
+}
+2249 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1283
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 6415
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 298
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 23
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 37343
+	}
+
+}
+2250 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 10926
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 19687
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 470
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 3131
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 582
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 226
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 69
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 27
+	}
+
+}
+2251 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 163
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 5649
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 12154
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 409
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1846
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 344
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 132
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1085
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 3487
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 252
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 58
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 651
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 33147
+	}
+
+}
+2252 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 4065
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1255
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 17097
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 12207
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 3769
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 42268
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 8564
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 617
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 798
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 189
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 151
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 987
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 305
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4152
+	}
+
+}
+2253 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4463
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3034
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 10434
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 5807
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1020
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 214
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 353
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 19
+	}
+
+}
+2254 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9254
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6356
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 24362
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 10890
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 835
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 5206
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 971
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 114
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 46
+	}
+
+}
+2255 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1333
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2673
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 30417
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 48985
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 11040
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1029
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 795
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 295
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 98
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1861
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8378
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 514
+	}
+
+	artisans=
+	{
+		culture = guajiro
+		religion = animist
+		size= 31
+	}
+
+	clergymen=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 16758
+	}
+
+}
+2256 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1019
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6673
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 2193
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 10825
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 3462
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 415
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 20
+	}
+
+}
+2257 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 362
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 12582
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 20225
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 689
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 3384
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 56
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 59
+	}
+
+}
+2258 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 3285
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 103
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 1774
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 7069
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1529
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 2278
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 273
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 13
+	}
+
+}
+2259 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 356
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 6001
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 22555
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1602
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 4035
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 753
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 291
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 89
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 72
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 551
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9297
+	}
+
+}
+2260 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 17
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 1659
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 14354
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 2801
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 522
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 201
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 45
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 172
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 23
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2387
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 9557
+	}
+
+}
+2261 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 1512
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 13076
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 2553
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 475
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 156
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 20
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 2174
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 88
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 8706
+	}
+
+}
+2262 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 844
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3257
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 6779
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 942
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 20582
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 5262
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 980
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 379
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 110
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 92
+	}
+
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 4072
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 570
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 15718
+	}
+
+}
+2263 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 1513
+	}
+
+	farmers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 1447
+	}
+
+	artisans=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 295
+	}
+
+	clergymen=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 27
+	}
+
+	bureaucrats=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 2
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 24
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2425
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 2475
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 590
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 1033
+	}
+
+}

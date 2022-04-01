@@ -1,0 +1,1434 @@
+625 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 9625
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 37112
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 3556
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 278
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 266
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 3445
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 197701
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 5620
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 16621
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 1594
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 125
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 1544
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 121755
+	}
+
+}
+626 = {
+	soldiers=
+	{
+		culture = polish
+		religion = animist
+		size= 1551
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = animist
+		size= 3237
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = animist
+		size= 495
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = animist
+		size= 337
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = animist
+		size= 73669
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size= 221
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size= 4157
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size= 635
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 51
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 432
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = catholic
+		size= 5307
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 730
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 3342
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 510
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 41
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 347
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 32137
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 429
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 1494
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 19503
+	}
+
+}
+627 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 4516
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 1376
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 644
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 404
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 112362
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 289
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 6642
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 650
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2152
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1008
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 82
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 43
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 632
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 11466
+	}
+
+}
+628 = {
+	soldiers=
+	{
+		culture = polish
+		religion = animist
+		size= 3516
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = animist
+		size= 6550
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = animist
+		size= 573
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = animist
+		size= 66
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = animist
+		size= 57
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = animist
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = animist
+		size= 83344
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = catholic
+		size= 519
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = catholic
+		size= 8481
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = catholic
+		size= 742
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 86
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = catholic
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = catholic
+		size= 516
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = catholic
+		size= 3371
+	}
+
+}
+629 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1584
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 9719
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1029
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 710
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 65881
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = animist
+		size= 710
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = animist
+		size= 4028
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = animist
+		size= 427
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = animist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = animist
+		size= 294
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = animist
+		size= 29953
+	}
+
+}
+630 = {
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 924
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 9
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 46160
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 384
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 4526
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 776
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 91
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1085
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 11742
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = animist
+		size= 595
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = animist
+		size= 2062
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = animist
+		size= 354
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = animist
+		size= 41
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = animist
+		size= 494
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = animist
+		size= 26685
+	}
+
+}
+631 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 7146
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 5325
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 812
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 90
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 103
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1079
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 112672
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1376
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 7377
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1124
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 125
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1495
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 12349
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 3941
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 5678
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 865
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 96
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 1151
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = catholic
+		size= 58097
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 321
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 5
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 2377
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = animist
+		size= 1322
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = animist
+		size= 1102
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = animist
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = animist
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = animist
+		size= 20656
+	}
+
+	soldiers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 961
+	}
+
+	artisans=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 2427
+	}
+
+	clergymen=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 371
+	}
+
+	bureaucrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 41
+	}
+
+	officers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 492
+	}
+
+	farmers=
+	{
+		culture = western_slavic
+		religion = animist
+		size= 12636
+	}
+
+}
+632 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 4193
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = animist
+		size= 6891
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 4292
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 206
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = animist
+		size= 208
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 61
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 321
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 57815
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 779
+	}
+
+	craftsmen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 1279
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 5887
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 283
+	}
+
+	clerks=
+	{
+		culture = slovak
+		religion = catholic
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 84
+	}
+
+	capitalists=
+	{
+		culture = slovak
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 440
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 3482
+	}
+
+}
+688 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 2122
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 2652
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 30
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 32779
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 394
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 3637
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 26
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 2548
+	}
+
+}
+689 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 2739
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 2201
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 318
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 411
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 43169
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 519
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 3035
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 438
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 47
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 567
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 4606
+	}
+
+}

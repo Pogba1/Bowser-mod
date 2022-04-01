@@ -1,0 +1,7 @@
+owner=UCA
+controller=UCA
+add_core=XAL
+trade_goods = fish
+life_rating = 35
+colonial=2
+naval_base = 1

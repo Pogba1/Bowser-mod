@@ -1,0 +1,160 @@
+2129 = {
+	slaves=
+	{
+		culture = serklandic
+		religion = animist
+		size= 2064
+	}
+
+	soldiers=
+	{
+		culture = svart
+		religion = animist
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = animist
+		size= 1821
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = animist
+		size= 164
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = animist
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = animist
+		size= 5
+	}
+
+}
+2130 = {
+	soldiers=
+	{
+		culture = svart
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = animist
+		size= 3270
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = animist
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = animist
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = animist
+		size= 4
+	}
+
+}
+2132 = {
+	soldiers=
+	{
+		culture = svart
+		religion = animist
+		size= 35
+	}
+
+	farmers=
+	{
+		culture = svart
+		religion = animist
+		size= 3270
+	}
+
+	artisans=
+	{
+		culture = svart
+		religion = animist
+		size= 138
+	}
+
+	clergymen=
+	{
+		culture = svart
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = svart
+		religion = animist
+		size= 29
+	}
+
+	bureaucrats=
+	{
+		culture = svart
+		religion = animist
+		size= 4
+	}
+
+	officers=
+	{
+		culture = svart
+		religion = animist
+		size= 4
+	}
+
+}

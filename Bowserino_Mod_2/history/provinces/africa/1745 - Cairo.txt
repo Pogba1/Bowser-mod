@@ -1,0 +1,6 @@
+owner=X08
+controller=X08
+add_core=EGY
+trade_goods = grain
+life_rating = 45
+fort = 1

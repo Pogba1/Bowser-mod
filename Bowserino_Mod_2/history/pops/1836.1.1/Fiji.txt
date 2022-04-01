@@ -1,0 +1,228 @@
+2454 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 170
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 16732
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = animist
+		size= 3443
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = animist
+		size= 38
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = animist
+		size= 401
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = animist
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = animist
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = animist
+		size= 13
+	}
+
+	farmers=
+	{
+		culture = delian
+		religion = animist
+		size= 1879
+	}
+
+	artisans=
+	{
+		culture = delian
+		religion = animist
+		size= 534
+	}
+
+	aristocrats=
+	{
+		culture = delian
+		religion = animist
+		size= 112
+	}
+
+	clergymen=
+	{
+		culture = delian
+		religion = animist
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = delian
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = delian
+		religion = animist
+		size= 16
+	}
+
+	soldiers=
+	{
+		culture = delian
+		religion = animist
+		size= 23
+	}
+
+}
+2520 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 6721
+	}
+
+	farmers=
+	{
+		culture = sydlig
+		religion = animist
+		size= 1382
+	}
+
+	artisans=
+	{
+		culture = sydlig
+		religion = animist
+		size= 160
+	}
+
+	clergymen=
+	{
+		culture = sydlig
+		religion = animist
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = sydlig
+		religion = animist
+		size= 33
+	}
+
+	bureaucrats=
+	{
+		culture = sydlig
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = sydlig
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = sydlig
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = delian
+		religion = animist
+		size= 759
+	}
+
+	artisans=
+	{
+		culture = delian
+		religion = animist
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = delian
+		religion = animist
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = delian
+		religion = animist
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = delian
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = delian
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = delian
+		religion = animist
+		size= 8
+	}
+
+}

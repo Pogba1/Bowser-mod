@@ -1,0 +1,4 @@
+owner=X07
+controller=X07
+trade_goods = fruit
+life_rating = 35

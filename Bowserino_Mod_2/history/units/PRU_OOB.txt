@@ -1,0 +1,942 @@
+#Sphere of Influence
+
+ADU = {
+	value = -6
+	level = 2
+}
+ALH = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+ARG = {
+	value = -5
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 93
+	influence_value = 10
+	level = 2
+}
+BOU = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CEQ = {
+	value = -5
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = -68
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = -4
+	level = 2
+}
+CRO = {
+	value = 61
+	influence_value = 2
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -33
+	level = 2
+}
+FRA = {
+	value = 0
+	level = 2
+}
+GER = {
+	value = -3
+	level = 2
+}
+GRE = {
+	value = 98
+	influence_value = 12
+	level = 2
+}
+HDR = {
+	value = 0
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = -89
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = -6
+	level = 2
+}
+LSK = {
+	value = -9
+	level = 2
+}
+MHR = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = -3
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 48
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = -4
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = -5
+	level = 2
+}
+POM = {
+	value = 0
+	level = 2
+}
+POR = {
+	value = -9
+	level = 2
+}
+PRM = {
+	value = -25
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+RYA = {
+	value = 79
+	military_access = yes
+	influence_value = 57
+	level = 5
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = 0
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 0
+	level = 2
+}
+TBZ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UCA = {
+	value = 94
+	influence_value = 11
+	level = 2
+}
+UKR = {
+	value = -82
+	level = 2
+}
+USA = {
+	value = -6
+	level = 2
+}
+X03 = {
+	value = -7
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = -15
+	level = 2
+}
+X47 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Lázár von Plothow"
+	date="1720.3.15"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Glande von Mach"
+	date="1720.3.27"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Bezprzym Linkendorf"
+	date="1721.2.1"
+	type=land
+	personality="audacious"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Arelis von Hohenzollern"
+	date="1725.4.2"
+	type=sea
+	personality="resolute"
+	background="natural_born_leader"
+}
+
+leader = {
+	name="Arelis Selasinky"
+	date="1734.2.18"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Arelis von Seel"
+	date="1737.1.4"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="Königliche Armee"
+	location=716
+	regiment = {
+		name="1st  Infantry"
+		type=infantry
+		home=353
+	}
+	regiment = {
+		name="1st Ventspils Infantry"
+		type=infantry
+		home=358
+	}
+	regiment = {
+		name="1st Velikiye Luki Infantry"
+		type=infantry
+		home=1007
+	}
+	regiment = {
+		name="1st Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+	regiment = {
+		name="1st Luga Infantry"
+		type=infantry
+		home=996
+	}
+	regiment = {
+		name="1st Reval Infantry"
+		type=infantry
+		home=349
+	}
+	regiment = {
+		name="6th Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+}
+
+army = {
+	name="4th Army"
+	location=705
+	regiment = {
+		name="1st Vilnius Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="1st Allenstein Infantry"
+		type=infantry
+		home=696
+	}
+	regiment = {
+		name="1st Panevezys Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="2nd Panevezys Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+	regiment = {
+		name="1st Åland Islands Infantry"
+		type=infantry
+		home=348
+	}
+	regiment = {
+		name="1st Karlstad Infantry"
+		type=infantry
+		home=328
+	}
+	regiment = {
+		name="2nd Karlstad Infantry"
+		type=infantry
+		home=328
+	}
+	regiment = {
+		name="2nd Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+	regiment = {
+		name="1st Christiania Infantry"
+		type=infantry
+		home=313
+	}
+	regiment = {
+		name="1st St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Falun Artillery"
+		type=artillery
+		home=323
+	}
+	regiment = {
+		name="1st Helsinki Artillery"
+		type=artillery
+		home=343
+	}
+	regiment = {
+		name="1st Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+	regiment = {
+		name="1st Königsberg Artillery"
+		type=artillery
+		home=695
+	}
+	regiment = {
+		name="1st Danzig Artillery"
+		type=artillery
+		home=690
+	}
+	regiment = {
+		name="1st Pskov Infantry"
+		type=infantry
+		home=1006
+	}
+	regiment = {
+		name="2nd Norrköping Artillery"
+		type=artillery
+		home=325
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2707
+	ship = {
+		name="Carolus Secundus"
+		type=frigate
+	}
+	ship = {
+		name="Chur Prinz"
+		type=frigate
+	}
+	ship = {
+		name="Dorothea"
+		type=frigate
+	}
+	ship = {
+		name="Friedrich Wilhelm zu Pferde"
+		type=frigate
+	}
+	ship = {
+		name="Goldener Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Kurprinz von Brandenburg"
+		type=frigate
+	}
+	ship = {
+		name="Gazelle"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=695
+	ship = {
+		name="Brandenburg"
+		type=manowar
+	}
+	ship = {
+		name="Braunschweig"
+		type=manowar
+	}
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Hessen"
+		type=manowar
+	}
+	ship = {
+		name="Kurfürst Friedrich Wilhelm"
+		type=manowar
+	}
+	ship = {
+		name="Mecklenburg"
+		type=manowar
+	}
+	ship = {
+		name="Pommern"
+		type=manowar
+	}
+	ship = {
+		name="Preussen"
+		type=manowar
+	}
+	ship = {
+		name="Schlesien"
+		type=manowar
+	}
+	ship = {
+		name="3rd Königsberg Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="Morian"
+		type=frigate
+	}
+	ship = {
+		name="Rother Löwe"
+		type=frigate
+	}
+	ship = {
+		name="Wappen von Brandenburg"
+		type=frigate
+	}
+	ship = {
+		name="Adler"
+		type=frigate
+	}
+	ship = {
+		name="Albatross"
+		type=frigate
+	}
+	ship = {
+		name="Basilisk"
+		type=frigate
+	}
+	ship = {
+		name="Bismarck"
+		type=frigate
+	}
+	ship = {
+		name="Blitz"
+		type=frigate
+	}
+}
+
+army = {
+	name="34th Army"
+	location=696
+	regiment = {
+		name="1st Örebro Infantry"
+		type=infantry
+		home=327
+	}
+	regiment = {
+		name="1st Frederiksstad Infantry"
+		type=infantry
+		home=316
+	}
+	regiment = {
+		name="1st Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="2nd  Infantry"
+		type=infantry
+		home=353
+	}
+	regiment = {
+		name="1st Gävle Infantry"
+		type=infantry
+		home=317
+	}
+	regiment = {
+		name="1st Falun Infantry"
+		type=infantry
+		home=323
+	}
+}
+
+army = {
+	name="25th Army"
+	location=360
+	regiment = {
+		name="1st Västerås Infantry"
+		type=infantry
+		home=326
+	}
+	regiment = {
+		name="2nd Hämeenlinna Infantry"
+		type=infantry
+		home=344
+	}
+	regiment = {
+		name="1st Jelgava Infantry"
+		type=infantry
+		home=357
+	}
+	regiment = {
+		name="1st Königsberg Infantry"
+		type=infantry
+		home=695
+	}
+	regiment = {
+		name="2nd Jelgava Infantry"
+		type=infantry
+		home=357
+	}
+	regiment = {
+		name="2nd Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="3rd Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+	regiment = {
+		name="1st Gumbinnen Infantry"
+		type=infantry
+		home=697
+	}
+	regiment = {
+		name="3rd Borås Infantry"
+		type=infantry
+		home=330
+	}
+	regiment = {
+		name="1st Turku Infantry"
+		type=infantry
+		home=345
+	}
+	regiment = {
+		name="1st Stockholm Infantry"
+		type=infantry
+		home=322
+	}
+	regiment = {
+		name="1st Riga Infantry"
+		type=infantry
+		home=354
+	}
+	regiment = {
+		name="1st Norrköping Artillery"
+		type=artillery
+		home=325
+	}
+	regiment = {
+		name="2nd Allenstein Artillery"
+		type=artillery
+		home=696
+	}
+	regiment = {
+		name="1st St Petersburg Artillery"
+		type=artillery
+		home=994
+	}
+	regiment = {
+		name="1st Karlstad Artillery"
+		type=artillery
+		home=328
+	}
+	regiment = {
+		name="1st Umeå Artillery"
+		type=artillery
+		home=320
+	}
+	regiment = {
+		name="1st Åland Islands Artillery"
+		type=artillery
+		home=348
+	}
+	regiment = {
+		name="2nd Kaunas Infantry"
+		type=infantry
+		home=361
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=2707
+	ship = {
+		name="Blücher"
+		type=frigate
+	}
+	ship = {
+		name="Comet"
+		type=frigate
+	}
+	ship = {
+		name="Cyclop"
+		type=frigate
+	}
+	ship = {
+		name="Delphin"
+		type=frigate
+	}
+	ship = {
+		name="Drache"
+		type=frigate
+	}
+	ship = {
+		name="Eber"
+		type=frigate
+	}
+}
+
+army = {
+	name="1st Army"
+	location=710
+	regiment = {
+		name="4th Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+	regiment = {
+		name="1st Elbing Infantry"
+		type=infantry
+		home=693
+	}
+	regiment = {
+		name="5th Valmiera Infantry"
+		type=infantry
+		home=355
+	}
+	regiment = {
+		name="1st Danzig Infantry"
+		type=infantry
+		home=690
+	}
+	regiment = {
+		name="2nd Allenstein Infantry"
+		type=infantry
+		home=696
+	}
+	regiment = {
+		name="4th Borås Infantry"
+		type=infantry
+		home=330
+	}
+}
+
+army = {
+	name="6th Army"
+	location=710
+	regiment = {
+		name="1st Kaunas Infantry"
+		type=infantry
+		home=361
+	}
+	regiment = {
+		name="1st Kalmar Infantry"
+		type=infantry
+		home=332
+	}
+	regiment = {
+		name="3rd Panevezys Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="1st Memel Infantry"
+		type=infantry
+		home=698
+	}
+	regiment = {
+		name="2nd Vilnius Infantry"
+		type=infantry
+		home=360
+	}
+	regiment = {
+		name="3rd Jelgava Infantry"
+		type=infantry
+		home=357
+	}
+}
+
+army = {
+	name="8th Army"
+	location=712
+	regiment = {
+		name="1st Lida Infantry"
+		type=infantry
+		home=938
+	}
+	regiment = {
+		name="2nd Turku Infantry"
+		type=infantry
+		home=345
+	}
+	regiment = {
+		name="2nd Riga Infantry"
+		type=infantry
+		home=354
+	}
+	regiment = {
+		name="4th Panevezys Infantry"
+		type=infantry
+		home=363
+	}
+	regiment = {
+		name="2nd St Petersburg Infantry"
+		type=infantry
+		home=994
+	}
+	regiment = {
+		name="1st Gotland Infantry"
+		type=infantry
+		home=331
+	}
+}
+
+navy = {
+	name="Ost See Squadron"
+	location=695
+	ship = {
+		name="America"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elbe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Europa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hansa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermann"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hudson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Neckar"
+		type=clipper_transport
+	}
+	ship = {
+		name="New York"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nord-Amerika"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=343
+	ship = {
+		name="Fuchs"
+		type=frigate
+	}
+	ship = {
+		name="Gneisenau"
+		type=frigate
+	}
+}
+

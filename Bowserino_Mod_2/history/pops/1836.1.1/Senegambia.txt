@@ -1,0 +1,850 @@
+1783 = {
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 185
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 740
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 233
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 17185
+	}
+
+}
+1784 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 1133
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 171
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 684
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 14752
+	}
+
+}
+1785 = {
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 870
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 141
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 20305
+	}
+
+}
+1786 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 8382
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 568
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 2272
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 369
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 51
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 477
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 44596
+	}
+
+}
+1787 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 3797
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 835
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 263
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 15598
+	}
+
+}
+1788 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 6510
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 392
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 1569
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 494
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 29918
+	}
+
+}
+1789 = {
+	slaves=
+	{
+		culture = fulbe
+		religion = animist
+		size= 6741
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = animist
+		size= 483
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = animist
+		size= 966
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = animist
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = animist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = animist
+		size= 406
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = animist
+		size= 39517
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 2256
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 162
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1613
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 20
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 678
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 11128
+	}
+
+}
+1790 = {
+	slaves=
+	{
+		culture = fulbe
+		religion = animist
+		size= 8758
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = animist
+		size= 315
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = animist
+		size= 631
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = animist
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = animist
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = animist
+		size= 265
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = animist
+		size= 21431
+	}
+
+	slaves=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 2932
+	}
+
+	soldiers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 1053
+	}
+
+	clergymen=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 171
+	}
+
+	bureaucrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 442
+	}
+
+	farmers=
+	{
+		culture = fulbe
+		religion = sunni
+		size= 5803
+	}
+
+}
+1791 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 3877
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 324
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 2912
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 210
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 317
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 24650
+	}
+
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 4250
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 3192
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 230
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 348
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 27011
+	}
+
+}
+1792 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 2576
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 2045
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 332
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 429
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 44614
+	}
+
+}
+1793 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 3239
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 842
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 16412
+	}
+
+}
+2573 = {
+	slaves=
+	{
+		culture = wolof
+		religion = animist
+		size= 5653
+	}
+
+	soldiers=
+	{
+		culture = wolof
+		religion = animist
+		size= 412
+	}
+
+	artisans=
+	{
+		culture = wolof
+		religion = animist
+		size= 1647
+	}
+
+	clergymen=
+	{
+		culture = wolof
+		religion = animist
+		size= 268
+	}
+
+	bureaucrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = wolof
+		religion = animist
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = wolof
+		religion = animist
+		size= 519
+	}
+
+	farmers=
+	{
+		culture = wolof
+		religion = animist
+		size= 32594
+	}
+
+}

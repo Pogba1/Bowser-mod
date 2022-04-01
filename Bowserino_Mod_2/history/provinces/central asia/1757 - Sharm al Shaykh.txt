@@ -1,0 +1,6 @@
+owner=X08
+controller=X08
+add_core=EGY
+trade_goods = fruit
+life_rating = 20
+fort = 1

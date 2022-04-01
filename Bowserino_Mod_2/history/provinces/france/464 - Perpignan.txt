@@ -1,0 +1,8 @@
+owner=ADU
+controller=ADU
+add_core=FRA
+add_core=OCC
+add_core=X26
+add_core=X40
+trade_goods = grain
+life_rating = 31

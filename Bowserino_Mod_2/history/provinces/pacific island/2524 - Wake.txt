@@ -1,0 +1,4 @@
+owner=X47
+controller=X47
+trade_goods = fish
+life_rating = 31

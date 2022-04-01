@@ -1,0 +1,2795 @@
+2087 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 680
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 23596
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 8
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 289
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 1121
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 9034
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 29163
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 1627
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 839
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 135
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 32
+	}
+
+}
+2088 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 150
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 7242
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 2999
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 247
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 46
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 48
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 8
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 2
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = catholic
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = catholic
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = catholic
+		size= 25
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 8
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 32
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 1243
+	}
+
+}
+2089 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 528
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 18316
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 224
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 868
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 7012
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 22642
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 1262
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 650
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 105
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 24
+	}
+
+}
+2090 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 507
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 17595
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 6
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = coptic
+		size= 215
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 834
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 6737
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 21748
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 1213
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 626
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 23
+	}
+
+}
+2091 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 309
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 15117
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 1542
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 251
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 377
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 20189
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 77
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 50
+	}
+
+}
+2092 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 124
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6078
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 7015
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 564
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 184
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 159
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 118
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 18
+	}
+
+}
+2093 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3227
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 3568
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 372
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 60
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 1033
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 11
+	}
+
+}
+2094 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 474
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 23223
+	}
+
+	farmers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 468
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 18
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 491
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 80
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 157
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = catholic
+		size= 807
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = catholic
+		size= 131
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 6521
+	}
+
+}
+2095 = {
+	aristocrats=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = tswana
+		religion = animist
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = tswana
+		religion = animist
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = tswana
+		religion = animist
+		size= 4650
+	}
+
+}
+2096 = {
+	soldiers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 6452
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 8095
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 180
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 623
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 153
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 101
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 20
+	}
+
+}
+2097 = {
+	soldiers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 159
+	}
+
+	farmers=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 7777
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 8941
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = sotho
+		religion = shamanism
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 752
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 24
+	}
+
+}
+2098 = {
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 7255
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 8825
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 691
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 22
+	}
+
+}
+2099 = {
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 7255
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 8825
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 691
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 169
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 22
+	}
+
+}
+2100 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 449
+	}
+
+	soldiers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 250
+	}
+
+	farmers=
+	{
+		culture = xhosa
+		religion = shamanism
+		size= 11789
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 13586
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 599
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 1165
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 189
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 285
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 58
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 38
+	}
+
+}
+2101 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 864
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 313
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 14486
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 945
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 1308
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 213
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 14342
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 341
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 65
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 42
+	}
+
+}
+2102 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 635
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 209
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 9614
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 873
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 142
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 9512
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 693
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 229
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 43
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 28
+	}
+
+}
+2103 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 500
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 7781
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 706
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 7701
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 546
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 184
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 114
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 22
+	}
+
+}
+2104 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 492
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 455
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 21800
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 1898
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 308
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 398
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 21658
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 538
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 498
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 95
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 61
+	}
+
+}
+2105 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 886
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 347
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 87
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 16008
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 265
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 55
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 241
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 94
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = catholic
+		size= 540
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = catholic
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 3593
+	}
+
+}
+2106 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 901
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 290
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 72
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 12
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 13181
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 220
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 46
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 3
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 245
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = catholic
+		size= 450
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = catholic
+		size= 73
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 2950
+	}
+
+}
+2107 = {
+	slaves=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 335
+	}
+
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 341
+	}
+
+	artisans=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 85
+	}
+
+	clergymen=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 14
+	}
+
+	bureaucrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 4
+	}
+
+	officers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 18
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 16249
+	}
+
+	artisans=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 260
+	}
+
+	clergymen=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 42
+	}
+
+	bureaucrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 13
+	}
+
+	officers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 55
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = schwarzreicher
+		religion = catholic
+		size= 4
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 91
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 93
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = catholic
+		size= 530
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = catholic
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 27
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 111
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 3673
+	}
+
+}
+2108 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3789
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 574
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 53045
+	}
+
+	slaves=
+	{
+		culture = somali
+		religion = coptic
+		size= 1429
+	}
+
+	soldiers=
+	{
+		culture = somali
+		religion = coptic
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = somali
+		religion = coptic
+		size= 16523
+	}
+
+	artisans=
+	{
+		culture = somali
+		religion = coptic
+		size= 3163
+	}
+
+	aristocrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 1328
+	}
+
+	clergymen=
+	{
+		culture = somali
+		religion = coptic
+		size= 513
+	}
+
+	officers=
+	{
+		culture = somali
+		religion = coptic
+		size= 102
+	}
+
+	bureaucrats=
+	{
+		culture = somali
+		religion = coptic
+		size= 39
+	}
+
+}
+2109 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1276
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 963
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 482
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 24
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 45153
+	}
+
+	slaves=
+	{
+		culture = nguni
+		religion = catholic
+		size= 256
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 194
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = catholic
+		size= 675
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = catholic
+		size= 219
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = catholic
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = catholic
+		size= 8141
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = catholic
+		size= 474
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 358
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = catholic
+		size= 1873
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = catholic
+		size= 609
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 94
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 61
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = catholic
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = catholic
+		size= 14028
+	}
+
+}
+2110 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2324
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 318
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 635
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 32
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 21
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 12316
+	}
+
+}
+2111 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1283
+	}
+
+	soldiers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 352
+	}
+
+	farmers=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 15957
+	}
+
+	artisans=
+	{
+		culture = zulu
+		religion = shamanism
+		size= 1
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1673
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 1621
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 18851
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 397
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 263
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 459
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 80
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 52
+	}
+
+}
+2112 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 257
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 10422
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 910
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 148
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 10351
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 281
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 238
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 46
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 30
+	}
+
+}
+2113 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 465
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 692
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 11
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 33415
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 591
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 877
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 3126
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 509
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 156
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 766
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 38424
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 102
+	}
+
+}
+2114 = {
+	slaves=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 2258
+	}
+
+	soldiers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 1568
+	}
+
+	clergymen=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 78
+	}
+
+	officers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 329
+	}
+
+	farmers=
+	{
+		culture = nguni
+		religion = shamanism
+		size= 33638
+	}
+
+}
+2558 = {
+	soldiers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 130
+	}
+
+	farmers=
+	{
+		culture = khoisan
+		religion = shamanism
+		size= 6373
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 6487
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 592
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 193
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 1033
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 19
+	}
+
+}

@@ -1,0 +1,8 @@
+owner=POM
+controller=POM
+add_core=FRA
+add_core=NRM
+add_core=SCA
+add_core=SWE
+trade_goods = fish
+life_rating = 35

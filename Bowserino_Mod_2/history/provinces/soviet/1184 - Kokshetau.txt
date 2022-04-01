@@ -1,0 +1,6 @@
+owner=PRM
+controller=PRM
+add_core=CHG
+add_core=SHY
+trade_goods = iron
+life_rating = 35

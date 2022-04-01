@@ -1,0 +1,10 @@
+owner=CHG
+controller=CHG
+add_core=BRY
+add_core=CHG
+add_core=KHA
+add_core=KLK
+add_core=MGL
+trade_goods = grain
+life_rating = 35
+terrain = hills

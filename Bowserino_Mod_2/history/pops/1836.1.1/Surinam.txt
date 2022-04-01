@@ -1,0 +1,144 @@
+2240 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7159
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 112
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = catholic
+		size= 12933
+	}
+
+	farmers=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 824
+	}
+
+	soldiers=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 173
+	}
+
+	clergymen=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 133
+	}
+
+	bureaucrats=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = kleinvenedig
+		religion = catholic
+		size= 16
+	}
+
+}
+2245 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 34
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3363
+	}
+
+	farmers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 2770
+	}
+
+	artisans=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 260
+	}
+
+	clergymen=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 42
+	}
+
+	aristocrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 54
+	}
+
+	bureaucrats=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 9
+	}
+
+	officers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = hvitrduptling
+		religion = animist
+		size= 30
+	}
+
+}

@@ -1,0 +1,842 @@
+29 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 370
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 832
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 69
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 5
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 17048
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 89
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 1233
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 230
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 2774
+	}
+
+}
+1191 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 6493
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 727
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 9
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 305
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 27633
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = animist
+		size= 3261
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 366
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 1457
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 612
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 12229
+	}
+
+}
+1192 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 3574
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 566
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 566
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 7
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 23241
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = animist
+		size= 2210
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 350
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 1267
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 532
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 12854
+	}
+
+}
+1195 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 2006
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 3285
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1173
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 220
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 26
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 493
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 51402
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = animist
+		size= 156
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 255
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 1356
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 254
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 569
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 1867
+	}
+
+}
+1198 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 28242
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 9448
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 6756
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 1244
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 76
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 709
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 121197
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = animist
+		size= 4669
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 1562
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 8989
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 1656
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 101
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 236
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 943
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 8597
+	}
+
+}
+1199 = {
+	slaves=
+	{
+		culture = mongol
+		religion = sunni
+		size= 22308
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 12055
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = sunni
+		size= 7331
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = sunni
+		size= 1222
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = sunni
+		size= 171
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 204
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = sunni
+		size= 1026
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = sunni
+		size= 118587
+	}
+
+	slaves=
+	{
+		culture = mongol
+		religion = animist
+		size= 2956
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = animist
+		size= 1597
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = animist
+		size= 9273
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = animist
+		size= 1546
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 216
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = animist
+		size= 258
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 1298
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = animist
+		size= 4440
+	}
+
+}
+1200 = {
+	slaves=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 9482
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 5183
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 4165
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 347
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 23
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 777
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 72492
+	}
+
+	slaves=
+	{
+		culture = uzbek
+		religion = animist
+		size= 1383
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = animist
+		size= 757
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = animist
+		size= 5382
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = animist
+		size= 448
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = animist
+		size= 126
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = animist
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = animist
+		size= 4380
+	}
+
+}
+1202 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 11506
+	}
+
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 4359
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 7006
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 584
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 70
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 654
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 53503
+	}
+
+}

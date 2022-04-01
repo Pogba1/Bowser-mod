@@ -1,0 +1,6 @@
+owner=GER
+controller=GER
+add_core=FRA
+add_core=OCC
+trade_goods = fruit
+life_rating = 40

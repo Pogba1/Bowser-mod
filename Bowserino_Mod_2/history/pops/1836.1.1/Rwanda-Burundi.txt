@@ -1,0 +1,151 @@
+2034 = {
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 3602
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 18008
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 836
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 64
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 206
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 1080
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 104830
+	}
+
+}
+2035 = {
+	soldiers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 3010
+	}
+
+	artisans=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 11389
+	}
+
+	clergymen=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 529
+	}
+
+	bureaucrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 41
+	}
+
+	officers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 1367
+	}
+
+	farmers=
+	{
+		culture = ruanda
+		religion = shamanism
+		size= 64849
+	}
+
+	soldiers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 2617
+	}
+
+	artisans=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 9903
+	}
+
+	clergymen=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 460
+	}
+
+	bureaucrats=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 35
+	}
+
+	officers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 141
+	}
+
+	aristocrats=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 1188
+	}
+
+	farmers=
+	{
+		culture = rundi
+		religion = shamanism
+		size= 56393
+	}
+
+}

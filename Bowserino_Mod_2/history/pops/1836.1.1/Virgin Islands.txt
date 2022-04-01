@@ -1,0 +1,79 @@
+2223 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 2462
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1399
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 6089
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1435
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1915
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 229
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 191
+	}
+
+}

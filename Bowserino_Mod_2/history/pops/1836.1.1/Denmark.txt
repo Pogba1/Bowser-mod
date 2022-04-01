@@ -1,0 +1,734 @@
+253 = {
+	soldiers=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 409
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 2861
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 37
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 172
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = orthodox
+		size= 37102
+	}
+
+	soldiers=
+	{
+		culture = occitan
+		religion = protestant
+		size= 169
+	}
+
+	artisans=
+	{
+		culture = occitan
+		religion = protestant
+		size= 5232
+	}
+
+	clergymen=
+	{
+		culture = occitan
+		religion = protestant
+		size= 486
+	}
+
+	bureaucrats=
+	{
+		culture = occitan
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = occitan
+		religion = protestant
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = occitan
+		religion = protestant
+		size= 314
+	}
+
+	farmers=
+	{
+		culture = occitan
+		religion = protestant
+		size= 10617
+	}
+
+}
+366 = {
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 1349
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 451
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 78
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 34
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 46114
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 1070
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 2780
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 483
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 208
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 624
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 32743
+	}
+
+}
+367 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 1236
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 1673
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 272
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 100
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 67
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 40308
+	}
+
+	soldiers=
+	{
+		culture = danish
+		religion = catholic
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = catholic
+		size= 413
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = catholic
+		size= 67
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = catholic
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = catholic
+		size= 116
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = catholic
+		size= 7167
+	}
+
+}
+368 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 1519
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 2170
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 108
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 1215
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 48804
+	}
+
+}
+370 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 1661
+	}
+
+	craftsmen=
+	{
+		culture = danish
+		religion = animist
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 8301
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 385
+	}
+
+	clerks=
+	{
+		culture = danish
+		religion = animist
+		size= 493
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 118
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 95
+	}
+
+	capitalists=
+	{
+		culture = danish
+		religion = animist
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 996
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 38935
+	}
+
+}
+371 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 996
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 4979
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 231
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 71
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 597
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 28632
+	}
+
+}
+372 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 4823
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 14649
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 1120
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 413
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 275
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 2171
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 147987
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 858
+	}
+
+}
+373 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 22733
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 5933
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 551
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 118
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 475
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 54883
+	}
+
+	soldiers=
+	{
+		culture = polish
+		religion = animist
+		size= 853
+	}
+
+	artisans=
+	{
+		culture = polish
+		religion = animist
+		size= 10198
+	}
+
+	clergymen=
+	{
+		culture = polish
+		religion = animist
+		size= 947
+	}
+
+	bureaucrats=
+	{
+		culture = polish
+		religion = animist
+		size= 204
+	}
+
+	officers=
+	{
+		culture = polish
+		religion = animist
+		size= 117
+	}
+
+	aristocrats=
+	{
+		culture = polish
+		religion = animist
+		size= 816
+	}
+
+	farmers=
+	{
+		culture = polish
+		religion = animist
+		size= 17329
+	}
+
+}
+374 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 798
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 1140
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 185
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 239
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 26054
+	}
+
+}
+2557 = {
+	soldiers=
+	{
+		culture = danish
+		religion = animist
+		size= 1519
+	}
+
+	artisans=
+	{
+		culture = danish
+		religion = animist
+		size= 7598
+	}
+
+	clergymen=
+	{
+		culture = danish
+		religion = animist
+		size= 353
+	}
+
+	bureaucrats=
+	{
+		culture = danish
+		religion = animist
+		size= 109
+	}
+
+	officers=
+	{
+		culture = danish
+		religion = animist
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = danish
+		religion = animist
+		size= 911
+	}
+
+	farmers=
+	{
+		culture = danish
+		religion = animist
+		size= 43696
+	}
+
+}

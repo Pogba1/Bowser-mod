@@ -1,0 +1,288 @@
+1979 = {
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 27
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 2718
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 2789
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 232
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 9
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 29
+	}
+
+}
+2239 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 6914
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 250
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = orthodox
+		size= 7797
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 615
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 128
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 22
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 12
+	}
+
+}
+2242 = {
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 31
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 3111
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 2409
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 233
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 8
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 25
+	}
+
+}
+2243 = {
+	slaves=
+	{
+		culture = guajiro
+		religion = animist
+		size= 7061
+	}
+
+	soldiers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 73
+	}
+
+	farmers=
+	{
+		culture = guajiro
+		religion = animist
+		size= 123
+	}
+
+	slaves=
+	{
+		culture = afro_caribbean
+		religion = orthodox
+		size= 9242
+	}
+
+	soldiers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 91
+	}
+
+	farmers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 9
+	}
+
+	artisans=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 669
+	}
+
+	aristocrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 281
+	}
+
+	clergymen=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 109
+	}
+
+	bureaucrats=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 24
+	}
+
+	officers=
+	{
+		culture = guyanese
+		religion = orthodox
+		size= 13
+	}
+
+}

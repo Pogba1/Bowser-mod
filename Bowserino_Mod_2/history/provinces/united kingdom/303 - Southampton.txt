@@ -1,0 +1,6 @@
+owner=ENG
+controller=ENG
+add_core=AES
+add_core=KER
+trade_goods = fish
+life_rating = 35

@@ -1,0 +1,857 @@
+518 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = animist
+		size= 6852
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = animist
+		size= 495
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = animist
+		size= 137
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = animist
+		size= 853
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 139691
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 226
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 8888
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 642
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 178
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1106
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 11454
+	}
+
+}
+519 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = animist
+		size= 2679
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = animist
+		size= 193
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = animist
+		size= 583
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 54979
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 3657
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 264
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 41
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 797
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 5949
+	}
+
+}
+520 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 7871
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 568
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 87
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 114
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 857
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 76920
+	}
+
+}
+521 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 6384
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 12490
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 902
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 250
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 402
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1554
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 116797
+	}
+
+}
+522 = {
+	soldiers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 1046
+	}
+
+	artisans=
+	{
+		culture = andalucian
+		religion = animist
+		size= 2091
+	}
+
+	clergymen=
+	{
+		culture = andalucian
+		religion = animist
+		size= 340
+	}
+
+	bureaucrats=
+	{
+		culture = andalucian
+		religion = animist
+		size= 73
+	}
+
+	officers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = andalucian
+		religion = animist
+		size= 512
+	}
+
+	farmers=
+	{
+		culture = andalucian
+		religion = animist
+		size= 100404
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 2843
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 462
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 100
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 697
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 14424
+	}
+
+}
+523 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 3577
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 3111
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 505
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 78
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 226
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 762
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 69508
+	}
+
+}
+524 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 4489
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 50
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1117
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 42801
+	}
+
+}
+525 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1779
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 5717
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 413
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 64
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1245
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 54167
+	}
+
+}
+526 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 4269
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 308
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 47
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1062
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 40648
+	}
+
+}
+527 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1870
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 2671
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 434
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 67
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 140
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 654
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 60949
+	}
+
+}
+2134 = {
+	soldiers=
+	{
+		culture = berber
+		religion = animist
+		size= 445
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = animist
+		size= 891
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = animist
+		size= 145
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = animist
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = animist
+		size= 42825
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 49
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1088
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 229
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 3330
+	}
+
+}
+2135 = {
+	soldiers=
+	{
+		culture = berber
+		religion = animist
+		size= 134
+	}
+
+	artisans=
+	{
+		culture = berber
+		religion = animist
+		size= 269
+	}
+
+	clergymen=
+	{
+		culture = berber
+		religion = animist
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = berber
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = berber
+		religion = animist
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = berber
+		religion = animist
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = berber
+		religion = animist
+		size= 12907
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 168
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 939
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 15258
+	}
+
+}

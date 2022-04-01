@@ -1,0 +1,14 @@
+owner=LOM
+controller=LOM
+add_core=FRA
+add_core=LOM
+add_core=OCC
+add_core=TUL
+trade_goods = tobacco
+life_rating = 31
+state_building=
+{
+	level=1
+	building = explosives_factory
+	upgrade = yes
+}

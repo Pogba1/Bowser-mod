@@ -1,0 +1,6 @@
+owner=PRM
+controller=PRM
+add_core=TKS
+trade_goods = coal
+life_rating = 15
+terrain = boreal

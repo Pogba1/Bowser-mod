@@ -1,0 +1,72 @@
+203 = {
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 7509
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 136
+	}
+
+	craftsmen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8170
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1221
+	}
+
+	clerks=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 492
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 228
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 88
+	}
+
+	capitalists=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17
+	}
+
+}

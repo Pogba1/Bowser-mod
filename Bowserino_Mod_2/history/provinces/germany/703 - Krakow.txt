@@ -1,0 +1,8 @@
+owner=KIE
+controller=KIE
+add_core=KIE
+add_core=PLC
+add_core=POL
+trade_goods = coal
+life_rating = 40
+fort = 1

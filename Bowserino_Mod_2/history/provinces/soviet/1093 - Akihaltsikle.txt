@@ -1,0 +1,6 @@
+owner=TBZ
+controller=TBZ
+add_core=GEO
+add_core=TBZ
+trade_goods = wool
+life_rating = 35

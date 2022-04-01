@@ -1,0 +1,1445 @@
+623 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 1294
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 87
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 20551
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 682
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 2137
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 33
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 8907
+	}
+
+}
+639 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 5200
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 1822
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 183
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 84283
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 965
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 2497
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 222
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 251
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 12651
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 2767
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 8195
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 727
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 148
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 222
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 822
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 34858
+	}
+
+}
+640 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 1846
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 742
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 30217
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 342
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 1017
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 16
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 4534
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 982
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 3337
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 278
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 52
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 78
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 12497
+	}
+
+}
+641 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = animist
+		size= 4589
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = animist
+		size= 2091
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = animist
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 58
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 491
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = animist
+		size= 73184
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 2365
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = catholic
+		size= 4246
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size= 567
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 997
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 30632
+	}
+
+}
+642 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 984
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 686
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 49338
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 508
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 1395
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 333
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 75
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 448
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 23199
+	}
+
+}
+643 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 1040
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 1040
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 49435
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 538
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 2115
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 397
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 74
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 69
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 444
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 23244
+	}
+
+}
+644 = {
+	soldiers=
+	{
+		culture = slovak
+		religion = animist
+		size= 2502
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = animist
+		size= 869
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = animist
+		size= 72
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = animist
+		size= 96
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = animist
+		size= 41383
+	}
+
+	soldiers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 465
+	}
+
+	artisans=
+	{
+		culture = slovak
+		religion = catholic
+		size= 1191
+	}
+
+	clergymen=
+	{
+		culture = slovak
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 22
+	}
+
+	officers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = slovak
+		religion = catholic
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = slovak
+		religion = catholic
+		size= 6210
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 1332
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 3908
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 321
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 72
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 108
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 432
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 17114
+	}
+
+}
+645 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = animist
+		size= 1185
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = animist
+		size= 460
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = animist
+		size= 51
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = animist
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 140
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = animist
+		size= 18908
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 610
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = catholic
+		size= 935
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 32
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 286
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 7913
+	}
+
+}
+646 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 930
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 240
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 77
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 47168
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 276
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 89
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 20
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 120
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 2726
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 448
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 976
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 314
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 71
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 66
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 425
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 20090
+	}
+
+}
+648 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 248
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 27489
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 301
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 525
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 172
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 267
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 14317
+	}
+
+}
+649 = {
+	soldiers=
+	{
+		culture = mongol
+		religion = animist
+		size= 4589
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = animist
+		size= 3378
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = animist
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 58
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = animist
+		size= 88
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = animist
+		size= 524
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = animist
+		size= 73149
+	}
+
+	soldiers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 2365
+	}
+
+	artisans=
+	{
+		culture = mongol
+		religion = catholic
+		size= 6859
+	}
+
+	clergymen=
+	{
+		culture = mongol
+		religion = catholic
+		size= 567
+	}
+
+	bureaucrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 118
+	}
+
+	officers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = mongol
+		religion = catholic
+		size= 1063
+	}
+
+	farmers=
+	{
+		culture = mongol
+		religion = catholic
+		size= 30617
+	}
+
+}
+650 = {
+	soldiers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 2894
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = animist
+		size= 1021
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = animist
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = animist
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = animist
+		size= 47683
+	}
+
+	soldiers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 391
+	}
+
+	artisans=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 1296
+	}
+
+	clergymen=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 281
+	}
+
+	farmers=
+	{
+		culture = hungarian
+		religion = catholic
+		size= 4702
+	}
+
+	soldiers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 1495
+	}
+
+	artisans=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 4425
+	}
+
+	clergymen=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 364
+	}
+
+	bureaucrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 80
+	}
+
+	officers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 120
+	}
+
+	aristocrats=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 961
+	}
+
+	farmers=
+	{
+		culture = bosniak
+		religion = catholic
+		size= 18776
+	}
+
+}

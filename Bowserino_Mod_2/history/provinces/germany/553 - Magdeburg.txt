@@ -1,0 +1,7 @@
+owner=GER
+controller=GER
+add_core=LUZ
+add_core=PLC
+add_core=SAX
+trade_goods = cattle
+life_rating = 40

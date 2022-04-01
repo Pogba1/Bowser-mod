@@ -1,0 +1,17 @@
+owner=UCA
+controller=UCA
+trade_goods = iron
+life_rating = 35
+colonial=2
+state_building=
+{
+	level=1
+	building = canned_food_factory
+	upgrade = yes
+}
+state_building=
+{
+	level=1
+	building = steel_factory
+	upgrade = yes
+}

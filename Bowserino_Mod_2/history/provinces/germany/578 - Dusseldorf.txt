@@ -1,0 +1,13 @@
+owner=GER
+controller=GER
+add_core=GER
+add_core=X16
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

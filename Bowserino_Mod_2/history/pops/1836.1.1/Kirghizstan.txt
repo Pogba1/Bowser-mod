@@ -1,0 +1,300 @@
+1189 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2899
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 2329
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 194
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 13
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 217
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = sunni
+		size= 46054
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 935
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = animist
+		size= 5925
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = animist
+		size= 494
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 138
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = animist
+		size= 554
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 8613
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 2606
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 2094
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 174
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 11
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 49
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 41405
+	}
+
+}
+1190 = {
+	soldiers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 335
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 755
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 4
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 11
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 70
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = gnostic
+		size= 15531
+	}
+
+	soldiers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 68
+	}
+
+	artisans=
+	{
+		culture = uzbek
+		religion = animist
+		size= 1059
+	}
+
+	clergymen=
+	{
+		culture = uzbek
+		religion = animist
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = uzbek
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = uzbek
+		religion = animist
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = uzbek
+		religion = animist
+		size= 2047
+	}
+
+}
+1203 = {
+	soldiers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 2009
+	}
+
+	artisans=
+	{
+		culture = tajik
+		religion = sunni
+		size= 3229
+	}
+
+	clergymen=
+	{
+		culture = tajik
+		religion = sunni
+		size= 269
+	}
+
+	bureaucrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 32
+	}
+
+	officers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = tajik
+		religion = sunni
+		size= 301
+	}
+
+	farmers=
+	{
+		culture = tajik
+		religion = sunni
+		size= 29964
+	}
+
+}

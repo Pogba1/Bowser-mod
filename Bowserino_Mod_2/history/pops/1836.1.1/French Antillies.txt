@@ -1,0 +1,279 @@
+45 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 927
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 75
+	}
+
+	craftsmen=
+	{
+		culture = carribean
+		religion = animist
+		size= 2352
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 406
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 2296
+	}
+
+	craftsmen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5820
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1829
+	}
+
+	clerks=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 493
+	}
+
+	capitalists=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 249
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 219
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 183
+	}
+
+}
+2228 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 9927
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 218
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 754
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 43490
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8209
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 761
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 985
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 954
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 117
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+}
+2230 = {
+	slaves=
+	{
+		culture = carribean
+		religion = animist
+		size= 11977
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = animist
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = carribean
+		religion = animist
+		size= 7
+	}
+
+	clergymen=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = carribean
+		religion = animist
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = animist
+		size= 1006
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 48574
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1074
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9376
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 871
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1126
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 187
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 53
+	}
+
+}

@@ -1,0 +1,9 @@
+owner=CRO
+controller=CRO
+add_core=BYZ
+add_core=CRO
+add_core=GRE
+add_core=X39
+trade_goods = fish
+life_rating = 32
+terrain = small_island

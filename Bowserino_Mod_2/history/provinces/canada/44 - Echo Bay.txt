@@ -1,0 +1,11 @@
+owner=UCA
+controller=UCA
+trade_goods = fish
+life_rating = 30
+terrain = new_world_mountain
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}

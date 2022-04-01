@@ -1,0 +1,939 @@
+#Sphere of Influence
+
+ADU = {
+	value = -32
+	level = 2
+}
+ALH = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+ARG = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 77
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+BOS = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+BOU = {
+	value = 76
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+CEQ = {
+	value = 86
+	influence_value = 9
+	level = 2
+}
+CHG = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+CRO = {
+	value = 37
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = -13
+	level = 2
+}
+EGY = {
+	value = -34
+	level = 2
+}
+ENG = {
+	value = -17
+	level = 2
+}
+FRA = {
+	value = 121
+	influence_value = 17
+	level = 3
+}
+GER = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 80
+	influence_value = 7
+	level = 2
+}
+HDR = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+HOD = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+JAP = {
+	value = 5
+	level = 2
+}
+KIE = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+LNA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+LOM = {
+	value = 9
+	level = 2
+}
+LOU = {
+	value = 57
+	influence_value = 1
+	level = 2
+}
+LSK = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+MHR = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+MOR = {
+	value = -33
+	level = 2
+}
+NDO = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = -15
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 59
+	influence_value = 2
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+POM = {
+	value = -60
+	level = 2
+}
+POR = {
+	value = -10
+	level = 2
+}
+PRM = {
+	value = 90
+	influence_value = 10
+	level = 2
+}
+PRU = {
+	value = -4
+	level = 2
+}
+SOM = {
+	value = -72
+	level = 2
+}
+SWI = {
+	value = 77
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+SYR = {
+	value = 64
+	influence_value = 3
+	level = 2
+}
+TBZ = {
+	value = 85
+	influence_value = 8
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+UCA = {
+	value = 40
+	level = 2
+}
+UKR = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+USA = {
+	value = 84
+	influence_value = 8
+	level = 2
+}
+X03 = {
+	value = 44
+	level = 2
+}
+X04 = {
+	value = 3
+	level = 2
+}
+X05 = {
+	value = 0
+	level = 2
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = -11
+	level = 2
+}
+X47 = {
+	value = 76
+	influence_value = 6
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Liutpold Adam"
+	date="1717.11.27"
+	type=land
+	personality="defiant"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Ludwig Angermann"
+	date="1718.7.16"
+	type=sea
+	personality="coolminded"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Lothar Hafner"
+	date="1731.6.15"
+	type=land
+	personality="resolute"
+	background="school_of_defense"
+}
+
+leader = {
+	name="Karl Lindner"
+	date="1731.6.24"
+	type=land
+	personality="unflinching"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Simon VII von Greyerz"
+	date="1737.1.11"
+	type=land
+	personality="resolute"
+	background="school_of_offense"
+}
+
+leader = {
+	name="Richard Edelmann"
+	date="1737.12.16"
+	type=sea
+	personality="coolminded"
+	background="natural_born_leader"
+}
+
+
+#Armies
+army = {
+	name="Armee von Göttingen"
+	location=587
+	regiment = {
+		name="1st Munich Infantry"
+		type=infantry
+		home=599
+	}
+	regiment = {
+		name="1st Fulda Infantry"
+		type=infantry
+		home=568
+	}
+	regiment = {
+		name="1st Amsterdam Infantry"
+		type=infantry
+		home=375
+	}
+	regiment = {
+		name="1st Aschaffenburg Infantry"
+		type=infantry
+		home=596
+	}
+	regiment = {
+		name="1st Magdeburg Artillery"
+		type=artillery
+		home=553
+	}
+	regiment = {
+		name="1st Stade Artillery"
+		type=artillery
+		home=531
+	}
+	regiment = {
+		name="2nd Stade Artillery"
+		type=artillery
+		home=531
+	}
+	regiment = {
+		name="1st Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="1st Frankfurt Artillery"
+		type=artillery
+		home=564
+	}
+	regiment = {
+		name="1st Kassel Infantry"
+		type=infantry
+		home=566
+	}
+	regiment = {
+		name="3rd Stade Artillery"
+		type=artillery
+		home=531
+	}
+}
+
+army = {
+	name="Armee von Jambi"
+	location=1399
+	regiment = {
+		name="1st Sibolga Artillery"
+		type=artillery
+		home=1409
+	}
+	regiment = {
+		name="1st Graaf Reinet Artillery"
+		type=artillery
+		home=2097
+	}
+	regiment = {
+		name="1st Hantam Artillery"
+		type=artillery
+		home=2093
+	}
+}
+
+navy = {
+	name="15th Fleet"
+	location=2814
+	ship = {
+		name="Brandenburg"
+		type=manowar
+	}
+	ship = {
+		name="Braunschweig"
+		type=manowar
+	}
+	ship = {
+		name="Deutschland"
+		type=manowar
+	}
+	ship = {
+		name="Elsass"
+		type=manowar
+	}
+	ship = {
+		name="Hannover"
+		type=manowar
+	}
+	ship = {
+		name="Hessen"
+		type=manowar
+	}
+	ship = {
+		name="Kaiser Barbarossa"
+		type=manowar
+	}
+	ship = {
+		name="Kaiser Friedrich III"
+		type=manowar
+	}
+	ship = {
+		name="Kaiser Karl der Grosse"
+		type=manowar
+	}
+	ship = {
+		name="Kurfürst Friedrich Wilhelm"
+		type=manowar
+	}
+	ship = {
+		name="Lothringen"
+		type=manowar
+	}
+	ship = {
+		name="Mecklenburg"
+		type=manowar
+	}
+	ship = {
+		name="Pommern"
+		type=manowar
+	}
+	ship = {
+		name="Preussen"
+		type=manowar
+	}
+	ship = {
+		name="Schlesien"
+		type=manowar
+	}
+	ship = {
+		name="Schleswig-Holstein"
+		type=manowar
+	}
+	ship = {
+		name="Adler"
+		type=frigate
+	}
+	ship = {
+		name="Albatross"
+		type=frigate
+	}
+	ship = {
+		name="Alexandrine"
+		type=frigate
+	}
+	ship = {
+		name="Amazone"
+		type=frigate
+	}
+	ship = {
+		name="Arcona"
+		type=frigate
+	}
+	ship = {
+		name="Ariadne"
+		type=frigate
+	}
+	ship = {
+		name="Augusta"
+		type=frigate
+	}
+	ship = {
+		name="Barbarossa"
+		type=frigate
+	}
+	ship = {
+		name="America"
+		type=clipper_transport
+	}
+	ship = {
+		name="Donau"
+		type=clipper_transport
+	}
+	ship = {
+		name="Elbe"
+		type=clipper_transport
+	}
+	ship = {
+		name="Europa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hansa"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hela"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hermann"
+		type=clipper_transport
+	}
+	ship = {
+		name="Hudson"
+		type=clipper_transport
+	}
+	ship = {
+		name="Schwaben"
+		type=manowar
+	}
+	ship = {
+		name="Blücher"
+		type=frigate
+	}
+	ship = {
+		name="Neckar"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=376
+	ship = {
+		name="Basilisk"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armee von Nassau"
+	location=381
+	regiment = {
+		name="1st Gotha Infantry"
+		type=infantry
+		home=562
+	}
+	regiment = {
+		name="1st Frankfurt Infantry"
+		type=infantry
+		home=564
+	}
+	regiment = {
+		name="1st Karlsruhe Infantry"
+		type=infantry
+		home=586
+	}
+	regiment = {
+		name="1st Giessen Infantry"
+		type=infantry
+		home=567
+	}
+	regiment = {
+		name="2nd Karlsruhe Infantry"
+		type=infantry
+		home=586
+	}
+	regiment = {
+		name="1st Hanover Artillery"
+		type=artillery
+		home=534
+	}
+	regiment = {
+		name="2nd Magdeburg Artillery"
+		type=artillery
+		home=553
+	}
+	regiment = {
+		name="1st Rotterdam Artillery"
+		type=artillery
+		home=376
+	}
+	regiment = {
+		name="1st Koblenz Artillery"
+		type=artillery
+		home=574
+	}
+	regiment = {
+		name="1st Aachen Artillery"
+		type=artillery
+		home=576
+	}
+	regiment = {
+		name="1st Ingolstadt Infantry"
+		type=infantry
+		home=601
+	}
+	regiment = {
+		name="1st Darmstadt Artillery"
+		type=artillery
+		home=2560
+	}
+}
+
+army = {
+	name="Armee von Bayreuth"
+	location=397
+	regiment = {
+		name="1st Korbach Infantry"
+		type=infantry
+		home=584
+	}
+	regiment = {
+		name="1st Heilbronn Infantry"
+		type=infantry
+		home=590
+	}
+	regiment = {
+		name="1st Vienna Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="1st Augsburg Infantry"
+		type=infantry
+		home=592
+	}
+	regiment = {
+		name="1st Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="4th Landshut Infantry"
+		type=infantry
+		home=600
+	}
+}
+
+army = {
+	name="1st Army"
+	location=577
+	regiment = {
+		name="1st Wiesbaden Infantry"
+		type=infantry
+		home=565
+	}
+	regiment = {
+		name="1st Osnabrück Infantry"
+		type=infantry
+		home=538
+	}
+	regiment = {
+		name="1st Magdeburg Infantry"
+		type=infantry
+		home=553
+	}
+	regiment = {
+		name="1st Bielefeld Infantry"
+		type=infantry
+		home=582
+	}
+	regiment = {
+		name="1st Dessau Infantry"
+		type=infantry
+		home=555
+	}
+	regiment = {
+		name="1st Nienburg Infantry"
+		type=infantry
+		home=535
+	}
+}
+
+army = {
+	name="Armee von Ingolstadt"
+	location=392
+	regiment = {
+		name="1st Regensburg Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="1st Linz Infantry"
+		type=infantry
+		home=622
+	}
+	regiment = {
+		name="2nd Regensburg Infantry"
+		type=infantry
+		home=602
+	}
+	regiment = {
+		name="2nd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+	regiment = {
+		name="3rd Landshut Infantry"
+		type=infantry
+		home=600
+	}
+}
+
+army = {
+	name="Armee von Amsterdam"
+	location=380
+	regiment = {
+		name="2nd Vienna Infantry"
+		type=infantry
+		home=619
+	}
+	regiment = {
+		name="1st Aachen Infantry"
+		type=infantry
+		home=576
+	}
+	regiment = {
+		name="1st Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="1st Utrecht Infantry"
+		type=infantry
+		home=377
+	}
+	regiment = {
+		name="2nd Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+}
+
+army = {
+	name="Armee von Hainaut"
+	location=375
+	regiment = {
+		name="1st Bremen Infantry"
+		type=infantry
+		home=539
+	}
+	regiment = {
+		name="1st Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="1st Stade Infantry"
+		type=infantry
+		home=531
+	}
+	regiment = {
+		name="3rd Eindhoven Infantry"
+		type=infantry
+		home=379
+	}
+	regiment = {
+		name="2nd Lüneburg Infantry"
+		type=infantry
+		home=532
+	}
+	regiment = {
+		name="1st Linz Artillery"
+		type=artillery
+		home=622
+	}
+	regiment = {
+		name="1st Dortmund Artillery"
+		type=artillery
+		home=580
+	}
+	regiment = {
+		name="1st Münster Artillery"
+		type=artillery
+		home=581
+	}
+	regiment = {
+		name="1st Bielefeld Artillery"
+		type=artillery
+		home=582
+	}
+	regiment = {
+		name="2nd Munich Artillery"
+		type=artillery
+		home=599
+	}
+	regiment = {
+		name="1st Düsseldorf Artillery"
+		type=artillery
+		home=578
+	}
+}
+
+army = {
+	name="Armee von Sambas"
+	location=1398
+	regiment = {
+		name="1st Emthanjeni Infantry"
+		type=infantry
+		home=2558
+	}
+	regiment = {
+		name="1st Umtata Infantry"
+		type=infantry
+		home=2100
+	}
+	regiment = {
+		name="1st Hantam Infantry"
+		type=infantry
+		home=2093
+	}
+	regiment = {
+		name="1st Mossel Bay Infantry"
+		type=infantry
+		home=2091
+	}
+	regiment = {
+		name="1st Padang Artillery"
+		type=artillery
+		home=1408
+	}
+	regiment = {
+		name="1st Lampung Artillery"
+		type=artillery
+		home=1403
+	}
+	regiment = {
+		name="1st Mbabane Infantry"
+		type=infantry
+		home=2114
+	}
+	regiment = {
+		name="1st Siak Artillery"
+		type=artillery
+		home=1401
+	}
+}
+
+navy = {
+	name="Kaiserliche Flotte"
+	location=388
+	ship = {
+		name="Bismarck"
+		type=frigate
+	}
+	ship = {
+		name="Blitz"
+		type=frigate
+	}
+}
+

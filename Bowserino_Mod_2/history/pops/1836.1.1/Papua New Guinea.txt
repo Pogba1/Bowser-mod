@@ -1,0 +1,357 @@
+1531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 865
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 162
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 20175
+	}
+
+}
+2528 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 423
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1692
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 317
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 355
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 39469
+	}
+
+}
+2529 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 306
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1224
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 198
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 62
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 256
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 28512
+	}
+
+}
+2530 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 513
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2054
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 385
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 41
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 431
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 47891
+	}
+
+}
+2531 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 594
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 2377
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 446
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 499
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 55431
+	}
+
+}
+2537 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 286
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 1145
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 23
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 26705
+	}
+
+}
+2539 = {
+	soldiers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 124
+	}
+
+	artisans=
+	{
+		culture = melanesian
+		religion = animist
+		size= 495
+	}
+
+	clergymen=
+	{
+		culture = melanesian
+		religion = animist
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = melanesian
+		religion = animist
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = melanesian
+		religion = animist
+		size= 11533
+	}
+
+}

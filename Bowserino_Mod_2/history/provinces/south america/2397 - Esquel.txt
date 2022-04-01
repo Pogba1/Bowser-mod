@@ -1,0 +1,7 @@
+owner=UCA
+controller=UCA
+add_core=NOR
+trade_goods = wool
+life_rating = 15
+terrain = dryhills
+colonial=2

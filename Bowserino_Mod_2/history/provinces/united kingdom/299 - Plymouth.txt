@@ -1,0 +1,8 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=KER
+add_core=NRM
+add_core=WHA
+trade_goods = fruit
+life_rating = 35

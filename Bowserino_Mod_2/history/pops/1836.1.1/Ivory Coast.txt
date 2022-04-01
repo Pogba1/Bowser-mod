@@ -1,0 +1,564 @@
+1892 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 4769
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1030
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 19160
+	}
+
+}
+1893 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 10996
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 398
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1590
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 258
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 501
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 25940
+	}
+
+}
+1894 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 5604
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 308
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 4315
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 40
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 388
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 19952
+	}
+
+}
+1895 = {
+	aristocrats=
+	{
+		culture = akan
+		religion = animist
+		size= 225
+	}
+
+	clergymen=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	artisans=
+	{
+		culture = akan
+		religion = animist
+		size= 600
+	}
+
+	soldiers=
+	{
+		culture = akan
+		religion = animist
+		size= 125
+	}
+
+	farmers=
+	{
+		culture = akan
+		religion = animist
+		size= 8925
+	}
+
+	slaves=
+	{
+		culture = akan
+		religion = animist
+		size= 2000
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 150
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 2700
+	}
+
+}
+1896 = {
+	aristocrats=
+	{
+		culture = mande
+		religion = sunni
+		size= 150
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = sunni
+		size= 400
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = sunni
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = sunni
+		size= 7300
+	}
+
+	aristocrats=
+	{
+		culture = kru
+		religion = animist
+		size= 425
+	}
+
+	clergymen=
+	{
+		culture = kru
+		religion = animist
+		size= 225
+	}
+
+	artisans=
+	{
+		culture = kru
+		religion = animist
+		size= 1100
+	}
+
+	soldiers=
+	{
+		culture = kru
+		religion = animist
+		size= 225
+	}
+
+	farmers=
+	{
+		culture = kru
+		religion = animist
+		size= 15025
+	}
+
+	slaves=
+	{
+		culture = kru
+		religion = animist
+		size= 5000
+	}
+
+}
+1897 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 2771
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 850
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 138
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 357
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 16874
+	}
+
+}
+1898 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 3518
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 2688
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 437
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 60
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 565
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 58819
+	}
+
+}
+1899 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 2386
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 429
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 1718
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 279
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 721
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 37331
+	}
+
+}
+1900 = {
+	slaves=
+	{
+		culture = mande
+		religion = animist
+		size= 7800
+	}
+
+	soldiers=
+	{
+		culture = mande
+		religion = animist
+		size= 624
+	}
+
+	artisans=
+	{
+		culture = mande
+		religion = animist
+		size= 2496
+	}
+
+	clergymen=
+	{
+		culture = mande
+		religion = animist
+		size= 406
+	}
+
+	bureaucrats=
+	{
+		culture = mande
+		religion = animist
+		size= 56
+	}
+
+	officers=
+	{
+		culture = mande
+		religion = animist
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = mande
+		religion = animist
+		size= 524
+	}
+
+	farmers=
+	{
+		culture = mande
+		religion = animist
+		size= 50409
+	}
+
+}

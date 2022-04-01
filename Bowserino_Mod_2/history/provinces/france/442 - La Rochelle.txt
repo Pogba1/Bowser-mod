@@ -1,0 +1,7 @@
+owner=X03
+controller=X03
+add_core=CAT
+add_core=SPA
+add_core=X43
+trade_goods = fish
+life_rating = 31

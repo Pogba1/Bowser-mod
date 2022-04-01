@@ -1,0 +1,6 @@
+owner=X47
+controller=X47
+add_core=X47
+trade_goods = wool
+life_rating = 32
+terrain = savanna

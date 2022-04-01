@@ -1,0 +1,7 @@
+owner=TBZ
+controller=TBZ
+add_core=BYZ
+add_core=IRQ
+add_core=SYR
+trade_goods = grain
+life_rating = 35

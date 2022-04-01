@@ -1,0 +1,6 @@
+owner=UCA
+controller=UCA
+trade_goods = cattle
+life_rating = 35
+terrain = montane_forest
+colonial=2

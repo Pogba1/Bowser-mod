@@ -1,0 +1,13723 @@
+1 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6035
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1922
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 442
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 49
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 2423
+	}
+
+}
+2 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 113
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 5538
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1766
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 405
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 65
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 84
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 41
+	}
+
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 45
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 2223
+	}
+
+}
+3 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 5918
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 931
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 289
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8
+	}
+
+}
+4 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3007
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 523
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 149
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11
+	}
+
+}
+5 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 3421
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1781
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 72
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 41
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3
+	}
+
+}
+43 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 890
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 933
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 14828
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30718
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 2200
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2302
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5206
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 971
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 375
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 114
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 91
+	}
+
+}
+60 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1488
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 433
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5815
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20069
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 5728
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1668
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1499
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 630
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 244
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 74
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 60
+	}
+
+}
+78 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 220
+	}
+
+	craftsmen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 5640
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 14
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	clerks=
+	{
+		culture = penutian
+		religion = totemism
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1
+	}
+
+	capitalists=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 3
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 5083
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 99
+	}
+
+	craftsmen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2529
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 623
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 100
+	}
+
+	clerks=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 482
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+	capitalists=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 131
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1276
+	}
+
+}
+79 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2751
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 46376
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25416
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1792
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3247
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1815
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1053
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 159
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 127
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+}
+80 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 532
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8967
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 186
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2545
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 512
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+}
+81 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1337
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 22545
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13104
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 892
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1592
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 518
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 333
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 79
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 63
+	}
+
+}
+82 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 527
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 8882
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2548
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 508
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+}
+83 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 741
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 12484
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 542
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8010
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 918
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 298
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 36
+	}
+
+}
+84 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1339
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 22486
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 967
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14357
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1597
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 520
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 335
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 81
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 64
+	}
+
+	artisans=
+	{
+		culture = penutian
+		religion = totemism
+		size= 51
+	}
+
+	clergymen=
+	{
+		culture = penutian
+		religion = totemism
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 3
+	}
+
+	officers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = penutian
+		religion = totemism
+		size= 11
+	}
+
+}
+85 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 752
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 12677
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7746
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 532
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 918
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 298
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+}
+86 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1807
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 30462
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 608
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6753
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3879
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 723
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 277
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 85
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 67
+	}
+
+}
+87 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 145
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 20
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 7086
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1322
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 192
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 153
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6198
+	}
+
+}
+88 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 767
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 23
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 12900
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 256
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1330
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 63
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 51
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 280
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3493
+	}
+
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 870
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 14667
+	}
+
+}
+89 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2237
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 243
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 79
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 12
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 21678
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2360
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1756
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 570
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 88
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 106
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 369
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20777
+	}
+
+}
+90 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 2417
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 131
+	}
+
+	clergymen=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 7
+	}
+
+	officers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 8
+	}
+
+	aristocrats=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 23637
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2654
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2073
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 674
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 104
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 436
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23195
+	}
+
+}
+91 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 550
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 9272
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2708
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 533
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21
+	}
+
+}
+92 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 611
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 10303
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 102
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1186
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 509
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 214
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+}
+93 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4956
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1711
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 285
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 60
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+}
+94 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+95 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+96 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+97 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1800
+	}
+
+}
+98 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+99 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+100 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 565
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 9528
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 336
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3811
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2346
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 437
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 168
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 51
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 556
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 9375
+	}
+
+}
+101 = {
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 4329
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2665
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 216
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 972
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 408
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 48
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 287
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4832
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 599
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 10102
+	}
+
+}
+102 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 709
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 11943
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5307
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 771
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 323
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 371
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 124
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 38
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30
+	}
+
+	artisans=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 1
+	}
+
+}
+103 = {
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 5833
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4583
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 575
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 102
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 3074
+	}
+
+}
+104 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 1133
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 19104
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1282
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17214
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3876
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 560
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 965
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 86
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 68
+	}
+
+}
+105 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6304
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7073
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 813
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 130
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 15
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 156
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 5642
+	}
+
+}
+106 = {
+	aristocrats=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	officers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	clergymen=
+	{
+		culture = yankee
+		religion = protestant
+		size= 5
+	}
+
+	artisans=
+	{
+		culture = yankee
+		religion = protestant
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = yankee
+		religion = protestant
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 1950
+	}
+
+}
+107 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 200
+	}
+
+}
+108 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+109 = {
+	aristocrats=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 10
+	}
+
+	clergymen=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 25
+	}
+
+	artisans=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 15
+	}
+
+	farmers=
+	{
+		culture = native_american_minor
+		religion = animist
+		size= 900
+	}
+
+}
+110 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 5709
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1997
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 330
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 69
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+}
+111 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 97
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 4759
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2144
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 294
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 62
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 47
+	}
+
+}
+112 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3629
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3867
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 474
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 86
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 74
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3630
+	}
+
+}
+113 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 47
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4649
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1771
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 270
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 57
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+}
+114 = {
+	soldiers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = penutian
+		religion = totemism
+		size= 4067
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1546
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 236
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 38
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17
+	}
+
+}
+115 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 223
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 10926
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4910
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 675
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 141
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 109
+	}
+
+}
+116 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 7700
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5003
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 702
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 146
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 112
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 35
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 110
+	}
+
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 78
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 3801
+	}
+
+}
+117 = {
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 4245
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2132
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 271
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 56
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 44
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+}
+118 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 4142
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 263
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+}
+119 = {
+	soldiers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 151
+	}
+
+	farmers=
+	{
+		culture = sonoran
+		religion = totemism
+		size= 7375
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3601
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 468
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 98
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 81
+	}
+
+}
+120 = {
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 6495
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6147
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 679
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 135
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3265
+	}
+
+}
+121 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3776
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2315
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 260
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 54
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 41
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 51
+	}
+
+}
+122 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3900
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2267
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 263
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 55
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 50
+	}
+
+}
+123 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 184
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 9016
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6930
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 683
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 154
+	}
+
+}
+124 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 67
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3274
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2236
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 235
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+}
+125 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 249
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 12201
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9936
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 946
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 197
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 218
+	}
+
+}
+126 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 232
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 11377
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12829
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2444
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 175
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 227
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 53
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 308
+	}
+
+}
+127 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 129
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 6303
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4636
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 467
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 103
+	}
+
+}
+128 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 5788
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4097
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 422
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 87
+	}
+
+}
+129 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 56
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2743
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2281
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 215
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 50
+	}
+
+}
+130 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 149
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 8199
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10852
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 834
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 174
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 15
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 211
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 242
+	}
+
+}
+131 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 57
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 72
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3435
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3318
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 294
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 74
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 61
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 58
+	}
+
+}
+132 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1492
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 164
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 6536
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10686
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 4791
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3102
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 578
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 223
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 69
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7233
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 26
+	}
+
+}
+133 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 969
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 145
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2218
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1611
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12620
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2593
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 483
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 186
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1005
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 57
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 460
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 7011
+	}
+
+}
+134 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 200
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 911
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 15159
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24262
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1606
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1804
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 757
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 291
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 89
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 71
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 346
+	}
+
+}
+135 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 4260
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3431
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 329
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 68
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 53
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+}
+136 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 1112
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 18739
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13348
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 984
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3380
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 629
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 243
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 72
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 59
+	}
+
+}
+137 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 855
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 424
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6485
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1618
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1035
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13118
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2563
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 557
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 183
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 56
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 127
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1937
+	}
+
+}
+138 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 412
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6929
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1004
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14291
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2485
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 539
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 178
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 123
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 2071
+	}
+
+}
+139 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7743
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 394
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 11572
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 31060
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16533
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21477
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8790
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 641
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1106
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 237
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 79
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = jewish
+		size= 100
+	}
+
+}
+140 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3236
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2415
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 11601
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7272
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1057
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 172
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 221
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 52
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 411
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21
+	}
+
+}
+141 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2249
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1629
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 8208
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4227
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 735
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+}
+142 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6092
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 245
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 1740
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10810
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 21639
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2213
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4566
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 426
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 328
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 100
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 80
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 379
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2693
+	}
+
+}
+143 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3592
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 253
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 8750
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 8496
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16397
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 590
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3812
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 710
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 274
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 84
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+}
+144 = {
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3200
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10390
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 585
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 29
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 226
+	}
+
+}
+145 = {
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3186
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5795
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 386
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 81
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 126
+	}
+
+}
+146 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1130
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 367
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 16860
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1710
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 553
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21361
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4149
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 387
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 299
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 91
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 36
+	}
+
+}
+147 = {
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2257
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3395
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 242
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 50
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 39
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+}
+148 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1466
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 98
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3323
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 3207
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5837
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 212
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1401
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 101
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+}
+149 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1006
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3594
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1647
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5277
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 152
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 494
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 80
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9
+	}
+
+}
+150 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 854
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 79
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3463
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10178
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 943
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 958
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 210
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 51
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 255
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 154
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6697
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = mormon
+		size= 15
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = mormon
+		size= 50
+	}
+
+}
+151 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 75
+	}
+
+	craftsmen=
+	{
+		culture = siouan
+		religion = totemism
+		size= 1095
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 2586
+	}
+
+	craftsmen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4073
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7936
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1121
+	}
+
+	clerks=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 493
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 235
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 55
+	}
+
+	capitalists=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 274
+	}
+
+	soldiers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 207
+	}
+
+	craftsmen=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 3010
+	}
+
+	farmers=
+	{
+		culture = caddoan
+		religion = totemism
+		size= 7113
+	}
+
+}
+152 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 15299
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14816
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1289
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 208
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 270
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 63
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 328
+	}
+
+}
+153 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 312
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5262
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3818
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 946
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 88
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16
+	}
+
+}
+154 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 270
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 4555
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3308
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 237
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 820
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 59
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+}
+155 = {
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 3655
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2697
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 272
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 44
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 56
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 60
+	}
+
+}
+156 = {
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 197
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 9646
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7700
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 743
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 170
+	}
+
+}
+157 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 3484
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5668
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 677
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 109
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 142
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 126
+	}
+
+	soldiers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = plains_algonquian
+		religion = totemism
+		size= 6693
+	}
+
+}
+158 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 60
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 2936
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4432
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 439
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 97
+	}
+
+	soldiers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = dakota
+		religion = totemism
+		size= 2904
+	}
+
+}
+159 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 6410
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5819
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 522
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 110
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 128
+	}
+
+}
+160 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 3002
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2542
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 236
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 56
+	}
+
+}
+161 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 76
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 3732
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8158
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 741
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 154
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 120
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 179
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 110
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5413
+	}
+
+}
+162 = {
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5725
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5190
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 466
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 75
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 114
+	}
+
+}
+163 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 380
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18597
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19053
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 427
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1614
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 339
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 80
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+}
+164 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5906
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6061
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 514
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 108
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 132
+	}
+
+}
+165 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 104
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5072
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5582
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 457
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 123
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 74
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 96
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9
+	}
+
+}
+166 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 11818
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13140
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 203
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 892
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 102
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 261
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 62
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = mormon
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = mormon
+		size= 350
+	}
+
+}
+167 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10884
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12586
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 277
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1004
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 162
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 50
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+}
+168 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 434
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 148
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6796
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8077
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 566
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 682
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 142
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 34
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14
+	}
+
+}
+169 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 497
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 24347
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 28679
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 637
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2274
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 369
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 477
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 113
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45
+	}
+
+}
+170 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 649
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 318
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 14931
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 956
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20221
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1578
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 331
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 79
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+}
+171 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 115
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5624
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6367
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 514
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 83
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 139
+	}
+
+}
+172 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10856
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14865
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 330
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1104
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 179
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 232
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 55
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+}
+173 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 206
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10106
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13204
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 292
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1003
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 211
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20
+	}
+
+}
+174 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 8348
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9900
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 218
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 786
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 127
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 164
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 15
+	}
+
+}
+175 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4164
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4878
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 389
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 81
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 107
+	}
+
+}
+176 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 4837
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5294
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 117
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 436
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 91
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9
+	}
+
+}
+177 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 204
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10002
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8586
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 211
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1887
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 352
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 136
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16
+	}
+
+}
+178 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 369
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 18075
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 26970
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1938
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 406
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 315
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 97
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 38
+	}
+
+}
+179 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 136
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6668
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30439
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 674
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2188
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 355
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 460
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 108
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 281
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 13763
+	}
+
+}
+180 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 302
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 14779
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 459
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20666
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1524
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 319
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 248
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30
+	}
+
+}
+181 = {
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 117
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5730
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 26155
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 580
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1881
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 304
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 394
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 93
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 241
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 11828
+	}
+
+}
+182 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 794
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 393
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 18450
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 29872
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1409
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 699
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2180
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 353
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 458
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 109
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 43
+	}
+
+}
+183 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 275
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 10542
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17093
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 488
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 393
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1226
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 199
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 257
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 61
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24
+	}
+
+}
+184 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5590
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 396
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 13832
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 8390
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 18436
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 591
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1983
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 321
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 416
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 99
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+}
+185 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3886
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 263
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 8983
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 6347
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13000
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1383
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 224
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 290
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 425
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 69
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+}
+186 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3831
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 292
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 12205
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 6301
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 33010
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 873
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2805
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 455
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 589
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 140
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 54
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 238
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 9962
+	}
+
+}
+187 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4616
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 155
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 5287
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 7073
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14467
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 473
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1578
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 331
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 78
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 157
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 5364
+	}
+
+}
+188 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5103
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 434
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 17973
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 9029
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 44839
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3732
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 604
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 783
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 184
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 73
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1184
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 240
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 9963
+	}
+
+}
+189 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2386
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 6965
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 5358
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14042
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 426
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1238
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 259
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 61
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24
+	}
+
+}
+190 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2363
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 171
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 6033
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 5599
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12826
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1155
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 58
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+}
+191 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1688
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 176
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 6911
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 3502
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12936
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 362
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1079
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 175
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 54
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21
+	}
+
+}
+192 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7534
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 343
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 9293
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 24616
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1118
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 26008
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2931
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1229
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 475
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 145
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 58
+	}
+
+}
+193 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 7413
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 744
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 5134
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 21500
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9537
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2161
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4665
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 870
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 336
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 103
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 82
+	}
+
+}
+194 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3191
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 120
+	}
+
+	artisans=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 20
+	}
+
+	bureaucrats=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 6
+	}
+
+	officers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 25
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2537
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 11179
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 964
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 48
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7490
+	}
+
+}
+195 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 9171
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 512
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 15940
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 23573
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 36355
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3657
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 767
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 592
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 180
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 72
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1309
+	}
+
+}
+196 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4086
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 6470
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 10329
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14397
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 544
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1520
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 246
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 319
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30
+	}
+
+}
+197 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4070
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 158
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 3686
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 12936
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9992
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 502
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1322
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 278
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 215
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 66
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 26
+	}
+
+}
+198 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3166
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 121
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 2792
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 9735
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7310
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 990
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 159
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 371
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17
+	}
+
+}
+199 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2358
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 137
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 4382
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 7630
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12467
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1163
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 488
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 188
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 57
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 443
+	}
+
+}
+200 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2441
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 260
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 10314
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 35802
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 9395
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2624
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1100
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 425
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 129
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 50
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	slaves=
+	{
+		culture = carribean
+		religion = totemism
+		size= 469
+	}
+
+	soldiers=
+	{
+		culture = carribean
+		religion = totemism
+		size= 50
+	}
+
+	farmers=
+	{
+		culture = carribean
+		religion = totemism
+		size= 1983
+	}
+
+}
+201 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6634
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 341
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 10057
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 17478
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20249
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 892
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5571
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1038
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 401
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 124
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+}
+202 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4555
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 702
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 7270
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 13199
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16066
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2029
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4393
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 818
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 316
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 96
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 76
+	}
+
+}
+204 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6496
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 309
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 8661
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 21881
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22026
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2701
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1135
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 439
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 161
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 54
+	}
+
+}
+205 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 14471
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 499
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 9993
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 53449
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24602
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1836
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10293
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1967
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 760
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 326
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 92
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = jewish
+		size= 250
+	}
+
+}
+206 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 12081
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 329
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 7795
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 35355
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23551
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1390
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8438
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1572
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 607
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 187
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 73
+	}
+
+	soldiers=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 149
+	}
+
+	farmers=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 3526
+	}
+
+}
+207 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3065
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 579
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6699
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 12184
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23766
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2300
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2057
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 334
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 433
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 144
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 82
+	}
+
+}
+208 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2365
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 185
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 6675
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 8149
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 633
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20794
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1641
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 344
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 266
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 81
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+}
+209 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4872
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 221
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5948
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 15458
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14137
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4146
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 773
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 299
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 91
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 35
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 695
+	}
+
+}
+210 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 5252
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4286
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 19817
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20901
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5891
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1099
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 424
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 156
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 51
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 131
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 3903
+	}
+
+}
+211 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 10085
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 947
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9604
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 34007
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7233
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 36871
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10542
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1968
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 760
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 233
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 187
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 553
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 5605
+	}
+
+}
+212 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2619
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1347
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 7854
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2418
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 647
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+}
+213 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6012
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 697
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5745
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 26125
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3030
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21368
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2662
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 432
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 558
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 132
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 106
+	}
+
+}
+214 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 6558
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 8691
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 27143
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1290
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23722
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11194
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1567
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 519
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 159
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 64
+	}
+
+}
+215 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2213
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 101
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2724
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 6485
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6944
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 294
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 791
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 166
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16
+	}
+
+}
+216 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4850
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 215
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 5675
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 11913
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10166
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3339
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 622
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 524
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 239
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 73
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 28
+	}
+
+}
+217 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1482
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3605
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20818
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 3220
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1551
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 527
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 325
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 252
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 77
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 161
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 6899
+	}
+
+}
+218 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1304
+	}
+
+	soldiers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 1214
+	}
+
+	farmers=
+	{
+		culture = central_algonquian
+		religion = totemism
+		size= 19162
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27707
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 2249
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2093
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5318
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 496
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 381
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 117
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 93
+	}
+
+}
+219 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3901
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 216
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6662
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 14362
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21846
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 793
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2018
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 328
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 423
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 101
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+}
+220 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3525
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 542
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5613
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 11943
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16728
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1837
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1698
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 276
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 357
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 85
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 68
+	}
+
+}
+221 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 714
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 81
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 3252
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8123
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 2141
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 647
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 136
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12
+	}
+
+}
+222 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3193
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 202
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6715
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 9670
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17894
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 608
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1627
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 684
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 113
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 32
+	}
+
+}
+223 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1763
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 520
+	}
+
+	craftsmen=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4334
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 19408
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 4880
+	}
+
+	craftsmen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12006
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42754
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1441
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 8338
+	}
+
+	clerks=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 986
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1648
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 627
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 196
+	}
+
+	capitalists=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 175
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 78
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = jewish
+		size= 490
+	}
+
+}
+224 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 974
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 16420
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4133
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 35470
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5666
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 528
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 408
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 125
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 100
+	}
+
+}
+225 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 11835
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20952
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 461
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1409
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 229
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 296
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 70
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+}
+226 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 405
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 19861
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40176
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 953
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6141
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1145
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 442
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 136
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 53
+	}
+
+}
+227 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 926
+	}
+
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 374
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 17391
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 26445
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1684
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 677
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4740
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 884
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 342
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 105
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 41
+	}
+
+}
+228 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 177
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 8676
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 12904
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 285
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 926
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 194
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 18
+	}
+
+}
+229 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1007
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 196
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 8615
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 2674
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14283
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1434
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 232
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 301
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 72
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 29
+	}
+
+}
+230 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 133
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6522
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 15909
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 994
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 161
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 209
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 49
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 19
+	}
+
+}
+231 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 119
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 5837
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 14839
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 327
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 890
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 144
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 187
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 44
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 17
+	}
+
+}
+232 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 1044
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 741
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 35245
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 2627
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1860
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 81950
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4718
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1093
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 836
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 259
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 104
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = jewish
+		size= 10
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = jewish
+		size= 490
+	}
+
+}
+233 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 134
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 6549
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 15268
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 940
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 152
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 197
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 18
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 333
+	}
+
+}
+234 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 442
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 21661
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 48268
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1056
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3009
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 488
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 631
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 150
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 60
+	}
+
+}
+235 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 628
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 30754
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 41890
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1008
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7394
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1379
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 534
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 163
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 65
+	}
+
+}
+236 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 485
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 23762
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 29626
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 706
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5383
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 388
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 502
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 119
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 47
+	}
+
+}
+237 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 307
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 15066
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21635
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 478
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1574
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 331
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 78
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+}
+238 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 1853
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 31242
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3046
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42802
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7873
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1469
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 568
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 174
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 138
+	}
+
+}
+239 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 213
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 10449
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16440
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1154
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 187
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 242
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 360
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 57
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 23
+	}
+
+}
+240 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 203
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 9948
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16786
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1148
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 186
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 241
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 56
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 22
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 366
+	}
+
+}
+241 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 513
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 385
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 18343
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 1253
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40816
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2647
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1112
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 429
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 132
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 52
+	}
+
+}
+242 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 382
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 199
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9350
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 20387
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 903
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 469
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1344
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 565
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 218
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 67
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+}
+243 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1877
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 31634
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4089
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 63144
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 4262
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 894
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 692
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 297
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 170
+	}
+
+}
+244 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 201
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 9863
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 21874
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 477
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1366
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 221
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 286
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 68
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 27
+	}
+
+}
+245 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 293
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 14338
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30476
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1033
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1957
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 821
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 317
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 97
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 37
+	}
+
+}
+246 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 555
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 27233
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1077
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45072
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7383
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1377
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 532
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 162
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 65
+	}
+
+}
+247 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 504
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 24673
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 45824
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1003
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3030
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 492
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 635
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 148
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 59
+	}
+
+}
+248 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 1629
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 27458
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3311
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 51351
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3530
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 572
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 740
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 246
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 140
+	}
+
+}
+249 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 15634
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30508
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 670
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1985
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 416
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 323
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 99
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 38
+	}
+
+}
+250 = {
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 85
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 4149
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7774
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 170
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 513
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 107
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 83
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+}
+2146 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 2418
+	}
+
+	soldiers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = eastern_algonquian
+		religion = totemism
+		size= 2204
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 8192
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 928
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 6318
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 859
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 139
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 43
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 34
+	}
+
+}
+2555 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 4570
+	}
+
+	soldiers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 209
+	}
+
+	farmers=
+	{
+		culture = muskogean
+		religion = totemism
+		size= 5667
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 12725
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 13492
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1580
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 663
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 256
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 78
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 30
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 578
+	}
+
+}
+2556 = {
+	slaves=
+	{
+		culture = native_american_minor
+		religion = totemism
+		size= 3910
+	}
+
+	soldiers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 195
+	}
+
+	farmers=
+	{
+		culture = siouan
+		religion = totemism
+		size= 6930
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 10505
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 768
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24850
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 2131
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 446
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 105
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+	soldiers=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 94
+	}
+
+	farmers=
+	{
+		culture = cherokee
+		religion = totemism
+		size= 3339
+	}
+
+}
+2599 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 69
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 3377
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 219
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1762
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 70
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 40
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3
+	}
+
+}
+2627 = {
+	soldiers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 152
+	}
+
+	farmers=
+	{
+		culture = iroquoian
+		religion = totemism
+		size= 7456
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11088
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 244
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 797
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 167
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 129
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 39
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 16
+	}
+
+}
+2630 = {
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 61
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 2979
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 517
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 148
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 24
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 31
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 7
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 11
+	}
+
+}
+2631 = {
+	soldiers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 1
+	}
+
+	farmers=
+	{
+		culture = eskaleut
+		religion = totemism
+		size= 3495
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 228
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1819
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 10
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 42
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 3
+	}
+
+}
+2662 = {
+	soldiers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 80
+	}
+
+	farmers=
+	{
+		culture = navajo
+		religion = totemism
+		size= 2769
+	}
+
+	farmers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 5630
+	}
+
+	artisans=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 1144
+	}
+
+	aristocrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 479
+	}
+
+	clergymen=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 181
+	}
+
+	bureaucrats=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 53
+	}
+
+	officers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 58
+	}
+
+	soldiers=
+	{
+		culture = ujvilag
+		religion = animist
+		size= 188
+	}
+
+	soldiers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 193
+	}
+
+	farmers=
+	{
+		culture = na_dene
+		religion = totemism
+		size= 6718
+	}
+
+	soldiers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 327
+	}
+
+	farmers=
+	{
+		culture = pueblo
+		religion = totemism
+		size= 11334
+	}
+
+}

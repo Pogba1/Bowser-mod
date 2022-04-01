@@ -1,0 +1,5 @@
+owner=PRM
+controller=PRM
+trade_goods = silk
+life_rating = 35
+fort = 1

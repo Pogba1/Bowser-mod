@@ -1,0 +1,9 @@
+owner=SYR
+controller=SYR
+add_core=EGY
+add_core=IRQ
+add_core=SYR
+add_core=X29
+trade_goods = grain
+life_rating = 10
+terrain = semidesert

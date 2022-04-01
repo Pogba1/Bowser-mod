@@ -1,0 +1,8 @@
+owner=POR
+controller=POR
+add_core=DAI
+add_core=IDO
+add_core=JAR
+add_core=POR
+trade_goods = fruit
+life_rating = 32

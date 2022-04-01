@@ -1,0 +1,10 @@
+owner=CSH
+controller=CSH
+add_core=CHI
+add_core=CSH
+add_core=KHA
+add_core=X19
+add_core=X27
+add_core=YAN
+trade_goods = timber
+life_rating = 32

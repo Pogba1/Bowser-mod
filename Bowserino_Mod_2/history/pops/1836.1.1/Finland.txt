@@ -1,0 +1,1972 @@
+336 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 645
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 806
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 86
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 12
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 48
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 21418
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 61
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 959
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 103
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 977
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 135
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 2442
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 262
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 35
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1779
+	}
+
+}
+337 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 295
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 295
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 111
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 28758
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 35
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 365
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 137
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 77
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2819
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 58
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 891
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 334
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 45
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 187
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 4232
+	}
+
+}
+338 = {
+	soldiers=
+	{
+		culture = sami
+		religion = animist
+		size= 501
+	}
+
+	artisans=
+	{
+		culture = sami
+		religion = animist
+		size= 1142
+	}
+
+	clergymen=
+	{
+		culture = sami
+		religion = animist
+		size= 123
+	}
+
+	bureaucrats=
+	{
+		culture = sami
+		religion = animist
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = sami
+		religion = animist
+		size= 69
+	}
+
+	farmers=
+	{
+		culture = sami
+		religion = animist
+		size= 48266
+	}
+
+	officers=
+	{
+		culture = sami
+		religion = animist
+		size= 9
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 54
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1367
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 146
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 20
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 82
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 3689
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 98
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 5643
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 605
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 81
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 52
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 338
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3618
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 1003
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 107
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 14
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = catholic
+		size= 60
+	}
+
+}
+339 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 2504
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 3130
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 336
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 44
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 47
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 188
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 83172
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 340
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 3979
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 427
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 57
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 239
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 7043
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 511
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 9666
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1035
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 139
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 145
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 580
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 6183
+	}
+
+}
+340 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 1422
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 1082
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 116
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 22
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 28193
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 207
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1397
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 150
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 84
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2601
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 344
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3527
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 71
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 2878
+	}
+
+}
+341 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 778
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 972
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 104
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 14
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 15
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 25829
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 110
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1246
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 134
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 18
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 19
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 75
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2318
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 161
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3025
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 45
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 182
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1983
+	}
+
+}
+342 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 908
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 1135
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 16
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 30149
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 128
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1455
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 156
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2707
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 188
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3531
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 378
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 50
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 53
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 212
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 2315
+	}
+
+}
+343 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 1819
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 1384
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 36059
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 265
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1787
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 191
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 36
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 3327
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 440
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 4511
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 483
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 90
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 93
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 271
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3682
+	}
+
+}
+344 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 766
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 82
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 11
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 46
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 16835
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 41
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1052
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 113
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 15
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 63
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2793
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 40
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 2379
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 255
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 143
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 1136
+	}
+
+}
+345 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 2880
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 309
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 58
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 60
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 173
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 74678
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 559
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 3731
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 400
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 75
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 77
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 7090
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 860
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 9228
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 989
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 185
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 554
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 6683
+	}
+
+}
+346 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 1430
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 1788
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 192
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 26
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 27
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 107
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 47512
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 136
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2127
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 228
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 30
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 128
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 2167
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 300
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 5417
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 580
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 77
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 81
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3949
+	}
+
+}
+347 = {
+	soldiers=
+	{
+		culture = finnish
+		religion = animist
+		size= 1197
+	}
+
+	artisans=
+	{
+		culture = finnish
+		religion = animist
+		size= 1496
+	}
+
+	clergymen=
+	{
+		culture = finnish
+		religion = animist
+		size= 160
+	}
+
+	bureaucrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = finnish
+		religion = animist
+		size= 22
+	}
+
+	aristocrats=
+	{
+		culture = finnish
+		religion = animist
+		size= 90
+	}
+
+	farmers=
+	{
+		culture = finnish
+		religion = animist
+		size= 39750
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 108
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1765
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 189
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 25
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 26
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 106
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1621
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 261
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 4565
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 489
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 65
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 68
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 274
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 3599
+	}
+
+}
+348 = {
+	soldiers=
+	{
+		culture = swedish
+		religion = animist
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = swedish
+		religion = animist
+		size= 1388
+	}
+
+	clergymen=
+	{
+		culture = swedish
+		religion = animist
+		size= 149
+	}
+
+	bureaucrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 28
+	}
+
+	officers=
+	{
+		culture = swedish
+		religion = animist
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = swedish
+		religion = animist
+		size= 83
+	}
+
+	farmers=
+	{
+		culture = swedish
+		religion = animist
+		size= 33834
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 168
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1643
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 176
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 33
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 34
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 99
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = animist
+		size= 1492
+	}
+
+	soldiers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 383
+	}
+
+	artisans=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 4196
+	}
+
+	clergymen=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 450
+	}
+
+	bureaucrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 84
+	}
+
+	officers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 252
+	}
+
+	farmers=
+	{
+		culture = pruthenian
+		religion = protestant
+		size= 2878
+	}
+
+}

@@ -1,0 +1,79 @@
+1954 = {
+	slaves=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 5594
+	}
+
+	soldiers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = yoruba
+		religion = shamanism
+		size= 1382
+	}
+
+	slaves=
+	{
+		culture = afro_carpathian
+		religion = animist
+		size= 8942
+	}
+
+	farmers=
+	{
+		culture = fekete
+		religion = animist
+		size= 1227
+	}
+
+	artisans=
+	{
+		culture = fekete
+		religion = animist
+		size= 739
+	}
+
+	soldiers=
+	{
+		culture = fekete
+		religion = animist
+		size= 226
+	}
+
+	clergymen=
+	{
+		culture = fekete
+		religion = animist
+		size= 240
+	}
+
+	aristocrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 155
+	}
+
+	bureaucrats=
+	{
+		culture = fekete
+		religion = animist
+		size= 37
+	}
+
+	officers=
+	{
+		culture = fekete
+		religion = animist
+		size= 23
+	}
+
+}

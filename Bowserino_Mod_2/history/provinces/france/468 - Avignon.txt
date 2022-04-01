@@ -1,0 +1,9 @@
+owner=LOM
+controller=LOM
+add_core=FRA
+add_core=LOM
+add_core=OCC
+add_core=PRO
+add_core=TUL
+trade_goods = cattle
+life_rating = 31

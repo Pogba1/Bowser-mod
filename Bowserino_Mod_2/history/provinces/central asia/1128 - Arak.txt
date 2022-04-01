@@ -1,0 +1,6 @@
+owner=PRM
+controller=PRM
+add_core=PER
+add_core=X30
+trade_goods = iron
+life_rating = 35

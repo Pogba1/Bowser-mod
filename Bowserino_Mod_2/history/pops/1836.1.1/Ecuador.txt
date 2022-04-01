@@ -1,0 +1,406 @@
+2279 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 8160
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 858
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 7721
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 558
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 77
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 112
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 721
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 67585
+	}
+
+}
+2280 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 5152
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 626
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1318
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 214
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 30
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 323
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 25235
+	}
+
+}
+2281 = {
+	slaves=
+	{
+		culture = chibchan
+		religion = inti
+		size= 18186
+	}
+
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 306
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1226
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 199
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 28
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 257
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 10417
+	}
+
+}
+2282 = {
+	soldiers=
+	{
+		culture = quechua
+		religion = inti
+		size= 1281
+	}
+
+	artisans=
+	{
+		culture = quechua
+		religion = inti
+		size= 6067
+	}
+
+	clergymen=
+	{
+		culture = quechua
+		religion = inti
+		size= 438
+	}
+
+	bureaucrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 34
+	}
+
+	officers=
+	{
+		culture = quechua
+		religion = inti
+		size= 115
+	}
+
+	aristocrats=
+	{
+		culture = quechua
+		religion = inti
+		size= 1133
+	}
+
+	farmers=
+	{
+		culture = quechua
+		religion = inti
+		size= 58344
+	}
+
+}
+2283 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 478
+	}
+
+	artisans=
+	{
+		culture = chibchan
+		religion = inti
+		size= 1912
+	}
+
+	clergymen=
+	{
+		culture = chibchan
+		religion = inti
+		size= 311
+	}
+
+	bureaucrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 43
+	}
+
+	officers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 62
+	}
+
+	aristocrats=
+	{
+		culture = chibchan
+		religion = inti
+		size= 401
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = inti
+		size= 44589
+	}
+
+}
+2284 = {
+	soldiers=
+	{
+		culture = maranon
+		religion = animist
+		size= 54
+	}
+
+	farmers=
+	{
+		culture = maranon
+		religion = animist
+		size= 5303
+	}
+
+	farmers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 3407
+	}
+
+	artisans=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 1274
+	}
+
+	clergymen=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 91
+	}
+
+	aristocrats=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 21
+	}
+
+	officers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 11
+	}
+
+	soldiers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 4133
+	}
+
+}
+2285 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 30
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2924
+	}
+
+	farmers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 1976
+	}
+
+	artisans=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 33
+	}
+
+	aristocrats=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 43
+	}
+
+	bureaucrats=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 8
+	}
+
+	officers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 6
+	}
+
+	soldiers=
+	{
+		culture = guldfjallling
+		religion = animist
+		size= 21
+	}
+
+}

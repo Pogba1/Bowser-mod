@@ -1,0 +1,5 @@
+owner=CHG
+controller=CHG
+add_core=YAK
+trade_goods = coal
+life_rating = 35

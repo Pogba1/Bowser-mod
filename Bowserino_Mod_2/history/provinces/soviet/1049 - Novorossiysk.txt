@@ -1,0 +1,7 @@
+owner=PRM
+controller=PRM
+add_core=CIR
+add_core=FEO
+trade_goods = grain
+life_rating = 35
+naval_base = 1

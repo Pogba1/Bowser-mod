@@ -1,0 +1,4 @@
+owner=PRM
+controller=PRM
+trade_goods = iron
+life_rating = 35

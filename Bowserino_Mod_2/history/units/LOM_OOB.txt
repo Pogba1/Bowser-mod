@@ -1,0 +1,911 @@
+#Sphere of Influence
+
+ADU = {
+	value = -60
+	level = 2
+}
+ALH = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+AUS = {
+	value = 0
+	level = 2
+}
+AVA = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BOS = {
+	value = 166
+	military_access = yes
+	influence_value = 79
+	level = 5
+}
+BOU = {
+	value = 0
+	level = 2
+}
+BRD = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 16
+	level = 2
+}
+CAM = {
+	value = 25
+	level = 2
+}
+CEQ = {
+	value = 0
+	level = 2
+}
+CHC = {
+	value = 0
+	level = 2
+}
+CHG = {
+	value = 0
+	level = 2
+}
+CHU = {
+	value = 0
+	level = 2
+}
+CKW = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+CRO = {
+	value = -103
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+ENG = {
+	value = -5
+	level = 2
+}
+FRA = {
+	value = -49
+	level = 2
+}
+GER = {
+	value = -182
+	level = 2
+}
+GRE = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+HDR = {
+	value = 25
+	level = 2
+}
+HOD = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KIE = {
+	value = 0
+	level = 2
+}
+KMC = {
+	value = 0
+	level = 2
+}
+KON = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KRW = {
+	value = 0
+	level = 2
+}
+LGR = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LOM = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 22
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+MHR = {
+	value = -54
+	level = 2
+}
+MOR = {
+	value = -58
+	level = 2
+}
+NDO = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+NOR = {
+	value = 0
+	level = 2
+}
+NOV = {
+	value = 0
+	level = 2
+}
+NUP = {
+	value = 0
+	level = 2
+}
+OYO = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+POM = {
+	value = 89
+	influence_value = 9
+	level = 2
+}
+POR = {
+	value = 31
+	level = 2
+}
+PRM = {
+	value = 102
+	influence_value = 13
+	level = 2
+}
+PRU = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SOM = {
+	value = -31
+	level = 2
+}
+SWI = {
+	value = 0
+	level = 2
+}
+SYR = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+TBZ = {
+	value = 97
+	influence_value = 11
+	level = 2
+}
+TLC = {
+	value = 0
+	level = 2
+}
+TUL = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = -94
+	level = 2
+}
+UCA = {
+	value = 100
+	influence_value = 12
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+X03 = {
+	value = 82
+	influence_value = 8
+	level = 2
+}
+X04 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X05 = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+X06 = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X09 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+X12 = {
+	value = 0
+	level = 2
+}
+X18 = {
+	value = 0
+	level = 2
+}
+X31 = {
+	value = 0
+	level = 2
+}
+X41 = {
+	value = 0
+	level = 2
+}
+X46 = {
+	value = 0
+	level = 2
+}
+X47 = {
+	value = 16
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Rainero del Monte"
+	date="1718.3.25"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Rainero Testi"
+	date="1732.3.3"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Péire-Raimond Franchi"
+	date="1737.3.3"
+	type=land
+	personality="audacious"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Rainero Melzi"
+	date="1737.12.16"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sanç Spinola"
+	date="1737.12.17"
+	type=sea
+	personality="coolminded"
+	background="artillerist"
+}
+
+
+#Armies
+army = {
+	name="1st Army"
+	location=783
+	regiment = {
+		name="1st Novara Infantry"
+		type=infantry
+		home=722
+	}
+	regiment = {
+		name="1st Siena Infantry"
+		type=infantry
+		home=747
+	}
+	regiment = {
+		name="1st Genoa Infantry"
+		type=infantry
+		home=724
+	}
+	regiment = {
+		name="1st Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="1st Verona Infantry"
+		type=infantry
+		home=730
+	}
+	regiment = {
+		name="1st Gaeta Infantry"
+		type=infantry
+		home=2567
+	}
+	regiment = {
+		name="1st Perugia Infantry"
+		type=infantry
+		home=751
+	}
+	regiment = {
+		name="1st Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="2nd Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="3rd Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Brescia Infantry"
+		type=infantry
+		home=728
+	}
+	regiment = {
+		name="1st Frejus Cavalry"
+		type=cavalry
+		home=471
+	}
+	regiment = {
+		name="1st Palermo Infantry"
+		type=infantry
+		home=762
+	}
+	regiment = {
+		name="1st Brescia Cavalry"
+		type=cavalry
+		home=728
+	}
+	regiment = {
+		name="1st Naples Cavalry"
+		type=cavalry
+		home=754
+	}
+	regiment = {
+		name="1st Pescara Cavalry"
+		type=cavalry
+		home=10
+	}
+	regiment = {
+		name="1st Palermo Cavalry"
+		type=cavalry
+		home=762
+	}
+	regiment = {
+		name="2nd Palermo Cavalry"
+		type=cavalry
+		home=762
+	}
+	regiment = {
+		name="1st Turin Cavalry"
+		type=cavalry
+		home=720
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=470
+	ship = {
+		name="Lombardia"
+		type=frigate
+	}
+	ship = {
+		name="Visconti"
+		type=frigate
+	}
+	ship = {
+		name="Sforza"
+		type=frigate
+	}
+	ship = {
+		name="Sant'Ambrogio"
+		type=frigate
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=770
+	ship = {
+		name="Aquila"
+		type=frigate
+	}
+	ship = {
+		name="Aurora"
+		type=frigate
+	}
+	ship = {
+		name="Azzardoso"
+		type=frigate
+	}
+	ship = {
+		name="Beroldo"
+		type=frigate
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=2759
+	ship = {
+		name="Condottiero"
+		type=frigate
+	}
+	ship = {
+		name="Carloforte"
+		type=frigate
+	}
+	ship = {
+		name="Colombo"
+		type=frigate
+	}
+	ship = {
+		name="4th Rome Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="6th Fleet"
+	location=762
+	ship = {
+		name="Daino"
+		type=manowar
+	}
+	ship = {
+		name="Eridano"
+		type=manowar
+	}
+	ship = {
+		name="Euridice"
+		type=manowar
+	}
+	ship = {
+		name="Falco"
+		type=manowar
+	}
+	ship = {
+		name="Favorita"
+		type=manowar
+	}
+	ship = {
+		name="Zeffiro"
+		type=manowar
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=2762
+	ship = {
+		name="Nereide"
+		type=frigate
+	}
+	ship = {
+		name="Patrona"
+		type=frigate
+	}
+	ship = {
+		name="Serpente"
+		type=frigate
+	}
+	ship = {
+		name="1st Trieste Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armata di Rome"
+	location=814
+	regiment = {
+		name="1st Padua Infantry"
+		type=infantry
+		home=731
+	}
+	regiment = {
+		name="4th Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="5th Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="6th Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Pescara Artillery"
+		type=artillery
+		home=10
+	}
+	regiment = {
+		name="1st Aquila Artillery"
+		type=artillery
+		home=753
+	}
+	regiment = {
+		name="1st Rome Artillery"
+		type=artillery
+		home=749
+	}
+	regiment = {
+		name="1st Florence Artillery"
+		type=artillery
+		home=744
+	}
+	regiment = {
+		name="1st Perugia Artillery"
+		type=artillery
+		home=751
+	}
+	regiment = {
+		name="2nd Florence Infantry"
+		type=infantry
+		home=744
+	}
+	regiment = {
+		name="1st Ravenna Artillery"
+		type=artillery
+		home=743
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=733
+	ship = {
+		name="1st Viterbo Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brindisi Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Pescara Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ravenna Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Lucca Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Ancona Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Gaeta Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="Armata di Milan"
+	location=830
+	regiment = {
+		name="2nd Padua Infantry"
+		type=infantry
+		home=731
+	}
+	regiment = {
+		name="1st Alessandria Infantry"
+		type=infantry
+		home=723
+	}
+	regiment = {
+		name="1st Foggia Infantry"
+		type=infantry
+		home=757
+	}
+	regiment = {
+		name="2nd Genoa Infantry"
+		type=infantry
+		home=724
+	}
+	regiment = {
+		name="1st Ancona Infantry"
+		type=infantry
+		home=752
+	}
+	regiment = {
+		name="1st Genoa Artillery"
+		type=artillery
+		home=724
+	}
+	regiment = {
+		name="1st Parma Artillery"
+		type=artillery
+		home=738
+	}
+	regiment = {
+		name="2nd Parma Artillery"
+		type=artillery
+		home=738
+	}
+	regiment = {
+		name="1st Turin Artillery"
+		type=artillery
+		home=720
+	}
+	regiment = {
+		name="1st Padua Artillery"
+		type=artillery
+		home=731
+	}
+	regiment = {
+		name="1st Messina Infantry"
+		type=infantry
+		home=763
+	}
+	regiment = {
+		name="2nd Perugia Artillery"
+		type=artillery
+		home=751
+	}
+}
+
+navy = {
+	name="7th Fleet"
+	location=2771
+	ship = {
+		name="Tritone"
+		type=frigate
+	}
+	ship = {
+		name="Veloce"
+		type=frigate
+	}
+	ship = {
+		name="Vigilante"
+		type=frigate
+	}
+}
+
+army = {
+	name="Armata di Mantoue"
+	location=799
+	regiment = {
+		name="1st Massa Infantry"
+		type=infantry
+		home=740
+	}
+	regiment = {
+		name="2nd Parma Infantry"
+		type=infantry
+		home=738
+	}
+	regiment = {
+		name="3rd Genoa Infantry"
+		type=infantry
+		home=724
+	}
+	regiment = {
+		name="1st Ravenna Infantry"
+		type=infantry
+		home=743
+	}
+	regiment = {
+		name="1st Lucca Infantry"
+		type=infantry
+		home=746
+	}
+	regiment = {
+		name="2nd Nice Infantry"
+		type=infantry
+		home=472
+	}
+}
+
+army = {
+	name="Armata di Zadar"
+	location=817
+	regiment = {
+		name="7th Milan Infantry"
+		type=infantry
+		home=726
+	}
+	regiment = {
+		name="1st Nice Infantry"
+		type=infantry
+		home=472
+	}
+	regiment = {
+		name="2nd Ravenna Infantry"
+		type=infantry
+		home=743
+	}
+	regiment = {
+		name="1st Toulon Infantry"
+		type=infantry
+		home=470
+	}
+	regiment = {
+		name="1st Treviso Infantry"
+		type=infantry
+		home=732
+	}
+	regiment = {
+		name="4th Genoa Infantry"
+		type=infantry
+		home=724
+	}
+}
+
+army = {
+	name="Armata di Ancône"
+	location=655
+	regiment = {
+		name="1st Naples Infantry"
+		type=infantry
+		home=754
+	}
+	regiment = {
+		name="1st Reggio di Calabria Infantry"
+		type=infantry
+		home=759
+	}
+	regiment = {
+		name="1st Ferrara Infantry"
+		type=infantry
+		home=742
+	}
+	regiment = {
+		name="1st Pescara Infantry"
+		type=infantry
+		home=10
+	}
+	regiment = {
+		name="2nd Treviso Infantry"
+		type=infantry
+		home=732
+	}
+	regiment = {
+		name="2nd Florence Artillery"
+		type=artillery
+		home=744
+	}
+	regiment = {
+		name="1st Ancona Artillery"
+		type=artillery
+		home=752
+	}
+	regiment = {
+		name="1st Ferrara Artillery"
+		type=artillery
+		home=742
+	}
+	regiment = {
+		name="1st Bari Artillery"
+		type=artillery
+		home=756
+	}
+	regiment = {
+		name="3rd Florence Artillery"
+		type=artillery
+		home=744
+	}
+	regiment = {
+		name="2nd Pescara Infantry"
+		type=infantry
+		home=10
+	}
+	regiment = {
+		name="2nd Pescara Artillery"
+		type=artillery
+		home=10
+	}
+}
+
