@@ -2,6 +2,7 @@ owner=RYA
 controller=RYA
 add_core=FIN
 add_core=SCA
+add_core=PRM
 trade_goods = timber
 life_rating = 35
 fort = 1

@@ -1,5 +1,6 @@
 owner=MOR
 controller=MOR
+add_core=PRM
 trade_goods = timber
 life_rating = 15
 terrain = montane_tundra

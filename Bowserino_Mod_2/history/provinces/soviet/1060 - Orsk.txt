@@ -1,4 +1,5 @@
 owner=PRM
 controller=PRM
+add_core=PRM
 trade_goods = iron
 life_rating = 35

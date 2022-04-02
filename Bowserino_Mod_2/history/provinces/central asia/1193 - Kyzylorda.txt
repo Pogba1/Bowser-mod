@@ -1,5 +1,6 @@
 owner=PRM
 controller=PRM
 add_core=NOG
+add_core=PRM
 trade_goods = coal
 life_rating = 30

@@ -2,5 +2,6 @@ owner=PRM
 controller=PRM
 add_core=SHY
 add_core=TKS
+add_core=PRM
 trade_goods = sulphur
 life_rating = 40

@@ -1,5 +1,6 @@
 owner=CHG
 controller=CHG
 add_core=YAK
+add_core=PRM
 trade_goods = grain
 life_rating = 35
