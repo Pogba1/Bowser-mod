@@ -2,5 +2,6 @@ owner=UKR
 controller=UKR
 add_core=PCH
 add_core=UKR
+add_core=PRM
 trade_goods = fish
 life_rating = 40

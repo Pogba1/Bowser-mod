@@ -2,6 +2,7 @@ owner=PNJ
 controller=PNJ
 add_core=BLC
 add_core=SIN
+add_core=PNJ
 trade_goods = wool
 life_rating = 35
 terrain = dryhills

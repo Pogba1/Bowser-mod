@@ -1,6 +1,8 @@
 owner=DLH
 controller=DLH
 add_core=BLC
+add_core=PER
+add_core=DLH
 trade_goods = fruit
 life_rating = 35
 terrain = dryhills

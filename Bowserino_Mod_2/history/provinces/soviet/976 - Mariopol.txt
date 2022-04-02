@@ -3,5 +3,6 @@ controller=PRM
 add_core=PCH
 add_core=PRM
 add_core=UGR
+add_core=UKR
 trade_goods = coal
 life_rating = 35

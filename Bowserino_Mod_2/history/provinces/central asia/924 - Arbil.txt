@@ -1,6 +1,7 @@
 owner=PRM
 controller=PRM
 add_core=IRQ
+add_core=PRM
 trade_goods = wool
 life_rating = 35
 terrain = steppe

@@ -2,5 +2,6 @@ owner=TBZ
 controller=TBZ
 add_core=ARM
 add_core=TBZ
+add_core=AZB
 trade_goods = iron
 life_rating = 35

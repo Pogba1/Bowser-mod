@@ -3,5 +3,6 @@ controller=X22
 add_core=GUG
 add_core=TIB
 add_core=X22
+add_core=PRM
 trade_goods = grain
 life_rating = 32

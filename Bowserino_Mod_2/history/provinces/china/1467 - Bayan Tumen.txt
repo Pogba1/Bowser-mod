@@ -1,6 +1,7 @@
 owner=CHG
 controller=CHG
 add_core=BRY
+add_core=PRM
 add_core=CHG
 add_core=KHA
 add_core=KLK

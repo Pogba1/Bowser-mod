@@ -4,5 +4,6 @@ add_core=TKS
 add_core=X18
 add_core=X22
 add_core=X24
+add_core=PRM
 trade_goods = cotton
 life_rating = 32

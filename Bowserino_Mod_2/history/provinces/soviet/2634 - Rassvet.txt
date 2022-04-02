@@ -1,6 +1,7 @@
 owner=CHU
 controller=CHU
 add_core=CHU
+add_core=PRM
 trade_goods = fish
 life_rating = 10
 terrain = montane_tundra

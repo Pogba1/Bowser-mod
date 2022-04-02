@@ -1,6 +1,6 @@
 owner=TBZ
 controller=TBZ
-add_core=GRE
 add_core=TBZ
+add_core=AZB
 trade_goods = wool
 life_rating = 35

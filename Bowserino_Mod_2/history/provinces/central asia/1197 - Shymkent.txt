@@ -3,5 +3,6 @@ controller=PRM
 add_core=KHA
 add_core=MGL
 add_core=NOG
+add_core=PRM
 trade_goods = grain
 life_rating = 35

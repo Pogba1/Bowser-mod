@@ -1,6 +1,8 @@
 owner=UKR
 controller=UKR
 add_core=ROM
+add_core=UKR
+add_core=PRM
 trade_goods = fish
 life_rating = 35
 naval_base = 1

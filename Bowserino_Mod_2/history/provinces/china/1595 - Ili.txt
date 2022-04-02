@@ -5,5 +5,6 @@ add_core=KHA
 add_core=KLK
 add_core=MGL
 add_core=XIN
+add_core=PRM
 trade_goods = sulphur
 life_rating = 32

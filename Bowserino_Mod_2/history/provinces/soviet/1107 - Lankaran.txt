@@ -1,5 +1,6 @@
 owner=PRM
 controller=PRM
 add_core=AZB
+add_core=PRM
 trade_goods = grain
 life_rating = 35

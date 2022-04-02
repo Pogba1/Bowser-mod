@@ -2,5 +2,6 @@ owner=PRM
 controller=PRM
 add_core=TKS
 add_core=X21
+add_core=PRM
 trade_goods = cattle
 life_rating = 35

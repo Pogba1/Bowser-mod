@@ -3,5 +3,6 @@ controller=PRM
 add_core=SHY
 add_core=TKS
 add_core=TRX
+add_core=PRM
 trade_goods = wool
 life_rating = 35

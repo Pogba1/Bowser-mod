@@ -2,5 +2,6 @@ owner=CHG
 controller=CHG
 add_core=CHG
 add_core=XIN
+add_core=PRM
 trade_goods = cotton
 life_rating = 32
