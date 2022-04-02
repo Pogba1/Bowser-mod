@@ -1,5 +1,6 @@
 owner=MOR
 controller=MOR
 add_core=ASH
+add_core=MOR
 trade_goods = wool
 life_rating = 35

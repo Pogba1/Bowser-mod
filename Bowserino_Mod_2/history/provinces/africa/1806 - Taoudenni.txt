@@ -1,5 +1,6 @@
 owner=X08
 controller=X08
 add_core=X08
+add_core=MOR
 trade_goods = wool
 life_rating = 10
