@@ -1,7 +1,9 @@
 owner=CRO
 controller=CRO
 add_core=CRO
-add_core=GRE
+add_core=ARM
+add_core=CRO
+add_core=PNT
 add_core=TBZ
 trade_goods = fruit
 life_rating = 35

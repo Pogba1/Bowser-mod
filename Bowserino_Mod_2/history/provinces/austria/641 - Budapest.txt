@@ -1,6 +1,8 @@
 owner=CRO
 controller=CRO
-add_core=KHA
-add_core=MGL
+add_core=CRO
+add_core=HUN
+add_core=CZH
+add_core=SLV
 trade_goods = cattle
 life_rating = 35

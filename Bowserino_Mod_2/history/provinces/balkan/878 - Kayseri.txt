@@ -1,6 +1,6 @@
 owner=CRO
 controller=CRO
 add_core=CRO
-add_core=GRE
+add_core=SYR
 trade_goods = wool
 life_rating = 35

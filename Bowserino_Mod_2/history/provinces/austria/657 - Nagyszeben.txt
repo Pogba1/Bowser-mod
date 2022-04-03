@@ -1,8 +1,7 @@
 owner=CRO
 controller=CRO
+add_core=CRO
 add_core=ROM
-add_core=UKR
-add_core=PRM
 add_core=SIE
 trade_goods = cattle
 life_rating = 35

@@ -1,6 +1,6 @@
 owner=CRO
 controller=CRO
 add_core=CRO
-add_core=GRE
+add_core=ROM
 trade_goods = coal
 life_rating = 35
