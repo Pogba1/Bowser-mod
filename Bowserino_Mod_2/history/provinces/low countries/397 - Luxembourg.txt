@@ -1,7 +1,7 @@
 owner=BOU
 controller=BOU
-add_core=FRA
-add_core=OCC
+add_core=NET
+add_core=BOU
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

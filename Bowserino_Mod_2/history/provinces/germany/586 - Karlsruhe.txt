@@ -1,6 +1,8 @@
 owner=GER
 controller=GER
+add_core=BAV
 add_core=GER
+add_core=FRA
 add_core=X16
 trade_goods = fruit
 life_rating = 40

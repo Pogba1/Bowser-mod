@@ -2,5 +2,7 @@ owner=KIE
 controller=KIE
 add_core=PRT
 add_core=PRU
+add_core=POL
+add_core=KIE
 trade_goods = grain
 life_rating = 40

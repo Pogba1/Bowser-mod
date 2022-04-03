@@ -1,7 +1,8 @@
 owner=X05
 controller=X05
-add_core=FRA
-add_core=OCC
+add_core=AUS
 add_core=X05
+add_core=BAV
+add_core=LOM
 trade_goods = grain
 life_rating = 35

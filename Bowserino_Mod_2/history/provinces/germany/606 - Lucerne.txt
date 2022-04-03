@@ -1,9 +1,9 @@
 owner=SWI
 controller=SWI
-add_core=FRA
-add_core=LOM
-add_core=OCC
 add_core=SWI
+add_core=LOM
+add_core=AUS
+add_core=GER
 trade_goods = timber
 life_rating = 34
 fort = 1

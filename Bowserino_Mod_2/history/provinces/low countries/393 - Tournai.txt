@@ -1,6 +1,7 @@
 owner=BOU
 controller=BOU
-add_core=BEL
+add_core=BOU
+add_core=NET
 add_core=FLA
 trade_goods = coal
 life_rating = 35

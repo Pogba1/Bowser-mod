@@ -1,8 +1,7 @@
 owner=POM
 controller=POM
-add_core=FRA
-add_core=NRM
+add_core=DEN
 add_core=SCA
-add_core=SWE
+add_core=POM
 trade_goods = fish
 life_rating = 35

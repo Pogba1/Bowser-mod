@@ -1,7 +1,9 @@
 owner=KIE
 controller=KIE
 add_core=CZH
+add_core=POM
 add_core=POL
-add_core=SLV
+add_core=SLS
+add_core=KIE
 trade_goods = coal
 life_rating = 40

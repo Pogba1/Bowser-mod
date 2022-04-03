@@ -1,6 +1,6 @@
 owner=BOU
 controller=BOU
-add_core=BEL
+add_core=NET
 add_core=BOU
 add_core=WLL
 trade_goods = coal
