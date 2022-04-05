@@ -1,6 +1,5 @@
 owner=ADU
 controller=ADU
 add_core=ADU
-add_core=HUN
 trade_goods = cattle
 life_rating = 35

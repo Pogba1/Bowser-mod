@@ -1,6 +1,7 @@
 owner=ADU
 controller=ADU
-add_core=BSQ
+add_core=ADU
 add_core=SPA
+add_core=BSQ
 trade_goods = wool
 life_rating = 35

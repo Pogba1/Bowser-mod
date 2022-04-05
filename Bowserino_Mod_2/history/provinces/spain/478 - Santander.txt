@@ -1,5 +1,8 @@
 owner=ADU
 controller=ADU
 add_core=ADU
+add_core=SPA
+add_core=BSQ
+add_core=POR
 trade_goods = iron
 life_rating = 35

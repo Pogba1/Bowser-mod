@@ -1,7 +1,6 @@
 owner=ADU
 controller=ADU
 add_core=ADU
-add_core=HUN
 add_core=POR
 trade_goods = wool
 life_rating = 35

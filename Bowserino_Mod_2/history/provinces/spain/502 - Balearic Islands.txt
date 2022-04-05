@@ -1,7 +1,9 @@
 owner=ADU
 controller=ADU
-add_core=CAT
 add_core=CRS
+add_core=ADU
+add_core=CAT
 add_core=SPA
+add_core=SIC
 trade_goods = cattle
 life_rating = 35
