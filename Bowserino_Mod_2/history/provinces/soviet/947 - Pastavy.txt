@@ -1,6 +1,7 @@
 owner=KIE
 controller=KIE
 add_core=BYE
-add_core=PLT
+add_core=KIE
+add_core=RUS
 trade_goods = grain
 life_rating = 35

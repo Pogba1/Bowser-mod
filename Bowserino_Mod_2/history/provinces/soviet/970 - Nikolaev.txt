@@ -3,6 +3,7 @@ controller=UKR
 add_core=PCH
 add_core=UKR
 add_core=PRM
+add_core=RUS
 trade_goods = fish
 life_rating = 35
 naval_base = 1

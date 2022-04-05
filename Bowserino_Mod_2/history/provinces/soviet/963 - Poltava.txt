@@ -5,6 +5,7 @@ add_core=UKR
 add_core=PRM
 add_core=X13
 add_core=KIE
+add_core=RUS
 trade_goods = coal
 life_rating = 35
 terrain = mining_district

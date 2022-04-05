@@ -1,7 +1,8 @@
 owner=RYA
-controller=KIE
+controller=RYA
 add_core=BYE
 add_core=PLT
+add_core=RUS
 add_core=RYA
 trade_goods = grain
 life_rating = 35

@@ -4,6 +4,7 @@ add_core=FIN
 add_core=RYA
 add_core=X13
 add_core=PRM
+add_core=RUS
 trade_goods = coal
 life_rating = 40
 terrain = mining_district

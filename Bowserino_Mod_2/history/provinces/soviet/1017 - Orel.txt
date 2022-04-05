@@ -4,5 +4,6 @@ add_core=MSH
 add_core=UKR
 add_core=X13
 add_core=PRM
+add_core=RUS
 trade_goods = timber
 life_rating = 35

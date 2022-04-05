@@ -5,5 +5,6 @@ add_core=PCH
 add_core=PLT
 add_core=UKR
 add_core=PRM
+add_core=RUS
 trade_goods = cattle
 life_rating = 15
