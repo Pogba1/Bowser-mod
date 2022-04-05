@@ -1,7 +1,7 @@
 owner=X03
 controller=X03
 add_core=FRA
-add_core=OCC
+add_core=ADU
 add_core=X03
 trade_goods = wool
 life_rating = 31

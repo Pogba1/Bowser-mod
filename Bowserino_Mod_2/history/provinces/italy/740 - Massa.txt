@@ -1,7 +1,5 @@
 owner=LOM
 controller=LOM
-add_core=FRA
 add_core=LOM
-add_core=OCC
 trade_goods = timber
 life_rating = 35

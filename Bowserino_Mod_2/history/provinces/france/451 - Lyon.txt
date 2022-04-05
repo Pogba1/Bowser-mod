@@ -3,5 +3,6 @@ controller=X04
 add_core=FRA
 add_core=OCC
 add_core=X04
+add_core=LOM
 trade_goods = iron
 life_rating = 34
