@@ -1,6 +1,9 @@
 owner=PRU
 controller=PRU
-add_core=FRA
+add_core=NOR
+add_core=PRU
+add_core=SCA
+add_core=SMI
 trade_goods = timber
 life_rating = 20
 terrain = montane_tundra
