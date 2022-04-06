@@ -1,5 +1,6 @@
 owner=UCA
 controller=UCA
 add_core=BRT
+add_core=UCA
 trade_goods = fruit
 life_rating = 33

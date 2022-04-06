@@ -2,6 +2,7 @@ owner=UCA
 controller=UCA
 add_core=LAC
 add_core=ZAP
+add_core=UCA
 trade_goods = cotton
 life_rating = 31
 colonial=2

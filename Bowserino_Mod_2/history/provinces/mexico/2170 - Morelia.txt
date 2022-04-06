@@ -2,6 +2,7 @@ owner=UCA
 controller=UCA
 add_core=MTL
 add_core=TRS
+add_core=UCA
 trade_goods = wool
 life_rating = 35
 colonial=2

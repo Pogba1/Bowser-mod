@@ -1,5 +1,5 @@
 owner=PEU
-controller=CEQ
+controller=PEU
 add_core=CSU
 add_core=PEU
 trade_goods = iron
