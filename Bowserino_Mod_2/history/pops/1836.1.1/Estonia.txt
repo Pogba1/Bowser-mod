@@ -877,49 +877,49 @@
 353 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 578
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 62
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 8
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 12
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 35
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = pruthenian
 		religion = animist
 		size= 28202
 	}

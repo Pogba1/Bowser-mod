@@ -399,98 +399,98 @@
 641 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 4589
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 2091
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 279
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 58
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 88
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 491
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 73184
 	}
 
 	soldiers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 2365
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 4246
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 567
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 118
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 177
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 997
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 30632
 	}
@@ -848,98 +848,98 @@
 645 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 1185
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 460
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 51
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 16
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 23
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 140
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 18908
 	}
 
 	soldiers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 610
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 935
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 104
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 32
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 48
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 286
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 7913
 	}
@@ -1197,98 +1197,98 @@
 649 = {
 	soldiers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 4589
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 3378
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 279
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 58
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 88
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 524
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = animist
 		size= 73149
 	}
 
 	soldiers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 2365
 	}
 
 	artisans=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 6859
 	}
 
 	clergymen=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 567
 	}
 
 	bureaucrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 118
 	}
 
 	officers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 177
 	}
 
 	aristocrats=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 1063
 	}
 
 	farmers=
 	{
-		culture = mongol
+		culture = hungarian
 		religion = catholic
 		size= 30617
 	}

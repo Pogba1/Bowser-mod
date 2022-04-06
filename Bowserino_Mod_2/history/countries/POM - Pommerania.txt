@@ -1,13 +1,13 @@
 capital = 530
-primary_culture = polish
+primary_culture = oldpommeranian
 culture = danish
 culture = western_slavic
-culture = zzz_religion_animist
+culture = polish
 religion = animist
 government = theocracy
 plurality = 0
 nationalvalue = nv_autocracy
-literacy = 0.226699
+literacy = 0.65 
 
 civilized = yes
 

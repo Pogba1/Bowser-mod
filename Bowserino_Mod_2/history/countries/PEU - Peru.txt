@@ -2,13 +2,13 @@ capital = 2298
 primary_culture = guldfjallling
 culture = aimara
 culture = quechua
-culture = zzz_religion_animist
 religion = animist
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_order
 literacy = 0.0786009
 
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

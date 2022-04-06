@@ -1,5 +1,5 @@
-owner=MOR
-controller=MOR
+owner=MNX
+controller=MNX
 add_core=CHI
 add_core=MNX
 trade_goods = tea

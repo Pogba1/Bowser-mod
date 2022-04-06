@@ -1345,98 +1345,98 @@
 992 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 1224
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 2142
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 199
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 22
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 13
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 128
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 57478
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 96
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 2478
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 230
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 25
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 14
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 149
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = protestant
 		size= 1806
 	}
@@ -2579,49 +2579,49 @@
 1000 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 7779
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 2959
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 275
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 21
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 51
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 178
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 73292
 	}
@@ -2835,49 +2835,49 @@
 
 	craftsmen=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 3603
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 4180
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 368
 	}
 
 	clerks=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 109
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 42
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 48
 	}
 
 	capitalists=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 9
 	}
@@ -2891,70 +2891,70 @@
 
 	farmers=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 47836
 	}
 
 	soldiers=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 353
 	}
 
 	craftsmen=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 383
 	}
 
 	artisans=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 5069
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 447
 	}
 
 	clerks=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 132
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 51
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 58
 	}
 
 	capitalists=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = tatar
+		culture = russian
 		religion = protestant
 		size= 433
 	}
@@ -3385,49 +3385,49 @@
 1005 = {
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 4156
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 2598
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 241
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 19
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 30
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 156
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 67022
 	}
@@ -4319,28 +4319,28 @@
 
 	artisans=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 6652
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 1081
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 166
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 133
 	}
@@ -4354,7 +4354,7 @@
 
 	farmers=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 153554
 	}
@@ -9257,49 +9257,49 @@
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 116
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 18
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 24
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 3
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 162
 	}
@@ -10882,28 +10882,28 @@
 
 	artisans=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 1454
 	}
 
 	clergymen=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 155
 	}
 
 	bureaucrats=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 29
 	}
 
 	officers=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 13
 	}
@@ -10917,7 +10917,7 @@
 
 	farmers=
 	{
-		culture = tatar
+		culture = russian
 		religion = animist
 		size= 39387
 	}
@@ -11507,49 +11507,49 @@
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 166
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 27
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 6
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 35
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 7
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 473
 	}
@@ -11609,49 +11609,49 @@
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 212
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 44
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 2
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 4
 	}
@@ -12022,49 +12022,49 @@
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 97
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 16
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 3
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 3
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 2
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 137
 	}
@@ -12122,49 +12122,49 @@
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 122
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 20
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 4
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 26
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 277
 	}
@@ -12187,49 +12187,49 @@
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 11
 	}
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 219
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 35
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 8
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 7
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 1
 	}
@@ -12310,35 +12310,35 @@
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 262
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 42
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 10
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 8
 	}
@@ -12617,49 +12617,49 @@
 
 	artisans=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 800
 	}
 
 	clergymen=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 130
 	}
 
 	bureaucrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 30
 	}
 
 	officers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 26
 	}
 
 	aristocrats=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 168
 	}
 
 	soldiers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 8
 	}
 
 	farmers=
 	{
-		culture = swedish
+		culture = russian
 		religion = animist
 		size= 251
 	}

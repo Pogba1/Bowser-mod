@@ -1,13 +1,13 @@
 capital = 1690
 primary_culture = swedish
 culture = mande
-culture = zzz_religion_animist
 religion = animist
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.0826264
 
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

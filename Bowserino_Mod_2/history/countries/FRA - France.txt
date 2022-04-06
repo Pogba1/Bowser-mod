@@ -2,15 +2,12 @@ capital = 425
 primary_culture = french
 culture = breton
 culture = occitan
-culture = picard
-culture = rollonian
-culture = zzz_religion_catholic
+culture = all_italian
 religion = catholic
 government = democracy
 plurality = 0
 nationalvalue = nv_liberty
-literacy = 0.223528
-
+literacy = 0.35
 civilized = yes
 
 # Social Reforms

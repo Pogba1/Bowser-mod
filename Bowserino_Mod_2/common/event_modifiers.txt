@@ -1961,56 +1961,6 @@ power_vacuum = {
     icon = 6
 }
 
-### Ireland ###
-
-enclosures = {
-    farm_rgo_size = -0.6
-    mine_rgo_size = -0.6
-    icon = 4
-}
-
-irish_oppression = {
-    farm_rgo_size = -0.15
-    mine_rgo_size = -0.15
-    immigrant_attract = -0.5
-    immigrant_push = 0.5
-    local_factory_throughput = -0.75
-    local_factory_output = -0.5
-    local_artisan_throughput = -0.75
-    local_artisan_output = -0.5
-    icon = 8
-}
-
-irish_potato_blight = {
-    immigrant_attract = -2
-    pop_militancy_modifier = 0.4
-    pop_consciousness_modifier = 0.3
-    immigrant_push = 1.5
-    local_factory_throughput = -0.25
-    local_factory_output = -0.5
-    local_artisan_throughput = -0.25
-    local_artisan_output = -0.5
-    population_growth = -0.001
-    icon = 4
-}
-
-irish_republicans = {
-    pop_militancy_modifier = 0.1
-    pop_consciousness_modifier = 0.1
-    icon = 18
-}
-
-irish_unionists = {
-    pop_militancy_modifier = 0.1
-    pop_consciousness_modifier = 0.1
-    icon = 18
-}
-
-#irish_integration  = {
-#    assimilation_rate = 0.2
-#    icon = 19
-#}
-
 ### Arabia ###
 
 rally_tribesmen = {

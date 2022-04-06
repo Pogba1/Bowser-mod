@@ -15,37 +15,6 @@ vassal=
 	end_date="1936.1.1"
 }
 
-vassal=
-{
-	first="UCA"
-	second="X06"
-	start_date="1737.12.19"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="UCA"
-	second="X07"
-	start_date="1737.12.19"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="DLH"
-	second="KRN"
-	start_date="1737.12.16"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="DLH"
-	second="PNJ"
-	start_date="1737.12.16"
-	end_date="1936.1.1"
-}
 
 vassal=
 {
@@ -114,24 +83,8 @@ vassal=
 vassal=
 {
 	first="PRM"
-	second="CHG"
-	start_date="1518.3.5"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="PRM"
 	second="UKR"
 	start_date="1524.12.26"
-	end_date="1936.1.1"
-}
-
-vassal=
-{
-	first="PRM"
-	second="X22"
-	start_date="1737.12.16"
 	end_date="1936.1.1"
 }
 

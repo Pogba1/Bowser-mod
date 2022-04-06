@@ -1,12 +1,12 @@
 capital = 2348
 primary_culture = silfrvazling
-culture = zzz_religion_animist
 religion = animist
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.0786009
 
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

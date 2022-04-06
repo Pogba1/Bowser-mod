@@ -1,4 +1,4 @@
-name = "Converted - Bowserino_Mod_2"
+name = "Bowser Grand Campaign"
 path = "mod/Bowserino_Mod_2"
 user_dir = "Bowserino_Mod_2"
 replace = "history/provinces"

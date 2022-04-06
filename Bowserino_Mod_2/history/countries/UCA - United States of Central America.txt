@@ -1,6 +1,5 @@
 capital = 2172
 primary_culture = ujvilag
-culture = zzz_religion_animist
 religion = animist
 government = democracy
 plurality = 0

@@ -1,8 +1,6 @@
 capital = 537
 primary_culture = north_german
-culture = boehmisch
 culture = south_german
-culture = zzz_religion_catholic
 religion = catholic
 government = absolute_monarchy
 plurality = 0

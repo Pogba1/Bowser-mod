@@ -1,11 +1,7 @@
 capital = 214
 primary_culture = ujvilag
-culture = dixie
-culture = texan
-culture = yankee
-culture = zzz_religion_animist
 religion = animist
-government = presidential_dictatorship
+government = democracy
 plurality = 0
 nationalvalue = nv_productivity
 literacy = 0.162058

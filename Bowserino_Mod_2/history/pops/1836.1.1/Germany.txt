@@ -294,147 +294,147 @@
 530 = {
 	soldiers=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 2055
 	}
 
 	artisans=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 4577
 	}
 
 	clergymen=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 184
 	}
 
 	bureaucrats=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 92
 	}
 
 	officers=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 385
 	}
 
 	farmers=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = animist
 		size= 68310
 	}
 
 	soldiers=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 165
 	}
 
 	artisans=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 1123
 	}
 
 	clergymen=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 45
 	}
 
 	bureaucrats=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 23
 	}
 
 	officers=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 6
 	}
 
 	aristocrats=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 95
 	}
 
 	farmers=
 	{
-		culture = danish
+		culture = oldpommeranian
 		religion = catholic
 		size= 4568
 	}
 
 	soldiers=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 702
 	}
 
 	artisans=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 9304
 	}
 
 	clergymen=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 373
 	}
 
 	bureaucrats=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 187
 	}
 
 	officers=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 45
 	}
 
 	aristocrats=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 782
 	}
 
 	farmers=
 	{
-		culture = polish
+		culture = oldpommeranian
 		religion = animist
 		size= 14240
 	}
@@ -4914,49 +4914,49 @@
 566 = {
 	soldiers=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 1320
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 771
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 105
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 12
 	}
 
 	officers=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 11
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 73
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 66787
 	}
@@ -7342,49 +7342,49 @@
 583 = {
 	soldiers=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 2351
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 184
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 17
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 1
 	}
 
 	officers=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 11
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = north_german
 		religion = catholic
 		size= 39412
 	}

@@ -1,13 +1,13 @@
 capital = 2432
 primary_culture = raudhskogarling
 culture = african_minor
-culture = zzz_religion_animist
 religion = animist
 government = presidential_dictatorship
 plurality = 0
 nationalvalue = nv_tradition
 literacy = 0.0786009
 
+civilized = yes
 
 # Social Reforms
 wage_reform = no_minimum_wage

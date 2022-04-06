@@ -795,70 +795,70 @@
 322 = {
 	soldiers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 2073
 	}
 
 	craftsmen=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 11951
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 451
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 169
 	}
 
 	clerks=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 180
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 32
 	}
 
 	officers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 32
 	}
 
 	capitalists=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 71
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 142
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 29955
 	}
@@ -1205,49 +1205,49 @@
 324 = {
 	soldiers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 1366
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 297
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 112
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 21
 	}
 
 	officers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 21
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 94
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 27785
 	}
@@ -1503,49 +1503,49 @@
 326 = {
 	soldiers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 2096
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 455
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 171
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 32
 	}
 
 	officers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 33
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 144
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = pruthenian
 		religion = animist
 		size= 42637
 	}
@@ -3054,49 +3054,49 @@
 335 = {
 	soldiers=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 1653
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 2362
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 383
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 165
 	}
 
 	officers=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 95
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 991
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = danish
 		religion = animist
 		size= 53384
 	}

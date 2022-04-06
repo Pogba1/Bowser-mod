@@ -1,98 +1,98 @@
 305 = {
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 488
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 854
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 92
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 17
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 47317
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 41
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 999
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 107
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 20
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 60
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 2898
 	}
@@ -588,98 +588,98 @@
 308 = {
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 744
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 133
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 50
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 7
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 7
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 28
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 25598
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 117
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 175
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 66
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 9
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 37
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 3783
 	}
@@ -1180,98 +1180,98 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 893
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 558
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 60
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 8
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 33
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 30322
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 55
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 627
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 67
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 9
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 9
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 38
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 1176
 	}
@@ -1378,91 +1378,91 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 53
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 217
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 23
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 13
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 4976
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 4
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 355
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 38
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 5
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 21
 	}
@@ -1667,91 +1667,91 @@
 
 	soldiers=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 77
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 316
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 34
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 5
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 19
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = swedish
 		religion = catholic
 		size= 7255
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 5
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 517
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 55
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 7
 	}
 
 	officers=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 5
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = swedish
 		religion = animist
 		size= 31
 	}
@@ -1858,140 +1858,140 @@
 313 = {
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 1033
 	}
 
 	craftsmen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 5320
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 843
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 90
 	}
 
 	clerks=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 72
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 17
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 8
 	}
 
 	capitalists=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 29
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 51
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 19282
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 59
 	}
 
 	craftsmen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 1176
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 300
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 32
 	}
 
 	clerks=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 26
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 3
 	}
 
 	capitalists=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 10
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 18
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 4282
 	}
@@ -2331,98 +2331,98 @@
 315 = {
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 249
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 785
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 84
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 16
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 8
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 47
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 23685
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 55
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 279
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 30
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 6
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 3
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 17
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 5109
 	}
@@ -2529,98 +2529,98 @@
 316 = {
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 2530
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 962
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 103
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 19
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 20
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 58
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = catholic
 		size= 51305
 	}
 
 	soldiers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 144
 	}
 
 	artisans=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 1072
 	}
 
 	clergymen=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 115
 	}
 
 	bureaucrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 21
 	}
 
 	officers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 22
 	}
 
 	aristocrats=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 64
 	}
 
 	farmers=
 	{
-		culture = french
+		culture = norwegian
 		religion = animist
 		size= 1684
 	}
