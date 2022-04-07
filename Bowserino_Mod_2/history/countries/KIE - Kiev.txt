@@ -1,7 +1,6 @@
 capital = 940
 primary_culture = ukrainian
-culture = polish
-culture = zzz_religion_protestant
+culture = byelorussian
 religion = protestant
 government = absolute_monarchy
 plurality = 0

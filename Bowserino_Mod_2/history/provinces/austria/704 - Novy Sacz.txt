@@ -3,6 +3,5 @@ controller=KIE
 add_core=LUZ
 add_core=POL
 add_core=KIE
-add_core=PRU
 trade_goods = grain
 life_rating = 35

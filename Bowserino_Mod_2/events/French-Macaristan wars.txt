@@ -1,0 +1,175 @@
+country_event = {
+
+                 id=179501
+				 title="EVTNAME179501"
+				 desc="EVTDESC179501"
+				 
+				 is_triggered_only=yes
+				 
+				 option = {
+				 
+				           name="France shall be whole once again!"
+						   
+						   FRA = {
+						          war = {
+								         target = X03
+										 attacker_goal = {
+										                  casus_belli = annex_core_country
+										        }
+								    }
+						   }
+						   ai_chance = {
+						                factor = 50
+						   }
+				}
+				 option = {
+				           
+						   name="Let us negotiate with the pagans"
+						   
+						   ADU = {
+						          country_event = {
+								                   id=179502
+												   days=0
+										    }
+							}
+							ai_chance = {
+							             factor = 50
+							}
+				}		
+	}
+	
+country_event = {
+
+                 id=179502
+				 title="EVTNAME179502"
+				 desc="EVTDESC179502"
+	
+				 is_triggered_only = yes
+
+                 option = {
+				 
+                           name="We shall never bow to French demands!"
+               						   
+						   FRA = {
+						          country_event = {
+								                   id=179503
+												   days=0
+										    }
+						   }
+						   relation = {
+						               who = FRA
+									   value = -200
+						   }
+						   ai_chance = {
+						                factor = 33
+						   }
+				}
+				 option = {
+				           
+						   name="Let us seize strategic importance and give the French what remains"
+						   
+						   FRA = {
+						          country_event = {
+												  id=179504
+												  days=0
+											}
+						   }
+						   badboy=5
+						   relation = {
+						               who = FRA
+									   value = 50
+						   }
+						   460 = {
+						          secede_province = THIS
+						   }
+						   457 = {
+						          secede_province = THIS
+						   }
+						   ai_chance = {
+						                factor = 33
+						   }
+				}
+                 option = {
+				           
+						   name="We shall give up the French lands"
+						   
+						   FRA = {
+						          country_event = {
+								                   id=179505
+												   days=0
+											}
+						   }
+						   FRA_458 = {
+						              remove_core = THIS
+						   }
+						   badboy=-10
+						   prestige=-35
+						   relation = {
+						               who = FRA
+									   value = 200
+						   }
+						   ai_chance = {
+						                factor = 33
+						   }
+				}
+}
+
+country_event = {
+
+                 id=179503
+				 title="EVTNAME179503"
+				 desc="EVTDESC179503"
+				 
+				 is_triggered_only = yes
+				 
+				 option = {
+				 
+				           name="The pagans shall pay for their defiance!"
+						   
+						   FRA = {
+						          war = {
+								         target = X03
+										 attacker_goal = {
+										                  casus_belli = annex_core_country
+										 }
+								  }
+						}
+			}
+}
+						
+country_event = {
+                 
+                 id=179504
+                 title="EVTNAME179504"
+                 desc="EVTDESC179504"				 
+				 
+				 is_triggered_only = yes
+				 
+				 option = {
+				           
+						   name="We shall settle on this for now"
+						   X03 = {
+						          annex_to = THIS
+						   }
+                           prestige = 20
+	    }			   
+}			
+						   
+country_event = {
+                 
+				 id=179505
+				 title="EVTNAME179505"
+				 desc="EVTDESC179505"
+				 
+				 is_triggered_only = yes
+				 
+				 option = { 
+				           
+						   name="One less player in the arena"
+						   X03 = {
+						          annex_to = THIS
+						   }
+						   prestige = 50
+				 }
+}
+				 

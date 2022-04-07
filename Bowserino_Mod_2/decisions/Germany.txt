@@ -1115,4 +1115,40 @@ core_heligoland = {
 #            629 = { secede_province = THIS }
 #        }
 #    }
-}
+  
+     reclaim_the_netherlands = {
+	                            potential = {
+								             tag = GER
+											 has_country_flag = the_dutch_revolt
+											 NOT = {
+											        has_country_flag = integrated_the_dutch
+											 }
+									}
+									allow = {
+									         nationalism_n_imperialism = 1
+											 NET = {
+											        all_core = {
+													            OR = {
+													                  owned_by = THIS
+																	  owner = {
+																	           in_sphere = THIS
+																	  }
+																}
+													    }
+											 }
+											 is_greater_power = yes
+								    }
+									    effect = {
+										          NET = {
+												         all_core = {
+														             add_core = GER
+														 }
+												  }
+											      add_accepted_culture = dutch
+												  add_accepted_culture = flemish
+												  prestige = 30
+												  set_country_flag = integrated_the_dutch
+										}
+                   }
+} 
+ 											 

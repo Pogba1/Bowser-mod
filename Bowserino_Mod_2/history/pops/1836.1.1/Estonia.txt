@@ -388,49 +388,49 @@
 
 	soldiers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 415
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 5114
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 548
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 102
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 106
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 307
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 2424
 	}
@@ -826,49 +826,49 @@
 
 	soldiers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 383
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 4724
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 506
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 94
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 98
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 283
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 2241
 	}
