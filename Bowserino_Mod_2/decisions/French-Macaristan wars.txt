@@ -3,20 +3,20 @@ political_decisions = {
 					   the_great_liberation_war = {
 					   
 					                               potential = {
-												                XO3 = {
+												                X03 = {
 																       exists = yes
 															    }
-												                tag=FRA
-																NOT= {
-																      has_country_flag=the_great_liberation_war
+												                tag = FRA
+																NOT = {
+																      has_country_flag = the_great_liberation_war
 														        }
 														    }
 															
 													   allow = {
-													            military_score=40
+													            military_score = 40
 															}
 														    effect = {
-															          set_country_flag=the_great_liberation_war
+															          set_country_flag = the_great_liberation_war
 																	  country_event= { 
 																	                  id=179501
 																					  days=0
