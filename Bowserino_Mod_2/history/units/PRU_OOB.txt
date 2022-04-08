@@ -88,8 +88,9 @@ ENG = {
 	level = 2
 }
 FRA = {
-	value = 0
-	level = 2
+	value = 200
+	alliance = yes
+	level = 5
 }
 GER = {
 	value = -3

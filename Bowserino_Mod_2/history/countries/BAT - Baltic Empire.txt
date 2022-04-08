@@ -1,6 +1,8 @@
 capital = 357
 primary_culture = pruthenian
 culture = latvian
+culture = byelorussian
+culture = russian
 religion = protestant
 government = absolute_monarchy
 plurality = 0

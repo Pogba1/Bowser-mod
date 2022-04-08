@@ -539,49 +539,49 @@
 
 	soldiers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 987
 	}
 
 	artisans=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 12225
 	}
 
 	clergymen=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 1265
 	}
 
 	bureaucrats=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 247
 	}
 
 	officers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 256
 	}
 
 	aristocrats=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 1111
 	}
 
 	farmers=
 	{
-		culture = north_german
+		culture = pruthenian
 		religion = protestant
 		size= 5446
 	}
