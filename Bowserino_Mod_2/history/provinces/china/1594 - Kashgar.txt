@@ -1,5 +1,5 @@
 owner=X22
-controller=PRM
+controller=X22
 add_core=TKS
 add_core=X21
 add_core=X22

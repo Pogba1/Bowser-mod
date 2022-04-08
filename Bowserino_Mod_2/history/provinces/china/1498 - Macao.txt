@@ -1,6 +1,8 @@
 owner=MOR
 controller=MOR
 add_core=CWU
+add_core=MNX
+add_core=YUE
 trade_goods = precious_goods
 life_rating = 35
 terrain = urban

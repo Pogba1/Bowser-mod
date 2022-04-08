@@ -1,5 +1,5 @@
 owner=LNA
-controller=MNX
+controller=LNA
 add_core=BUR
 add_core=CDL
 add_core=DAI
@@ -7,5 +7,6 @@ add_core=IDO
 add_core=LNA
 add_core=LXA
 add_core=SHA
+add_core=MNX
 trade_goods = tea
 life_rating = 32

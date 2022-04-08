@@ -2,5 +2,7 @@ owner=MOR
 controller=MOR
 add_core=DAI
 add_core=IDO
+add_core=CAM
+add_core=YUE
 trade_goods = cattle
 life_rating = 40

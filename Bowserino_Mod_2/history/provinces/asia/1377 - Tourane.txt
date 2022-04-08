@@ -3,6 +3,6 @@ controller=POR
 add_core=CHA
 add_core=DAI
 add_core=IDO
-add_core=POR
+add_core=CAM
 trade_goods = fish
 life_rating = 35

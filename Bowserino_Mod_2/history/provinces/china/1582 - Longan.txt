@@ -1,7 +1,8 @@
 owner=MNX
-controller=CSH
+controller=MNX
 add_core=TIB
 add_core=UTS
 add_core=X22
+add_core=MNX
 trade_goods = cattle
 life_rating = 32

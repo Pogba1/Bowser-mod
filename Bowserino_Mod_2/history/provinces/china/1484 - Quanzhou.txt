@@ -3,5 +3,6 @@ controller=JAP
 add_core=CHI
 add_core=CWU
 add_core=MIN
+add_core=MNX
 trade_goods = tea
 life_rating = 35

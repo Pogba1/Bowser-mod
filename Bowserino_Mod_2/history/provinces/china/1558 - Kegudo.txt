@@ -5,5 +5,6 @@ add_core=PHA
 add_core=TIB
 add_core=UTS
 add_core=X22
+add_core=MNX
 trade_goods = grain
 life_rating = 32

@@ -6,5 +6,6 @@ add_core=KHA
 add_core=X19
 add_core=X27
 add_core=YAN
+add_core=MNX
 trade_goods = timber
 life_rating = 32

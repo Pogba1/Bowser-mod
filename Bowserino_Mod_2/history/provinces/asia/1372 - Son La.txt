@@ -1,7 +1,9 @@
 owner=YUE
-controller=CAM
+controller=YUE
 add_core=DAI
 add_core=IDO
 add_core=LUA
+add_core=CAM
+add_core=YUE
 trade_goods = tropical_wood
 life_rating = 33

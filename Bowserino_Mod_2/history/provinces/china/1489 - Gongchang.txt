@@ -3,5 +3,7 @@ controller=CSH
 add_core=TIB
 add_core=UTS
 add_core=X22
+add_core=MNX
+add_core=CSH
 trade_goods = timber
 life_rating = 32

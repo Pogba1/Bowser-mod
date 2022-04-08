@@ -3,5 +3,6 @@ controller=CAM
 add_core=AVA
 add_core=BUR
 add_core=IDO
+add_core=CAM
 trade_goods = fish
 life_rating = 35

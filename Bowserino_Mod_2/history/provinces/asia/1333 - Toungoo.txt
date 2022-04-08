@@ -5,5 +5,6 @@ add_core=BUR
 add_core=IDO
 add_core=SHA
 add_core=X33
+add_core=CAM
 trade_goods = opium
 life_rating = 35
