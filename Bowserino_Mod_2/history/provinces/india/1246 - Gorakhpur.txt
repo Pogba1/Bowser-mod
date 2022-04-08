@@ -2,6 +2,7 @@ owner=DLH
 controller=DLH
 add_core=AWA
 add_core=HND
+add_core=DLH
 add_core=TRT
 trade_goods = fruit
 life_rating = 32
