@@ -1,6 +1,7 @@
-capital = 1690
+capital = 1803
 primary_culture = swedish
-culture = mande
+culture = songhai
+culture = svart
 religion = animist
 government = absolute_monarchy
 plurality = 0
