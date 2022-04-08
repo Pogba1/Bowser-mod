@@ -1,7 +1,8 @@
 owner=SYR
 controller=SYR
-add_core=BOS
-add_core=YUG
+add_core=ARA
+add_core=SYR
+add_core=IRQ
 trade_goods = sulphur
 life_rating = 35
 terrain = dryhills

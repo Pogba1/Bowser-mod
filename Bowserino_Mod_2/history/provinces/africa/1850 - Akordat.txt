@@ -1,7 +1,8 @@
 owner=SOM
 controller=SOM
-add_core=NEJ
 add_core=X00
+add_core=ETH
+add_core=SOM
 trade_goods = fruit
 life_rating = 32
 terrain = semidesert
