@@ -1,5 +1,5 @@
 owner=AVA
-controller=KRN
+controller=AVA
 add_core=AVA
 add_core=BUR
 add_core=IDO

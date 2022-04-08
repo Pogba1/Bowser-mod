@@ -1,6 +1,5 @@
 owner=SYR
 controller=SYR
-add_core=EGY
 add_core=IRQ
 add_core=SYR
 add_core=X29

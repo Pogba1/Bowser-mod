@@ -1,4 +1,5 @@
 owner=SOM
 controller=SOM
+add_core=SOM
 trade_goods = tropical_wood
 life_rating = 35
