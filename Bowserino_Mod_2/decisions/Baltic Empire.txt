@@ -18,22 +18,44 @@ political_decisions = {
 																		       }       
 																	  }
 															 }
+													   
 													  }
-													  
+													  BYE = {
+													         in_sphere = THIS
+															 all_core = {
+															             OR = {
+																		       owned_by = THIS
+																			   owner = {
+																			            in_sphere = THIS
+																			   }
+																		 }
+															 }
+													  }
 													  all_core = {
 													              owned_by = THIS
 													  }
 												}
 											     effect = {
+												           change_tag = BAT
 												           RYA = {
 														          annex_to = THIS
+																  all_core = {
+																              add_core = BAT
+																              remove_core = RYA
+																  }
+														   }
+														   BYE = {
+														          annex_to = THIS
+																  all_core = {
+																              add_core = BAT
+																			  remove_core = BYE
+																  }
 														   }
 														   add_accepted_culture = byelorussian
 														   add_accepted_culture = russian
 														   add_accepted_culture = finnish
 														   prestige = 30
 														   set_country_flag = baltic_empire
-												           change_tag = BAT
 												      }
 											}
 }
