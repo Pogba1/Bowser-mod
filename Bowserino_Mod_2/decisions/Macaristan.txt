@@ -1,0 +1,23 @@
+political_decisions = {
+                       
+					   integrate_iberians = {
+					                            
+												potential={
+												           tag=ADU
+														   NOT={has_country_flag=integrate_andalusians}
+														}
+												    allow={
+													       war=no
+														   all_core={owned_by=THIS}
+														   nationalism_n_imperialism
+														}
+												   effect={
+												           add_accepted_culture=andalucian
+														   add_accepted_culture=spanish
+														   add_accepted_culture=catalan
+														   prestige=30
+														   set_country_flag=integrate_andalusians
+														}
+										}
+					    }
+					   

@@ -1,11 +1,11 @@
-capital = 858
+capital = 860
 primary_culture = bosniak
 culture = greek
 religion = catholic
 government = absolute_monarchy
 plurality = 0
 nationalvalue = nv_order
-literacy = 0.176028
+literacy = 0.1124728
 
 civilized = yes
 

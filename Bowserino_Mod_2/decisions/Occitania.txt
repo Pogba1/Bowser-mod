@@ -1,0 +1,98 @@
+political_decisions = {
+
+                       integrate_tyrol = { 
+					   
+					                      potential = {
+										               tag=LOM
+													   NOT={has_country_flag=integrate_tyrol}
+													}
+										      allow = {
+                                                       state_n_government = 1
+ 													   war=no
+													   is_greater_power=yes
+													   X05 = { AND = {
+													                  vassal_of = THIS
+													                  exists = yes }
+															  }
+											        }
+												  effect = {
+												            X05 = { annex_to = LOM }
+															prestige = 10
+															set_country_flag = integrate_tyrol
+													}
+										}
+					   integrate_small_occitans = {
+                                                      potential = {
+                                                                   tag=LOM
+																   NOT={has_country_flag=integrate_small_occitans}
+																}
+														  allow = {
+														           state_n_government=1
+																   war=no
+																   is_greater_power=yes
+																   X04 = { AND ={
+																                 vassal_of = THIS
+																				 exists = yes 
+																		   }
+																   }
+																}
+														 effect = {
+														           set_country_flag=integrate_small_occitans
+																   X04 = { annex_to = THIS }
+																   prestige = 10
+																}
+											    }
+					   embrace_italian_influence={
+					                                
+													potential={ 
+													             tag=LOM
+																 has_country_flag = integrate_tyrol
+																 NOT = { has_country_flag=integrate_small_occitanians }
+																 NOT = { has_country_flag=embrace_italian_influence }
+													        }
+													    allow={
+														         is_greater_power = yes
+														         war=no
+														         nationalism_n_imperialism = 1
+																 NOT = { 
+																        FRA = {
+                                                                             any_core = {
+                                                                                         owner = {
+                                                                                                  tag = THIS
+                                                                                        }
+                                                                             }
+                                                                     }
+                                                             }
+														}
+															effect={
+															        X04 = { annex_to = FRA }																        
+															        primary_culture=occitan_italian
+																	add_accepted_culture=north_italian
+																	add_accepted_culture=south_italian
+																	add_accepted_culture=magnagreek
+																	SAR_720 = { assimilate = yes }
+																	AUS_726 = { assimilate = yes }
+																	AUS_729 = { assimilate = yes }
+																	734 = { assimilate = yes }
+																	738 = { assimilate = yes }
+																	739 = { assimilate = yes }
+																	740 = { assimilate = yes }
+																	746 = { assimilate = yes }
+																	prestige=30
+																	LOM = { 
+																	       all_core = {
+																		               limit = {
+																					            is_core = FRA
+																					   }
+																			           remove_core = THIS
+																		   }
+																	set_country_flag=embrace_italian_influence
+															}
+								                }
+                                }
+
+
+
+
+
+															
