@@ -967,7 +967,7 @@ political_decisions = {
             random_owned = { limit = { owner = { tag = VEN } } owner = { capital = 729 } }
         }
 
-        ai_will_do = { factor = 1 }
+        ai_will_do = { factor = 0 }
     }
 
     population_exchanges = {
