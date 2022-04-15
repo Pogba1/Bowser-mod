@@ -8,7 +8,6 @@ political_decisions = {
         }
 
         allow = {
-            civilization_progress = 0.5
             NOT = {    has_country_modifier = national_confusion }
             war = no
             NOT = { num_of_revolts = 1 }
@@ -77,8 +76,6 @@ political_decisions = {
     switch_to_order = {
         picture = switch_to_order
         potential = {
-            civilized = no
-            nationalvalue = nv_tradition
             NOT = { has_country_flag = switched_nv }
             has_country_flag = nv_change
         }
@@ -119,8 +116,6 @@ political_decisions = {
     switch_to_production = {
         picture = switch_to_productivity
         potential = {
-            civilized = no
-            nationalvalue = nv_tradition
             NOT = { has_country_flag = switched_nv }
             has_country_flag = nv_change
         }
@@ -161,8 +156,6 @@ political_decisions = {
     switch_to_autocracy = {
         picture = switch_to_autocracy
         potential = {
-            civilized = no
-            nationalvalue = nv_tradition
             NOT = { has_country_flag = switched_nv }
             has_country_flag = nv_change
         }
@@ -202,8 +195,6 @@ political_decisions = {
     switch_to_equality = {
         picture = switch_to_equality
         potential = {
-            civilized = no
-            nationalvalue = nv_tradition
             NOT = { has_country_flag = switched_nv }
             has_country_flag = nv_change
         }
@@ -244,8 +235,6 @@ political_decisions = {
     switch_to_liberty = {
         picture = switch_to_liberty
         potential = {
-            civilized = no
-            nationalvalue = nv_tradition
             NOT = { has_country_flag = switched_nv }
             has_country_flag = nv_change
         }

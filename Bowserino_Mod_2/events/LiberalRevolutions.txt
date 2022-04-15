@@ -475,7 +475,6 @@ country_event = {
             NOT = { terrain = montane_tundra }
             NOT = { terrain = boreal }
             NOT = { has_province_modifier = potato_blight }
-            NOT = { has_province_modifier = irish_potato_blight }
             OR = {
                 continent = europe
                 continent = north_america
@@ -528,8 +527,7 @@ country_event = {
                 NOT = { terrain = arctic }
                 NOT = { terrain = montane_tundra }
                 NOT = { terrain = boreal }
-                NOT = { has_province_modifier = potato_blight }
-                NOT = { has_province_modifier = irish_potato_blight }
+                NOT = { has_province_modifier = potato_blight } 
             }
             add_province_modifier = { name = potato_blight duration = 180 }
             state_scope = { any_pop = { consciousness = 3 } }
@@ -553,7 +551,6 @@ country_event = {
                     NOT = { terrain = montane_tundra }
                     NOT = { terrain = boreal }
                     NOT = { has_province_modifier = potato_blight }
-                    NOT = { has_province_modifier = irish_potato_blight }
                 }
             }
             any_owned = {
@@ -570,7 +567,6 @@ country_event = {
                     NOT = { terrain = montane_tundra }
                     NOT = { terrain = boreal }
                     NOT = { has_province_modifier = potato_blight }
-                    NOT = { has_province_modifier = irish_potato_blight }
                 }
                 add_province_modifier = { name = potato_blight duration = 365 }
             }
