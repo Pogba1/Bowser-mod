@@ -3,11 +3,8 @@ political_decisions = {
     gran_colombia_by_sword = {
         picture = unite_gran_colombia
         potential = {
-            OR = {
-                tag = CLM
-                tag = ECU
-                tag = VNZ
-            }
+            continent = south_america
+            NOT = { exists = PBC }
             NOT = {
                 exists = GCO
                 has_country_flag = we_shall_unite_by_sword
@@ -36,11 +33,8 @@ political_decisions = {
     form_gran_colombia = {
         picture = form_gran_colombia
         potential = {
-            OR = {
-                tag = CLM
-                tag = ECU
-                tag = VNZ
-            }
+            continent = south_america
+            NOT = { exists = PBC }
             NOT = { exists = GCO }
         }
 

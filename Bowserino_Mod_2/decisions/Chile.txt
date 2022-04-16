@@ -78,7 +78,7 @@ political_decisions = {
             potential = {
                 NOT = { is_canal_enabled = 3 }
                 NOT = { has_country_flag = valpariasoharbor_built }
-                tag = CHL
+                
                 owns = 2325
         }
 
@@ -95,7 +95,7 @@ political_decisions = {
                     duration = 3650
                 }
             }
-            add_country_modifier = { name = small_immigration_boom duration = 730 }
+            add_country_modifier = { name = small_immigration_boom duration = 3650 }
             prestige = 5
             set_country_flag = valpariasoharbor_built
         }

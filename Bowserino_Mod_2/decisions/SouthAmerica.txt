@@ -1,7 +1,7 @@
 political_decisions = {
     fatherland_volunteers = {
         potential = {
-            tag = BRZ
+            continent = south_america
             government = hms_government
             NOT = {
                 has_country_flag = pedro_said_it_best
@@ -22,7 +22,7 @@ political_decisions = {
     golden_law = {
         picture = golden_law
         potential = {
-            tag = BRZ
+            continent = south_america
             NOT = { has_country_flag = golden_law_passed }
             OR = {
                 government = hms_government
@@ -56,9 +56,10 @@ political_decisions = {
     build_teresina = {
         picture = build_teresina
         potential = {
-            tag = BRZ
+            continent = south_america
             year = 1852
             NOT = { has_country_flag = teresina_built }
+            owns = 2426
         }
         allow = {
             money = 5000
@@ -76,9 +77,10 @@ political_decisions = {
     build_belo_horizonte = {
         picture = build_belo_horizonte
         potential = {
-            tag = BRZ
+            continent = south_america
             year = 1870
             NOT = { has_country_flag = bh_built }
+            owns = 2442
         }
         allow = {
             money = 5000
@@ -97,10 +99,7 @@ political_decisions = {
 
     law_1420_of_general_common_education = {
         potential = {
-            OR = {
-                tag = ARG
-                tag = ARC
-            }
+            continent = south_america
             NOT = { has_country_flag = 1420_passed }
             NOT = { school_reforms = low_schools }
         }
@@ -201,15 +200,6 @@ political_decisions = {
         picture = new_life
         potential = {
             OR = {
-                is_culture_group = latin_american_cultures
-                is_culture_group = american_cultures
-                is_culture_group = african_diaspora_cultures
-                is_culture_group = native_american
-                primary_culture = australian
-                primary_culture = anglo_canadian
-                primary_culture = french_canadian
-            }
-            OR = {
                 continent = north_america
                 continent = south_america
                 primary_culture = australian
@@ -256,7 +246,6 @@ political_decisions = {
     brazilian_rubber_boom = {
         picture = rubber_cycle
         potential = {
-            tag = BRZ
             owns = 2550
             owns = 2419
             owns = 2532
@@ -483,12 +472,8 @@ political_decisions = {
     treaty_of_bogota = {
         picture = map_colombia
         potential = {
-            tag = BRZ
             NOT = { has_country_flag = treaty_of_bogota }
-            OR = {
-                is_vassal = no
-                overlord = { NOT = { primary_culture = north_andean } }
-            }
+            is_vassal = no
             NOT = { owns = 2401 }
             owns = 2403
             owns = 2407
@@ -515,10 +500,7 @@ political_decisions = {
     treaty_of_petropolis = {
         picture = treaty_of_petropolis_stamp
         potential = {
-            OR = {
-                primary_culture = south_andean
-                primary_culture = brazilian
-            }
+            continent = south_america
             2549 = { is_core = THIS }
             owns = 2549
             NOT = { has_country_flag = treaty_of_petropolis }
