@@ -16,14 +16,6 @@ political_decisions = {
                 }
             }
             OR = {
-                2391 = { empty = yes } #Neuquen
-                2392 = { empty = yes } #Viedma
-                2394 = { empty = yes } #Bariloche
-                2353 = { empty = yes } #Trenque Lauquen
-                2393 = { empty = yes } #Telen
-                2395 = { empty = yes } #Curaco
-            }
-            OR = {
                 owns = 2350 #azul
                 owns = 2381 #rio cuarto
                 owns = 2392 #Viedma
@@ -42,69 +34,38 @@ political_decisions = {
 
         effect = {
             set_country_flag = conquest_of_the_desert
-            prestige = 2
-            random_owned = {
-                limit = {
-                    2390 = { empty = yes } #San Rafael
-                    2389 = { empty = no } #Mendoza
+            prestige = 200
+            2390 = {
+                  add_core = THIS
+                  life_rating = 20
+                    
                 }
-                2390 = {
-                    secede_province = THIS
+
+            2384 = {
                     add_core = THIS
                     life_rating = 20
-                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
+                    
                 }
-            }
 
-            random_owned = {
-                limit = {
-                    2384 = { empty = yes } #Mercedes
-                    2383 = { empty = no } #San Luis
-                }
-                2384 = {
-                    secede_province = THIS
+            2382 = {
                     add_core = THIS
                     life_rating = 20
-                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
                 }
-            }
-
-            random_owned = {
-                limit = {
-                    2382 = { empty = yes } #Laboulaye
-                    2381 = { empty = no } #Rio Cuarto
-                }
-                2382 = {
-                    secede_province = THIS
+			
+			2353 = {
                     add_core = THIS
                     life_rating = 20
-                    any_pop = { limit = { is_primary_culture = no } literacy = -0.99 }
                 }
-            }
-
-            random_owned = {
-                limit = {
-                    2353 = { empty = yes } #Trenque Lauquen
-                    2354 = { empty = no } #Bahia Blanca
-                    2350 = { empty = no } #Azul
+				
+            2393 = {
+                    add_core = THIS
+                    life_rating = 20
                 }
-                2353 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
-            }
-            random_owned = {
-                limit = {
-                    2393 = { empty = yes } #Telen
-                    2353 = { empty = no } #Trenque Lauquen
-                    2355 = { empty = no } #Carmen
+            2395 = {
+                    add_core = THIS
+                    life_rating = 20
                 }
-                2393 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
-            }
-            random_owned = {
-                limit = {
-                    2395 = { empty = yes } #Curaco
-                    2393 = { empty = no } #Telen
-                }
-                2395 = { secede_province = THIS add_core = THIS any_pop = { limit = { is_primary_culture = no } literacy = -0.99 } }
-            }
+            
         }
         ai_will_do = { factor = 1 }
     }
